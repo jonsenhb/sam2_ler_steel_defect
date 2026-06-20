@@ -1,9 +1,11 @@
-title: SAM2-LER
+title: SAM2-LER — Label-Efficient Readout for Steel Defect Segmentation
 message: >-
   If you use this code or experiment results, please cite our Sensors paper (under review).
 authors:
-  - family-names: TBD
-    given-names: TBD
-repository-code: 'https://github.com/TBD/sam2-ler'
-version: 0.1.0
+  - family-names: Huang
+    given-names: Bin
+    orcid: 'https://orcid.org/0000-0001-5112-479X'
+repository-code: 'https://github.com/jonsenhb/sam2_ler_steel_defect'
+url: 'https://github.com/jonsenhb/sam2_ler_steel_defect'
+version: 1.0-submission
 date-released: '2026-06-20'
