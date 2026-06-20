@@ -1,0 +1,13 @@
+{
+  "dataset": "severstal",
+  "method": "sam2_linear",
+  "label": "SAM2(frozen)+Linear (Ours)",
+  "paper": "SAM2: Ravi et al., arXiv:2408.00714, 2024",
+  "frac": 0.05,
+  "n_images": 60,
+  "seed": 2,
+  "miou_global": 0.14226636077951077,
+  "per_class": {},
+  "best_epoch": 0,
+  "time_s": 36.6
+}

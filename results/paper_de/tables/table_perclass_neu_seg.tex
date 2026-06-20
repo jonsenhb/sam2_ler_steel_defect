@@ -1,0 +1,16 @@
+\begin{tabular}{lccccc}
+\toprule
+Method & background & inclusion & patches & scratches & mIoU \\
+\midrule
+SAM2(frozen)+LoRA+FPN (Ours) & 96.6 & 82.3 & 68.3 & 77.5 & 81.2 \\
+U-Net & 96.3 & 81.6 & 64.4 & 76.6 & 79.7 \\
+U-Net (ImageNet) & 96.6 & 83.1 & 66.6 & 77.1 & 80.8 \\
+DeepLabV3+ & 96.4 & 82.7 & 64.0 & 75.5 & 79.7 \\
+PSPNet & 96.3 & 83.0 & 64.4 & 73.0 & 79.2 \\
+SegFormer & 96.5 & 83.2 & 63.7 & 75.9 & 79.8 \\
+DDSNet* (UNet-R50+BndLoss) & 96.2 & 80.9 & 62.9 & 76.2 & 79.0 \\
+MFF-Metal* (UNet++-R34+MultiLoss) & 96.4 & 82.8 & 64.4 & 76.6 & 80.0 \\
+SME-DLV3+* (DLV3+-R50) & 96.5 & 82.7 & 64.0 & 75.5 & 79.7 \\
+Hybrid-Trans* (UPerNet-MiT-B4) & 96.4 & 81.9 & 62.3 & 77.0 & 79.4 \\
+\bottomrule
+\end{tabular}

@@ -1,0 +1,18 @@
+{
+  "dataset": "neu_seg",
+  "method": "sme_dlv3p_approx",
+  "label": "SME-DLV3+* (DLV3+-R50)",
+  "paper": "Zhang et al., PLOS One 2025 (approx. reproduction under our protocol)",
+  "frac": 0.05,
+  "n_images": 60,
+  "seed": 0,
+  "miou_global": 0.5554200389332173,
+  "per_class": {
+    "background": 0.9383018834740209,
+    "patches": 0.3914957524042876,
+    "inclusion": 0.6956737733388663,
+    "scratches": 0.5790905910564982
+  },
+  "best_epoch": 60,
+  "time_s": 32.8
+}

@@ -1,0 +1,19 @@
+{
+  "probe": "dsa_fpn",
+  "rows": [
+    {
+      "frac": 0.01,
+      "miou": 55.7367243575873,
+      "delta_miou": -0.5314481941020475,
+      "delta_patches": -2.3860194226155116,
+      "verdict": "NO-GO"
+    },
+    {
+      "frac": 0.1,
+      "miou": 72.69704021073487,
+      "delta_miou": 0.8791357113368434,
+      "delta_patches": 2.4821863311037546,
+      "verdict": "MAYBE"
+    }
+  ]
+}

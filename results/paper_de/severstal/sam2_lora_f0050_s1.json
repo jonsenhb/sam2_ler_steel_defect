@@ -1,0 +1,19 @@
+{
+  "dataset": "severstal",
+  "method": "sam2_lora",
+  "label": "SAM2(frozen)+LoRA+FPN (Ours)",
+  "paper": "SAM2: Ravi et al. 2024; LoRA: Hu et al., ICLR 2022",
+  "frac": 0.05,
+  "n_images": 60,
+  "seed": 1,
+  "miou_global": 0.20859323174623706,
+  "per_class": {
+    "background": 0.9936862355976039,
+    "class1": 0.0,
+    "class2": 0.0,
+    "class3": 0.4410879045895511,
+    "class4": 0.3932850223953971
+  },
+  "best_epoch": 21,
+  "time_s": 857.9
+}

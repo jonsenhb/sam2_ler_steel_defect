@@ -1,0 +1,19 @@
+{
+  "dataset": "severstal",
+  "method": "segformer",
+  "label": "SegFormer",
+  "paper": "Xie et al., NeurIPS 2021",
+  "frac": 0.05,
+  "n_images": 60,
+  "seed": 1,
+  "miou_global": 0.018857257886006815,
+  "per_class": {
+    "background": 0.9798778878237171,
+    "class1": 0.0,
+    "class2": 0.0,
+    "class3": 0.07369092352572601,
+    "class4": 0.001738108018301255
+  },
+  "best_epoch": 50,
+  "time_s": 33.0
+}

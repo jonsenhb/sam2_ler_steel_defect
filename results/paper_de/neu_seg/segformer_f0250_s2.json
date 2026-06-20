@@ -1,0 +1,18 @@
+{
+  "dataset": "neu_seg",
+  "method": "segformer",
+  "label": "SegFormer",
+  "paper": "Xie et al., NeurIPS 2021",
+  "frac": 0.25,
+  "n_images": 300,
+  "seed": 2,
+  "miou_global": 0.6515584220660672,
+  "per_class": {
+    "background": 0.9518684552530526,
+    "patches": 0.481833001841232,
+    "inclusion": 0.7778032460262185,
+    "scratches": 0.6950390183307511
+  },
+  "best_epoch": 35,
+  "time_s": 48.6
+}

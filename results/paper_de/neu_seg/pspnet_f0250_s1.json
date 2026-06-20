@@ -1,0 +1,18 @@
+{
+  "dataset": "neu_seg",
+  "method": "pspnet",
+  "label": "PSPNet",
+  "paper": "Zhao et al., CVPR 2017 (backbone: He et al., CVPR 2016)",
+  "frac": 0.25,
+  "n_images": 300,
+  "seed": 1,
+  "miou_global": 0.6650137207115823,
+  "per_class": {
+    "background": 0.9547732694105896,
+    "patches": 0.5276831200425866,
+    "inclusion": 0.8043563057018094,
+    "scratches": 0.6630017363903509
+  },
+  "best_epoch": 50,
+  "time_s": 33.8
+}

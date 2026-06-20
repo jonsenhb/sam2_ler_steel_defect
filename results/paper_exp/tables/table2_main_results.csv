@@ -1,0 +1,4 @@
+Method,Patches IoU (%),Inclusion IoU (%),Scratches IoU (%),mIoU (%),Params (M),Best Epoch,Best
+Std-LoRA,80.88,90.06,86.83,85.93,0.72,13,✓
+Conv-LoRA,77.86,90.79,87.75,85.47,0.73,12,
+ASI-Guided (Ours),78.06,90.09,85.64,84.60,0.90,4,

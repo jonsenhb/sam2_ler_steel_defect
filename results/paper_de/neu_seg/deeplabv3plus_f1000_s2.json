@@ -1,0 +1,18 @@
+{
+  "dataset": "neu_seg",
+  "method": "deeplabv3plus",
+  "label": "DeepLabV3+",
+  "paper": "Chen et al., ECCV 2018 (backbone: He et al., CVPR 2016)",
+  "frac": 1.0,
+  "n_images": 1200,
+  "seed": 2,
+  "miou_global": 0.7368487198118169,
+  "per_class": {
+    "background": 0.963328302145489,
+    "patches": 0.6359441837446176,
+    "inclusion": 0.821573960257181,
+    "scratches": 0.753028015433652
+  },
+  "best_epoch": 35,
+  "time_s": 212.1
+}

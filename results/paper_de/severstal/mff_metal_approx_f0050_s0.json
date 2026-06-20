@@ -1,0 +1,19 @@
+{
+  "dataset": "severstal",
+  "method": "mff_metal_approx",
+  "label": "MFF-Metal* (UNet++-R34+MultiLoss)",
+  "paper": "Li et al., J.Supercomputing 2025 (approx. reproduction under our protocol)",
+  "frac": 0.05,
+  "n_images": 60,
+  "seed": 0,
+  "miou_global": 0.08870671805748095,
+  "per_class": {
+    "background": 0.9914157588392433,
+    "class1": 0.0,
+    "class2": 0.0,
+    "class3": 0.23241556756104187,
+    "class4": 0.12241130466888195
+  },
+  "best_epoch": 60,
+  "time_s": 55.1
+}

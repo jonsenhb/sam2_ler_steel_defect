@@ -1,0 +1,19 @@
+{
+  "dataset": "severstal",
+  "method": "unet_imagenet",
+  "label": "U-Net (ImageNet)",
+  "paper": "Ronneberger et al., MICCAI 2015; ImageNet pretrain: Russakovsky et al., IJCV 2015",
+  "frac": 0.1,
+  "n_images": 120,
+  "seed": 1,
+  "miou_global": 0.15629912793071232,
+  "per_class": {
+    "background": 0.9926496905763758,
+    "class1": 0.023858921161825725,
+    "class2": 0.0,
+    "class3": 0.2737259612376913,
+    "class4": 0.3276116293233324
+  },
+  "best_epoch": 60,
+  "time_s": 44.9
+}

@@ -1,0 +1,19 @@
+{
+  "dataset": "severstal",
+  "method": "deeplabv3plus",
+  "label": "DeepLabV3+",
+  "paper": "Chen et al., ECCV 2018 (backbone: He et al., CVPR 2016)",
+  "frac": 0.05,
+  "n_images": 60,
+  "seed": 2,
+  "miou_global": 0.07458660195065855,
+  "per_class": {
+    "background": 0.9895771993514851,
+    "class1": 0.0,
+    "class2": 0.0,
+    "class3": 0.2513524607566986,
+    "class4": 0.04699394704593561
+  },
+  "best_epoch": 50,
+  "time_s": 33.5
+}

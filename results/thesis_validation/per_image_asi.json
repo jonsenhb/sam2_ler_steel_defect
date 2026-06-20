@@ -1,0 +1,5049 @@
+{
+  "per_image": [
+    {
+      "index": 0,
+      "class_name": "patches",
+      "separability": 0.8599461066594185,
+      "iou": 0.560995876789093
+    },
+    {
+      "index": 1,
+      "class_name": "patches",
+      "separability": 0.9647861585015642,
+      "iou": 0.42943304777145386
+    },
+    {
+      "index": 2,
+      "class_name": "patches",
+      "separability": 0.9313419544763191,
+      "iou": 0.6116504669189453
+    },
+    {
+      "index": 3,
+      "class_name": "patches",
+      "separability": 0.8188644696324406,
+      "iou": 0.5279034972190857
+    },
+    {
+      "index": 4,
+      "class_name": "patches",
+      "separability": 0.8931150999987317,
+      "iou": 0.6378481984138489
+    },
+    {
+      "index": 5,
+      "class_name": "patches",
+      "separability": 0.9596500608445842,
+      "iou": 0.7059406042098999
+    },
+    {
+      "index": 6,
+      "class_name": "patches",
+      "separability": 0.7962071262619371,
+      "iou": 0.7169603705406189
+    },
+    {
+      "index": 7,
+      "class_name": "patches",
+      "separability": 0.9165678865111607,
+      "iou": 0.7051671743392944
+    },
+    {
+      "index": 8,
+      "class_name": "patches",
+      "separability": 0.8471042168834243,
+      "iou": 0.5598958134651184
+    },
+    {
+      "index": 9,
+      "class_name": "patches",
+      "separability": 0.838143357537221,
+      "iou": 0.5881341099739075
+    },
+    {
+      "index": 10,
+      "class_name": "patches",
+      "separability": 0.530638360407841,
+      "iou": 0.7928964495658875
+    },
+    {
+      "index": 11,
+      "class_name": "patches",
+      "separability": 0.3622820794410743,
+      "iou": 0.7659817337989807
+    },
+    {
+      "index": 12,
+      "class_name": "patches",
+      "separability": 0.3597721323252798,
+      "iou": 0.8065718412399292
+    },
+    {
+      "index": 13,
+      "class_name": "patches",
+      "separability": 0.608090165962495,
+      "iou": 0.7178423404693604
+    },
+    {
+      "index": 14,
+      "class_name": "patches",
+      "separability": 0.35578511828490644,
+      "iou": 0.7914198040962219
+    },
+    {
+      "index": 15,
+      "class_name": "patches",
+      "separability": 0.29598199554584614,
+      "iou": 0.7812702655792236
+    },
+    {
+      "index": 16,
+      "class_name": "patches",
+      "separability": 0.5453297816035635,
+      "iou": 0.7220866084098816
+    },
+    {
+      "index": 17,
+      "class_name": "patches",
+      "separability": 0.30343183208829466,
+      "iou": 0.7491657137870789
+    },
+    {
+      "index": 18,
+      "class_name": "patches",
+      "separability": 0.40306121562565045,
+      "iou": 0.4938962459564209
+    },
+    {
+      "index": 19,
+      "class_name": "patches",
+      "separability": 0.22916101654206075,
+      "iou": 0.36626818776130676
+    },
+    {
+      "index": 20,
+      "class_name": "patches",
+      "separability": 0.13718479807406636,
+      "iou": 0.7491434812545776
+    },
+    {
+      "index": 21,
+      "class_name": "patches",
+      "separability": 0.23449228106317108,
+      "iou": 0.6958081126213074
+    },
+    {
+      "index": 22,
+      "class_name": "patches",
+      "separability": 0.19103701913271143,
+      "iou": 0.5872666239738464
+    },
+    {
+      "index": 23,
+      "class_name": "patches",
+      "separability": 0.17349655480484782,
+      "iou": 0.5668181777000427
+    },
+    {
+      "index": 24,
+      "class_name": "patches",
+      "separability": 0.22742321267244187,
+      "iou": 0.7849912047386169
+    },
+    {
+      "index": 25,
+      "class_name": "patches",
+      "separability": 0.6511006492342194,
+      "iou": 0.6305908560752869
+    },
+    {
+      "index": 26,
+      "class_name": "patches",
+      "separability": 0.4478537648302556,
+      "iou": 0.6146907210350037
+    },
+    {
+      "index": 27,
+      "class_name": "patches",
+      "separability": 0.27993014114359305,
+      "iou": 0.6526255011558533
+    },
+    {
+      "index": 28,
+      "class_name": "patches",
+      "separability": 0.2021423281712552,
+      "iou": 0.6784859895706177
+    },
+    {
+      "index": 29,
+      "class_name": "patches",
+      "separability": 0.10436476472347013,
+      "iou": 0.8220669627189636
+    },
+    {
+      "index": 30,
+      "class_name": "patches",
+      "separability": 0.2512865471520284,
+      "iou": 0.6263844966888428
+    },
+    {
+      "index": 31,
+      "class_name": "patches",
+      "separability": 0.2824517029818878,
+      "iou": 0.5283712148666382
+    },
+    {
+      "index": 32,
+      "class_name": "patches",
+      "separability": 0.3270832145452954,
+      "iou": 0.6865241527557373
+    },
+    {
+      "index": 33,
+      "class_name": "patches",
+      "separability": 0.5016820254938718,
+      "iou": 0.43801119923591614
+    },
+    {
+      "index": 34,
+      "class_name": "patches",
+      "separability": 0.15737402174028883,
+      "iou": 0.798693060874939
+    },
+    {
+      "index": 35,
+      "class_name": "patches",
+      "separability": 0.11237363844036245,
+      "iou": 0.7801411747932434
+    },
+    {
+      "index": 36,
+      "class_name": "patches",
+      "separability": 0.06278471925439327,
+      "iou": 0.6776216626167297
+    },
+    {
+      "index": 37,
+      "class_name": "patches",
+      "separability": 0.10531818692703142,
+      "iou": 0.7560849785804749
+    },
+    {
+      "index": 38,
+      "class_name": "patches",
+      "separability": 0.24531647370112292,
+      "iou": 0.5381760597229004
+    },
+    {
+      "index": 39,
+      "class_name": "patches",
+      "separability": 0.4872891191597267,
+      "iou": 0.7568956017494202
+    },
+    {
+      "index": 40,
+      "class_name": "patches",
+      "separability": 0.23859227232141828,
+      "iou": 0.5727872848510742
+    },
+    {
+      "index": 41,
+      "class_name": "patches",
+      "separability": 0.6851734026338256,
+      "iou": 0.28383028507232666
+    },
+    {
+      "index": 42,
+      "class_name": "patches",
+      "separability": 0.2540250433816062,
+      "iou": 0.20297029614448547
+    },
+    {
+      "index": 43,
+      "class_name": "patches",
+      "separability": 0.31103021620908056,
+      "iou": 0.6921144127845764
+    },
+    {
+      "index": 44,
+      "class_name": "patches",
+      "separability": 0.4978754209786565,
+      "iou": 0.7357197403907776
+    },
+    {
+      "index": 45,
+      "class_name": "patches",
+      "separability": 0.3088405612645927,
+      "iou": 0.7576594352722168
+    },
+    {
+      "index": 46,
+      "class_name": "patches",
+      "separability": 0.33366856249292864,
+      "iou": 0.7673708200454712
+    },
+    {
+      "index": 47,
+      "class_name": "patches",
+      "separability": 0.3199860144423136,
+      "iou": 0.7464768886566162
+    },
+    {
+      "index": 48,
+      "class_name": "patches",
+      "separability": 0.43148994176827044,
+      "iou": 0.7565776109695435
+    },
+    {
+      "index": 49,
+      "class_name": "patches",
+      "separability": 0.3900524055773079,
+      "iou": 0.8626518845558167
+    },
+    {
+      "index": 50,
+      "class_name": "patches",
+      "separability": 0.29579997543679504,
+      "iou": 0.7206920385360718
+    },
+    {
+      "index": 51,
+      "class_name": "patches",
+      "separability": 0.4777627698975648,
+      "iou": 0.7627556920051575
+    },
+    {
+      "index": 52,
+      "class_name": "patches",
+      "separability": 0.3235998400481044,
+      "iou": 0.6218181848526001
+    },
+    {
+      "index": 53,
+      "class_name": "patches",
+      "separability": 0.43530429476361215,
+      "iou": 0.755972683429718
+    },
+    {
+      "index": 54,
+      "class_name": "patches",
+      "separability": 0.37478592621280227,
+      "iou": 0.8213315010070801
+    },
+    {
+      "index": 55,
+      "class_name": "patches",
+      "separability": 0.3015673479170199,
+      "iou": 0.4759075939655304
+    },
+    {
+      "index": 56,
+      "class_name": "patches",
+      "separability": 0.71000824351496,
+      "iou": 0.8125496506690979
+    },
+    {
+      "index": 57,
+      "class_name": "patches",
+      "separability": 0.8113305783001303,
+      "iou": 0.4607607126235962
+    },
+    {
+      "index": 58,
+      "class_name": "patches",
+      "separability": 0.5791025907055952,
+      "iou": 0.822730541229248
+    },
+    {
+      "index": 59,
+      "class_name": "patches",
+      "separability": 0.5160415090376007,
+      "iou": 0.7334611415863037
+    },
+    {
+      "index": 60,
+      "class_name": "patches",
+      "separability": 0.26741140969359994,
+      "iou": 0.7267467975616455
+    },
+    {
+      "index": 61,
+      "class_name": "patches",
+      "separability": 0.4418080996143067,
+      "iou": 0.6679603457450867
+    },
+    {
+      "index": 62,
+      "class_name": "patches",
+      "separability": 0.7929719255369733,
+      "iou": 0.752136766910553
+    },
+    {
+      "index": 63,
+      "class_name": "patches",
+      "separability": 0.5069737758516586,
+      "iou": 0.796602189540863
+    },
+    {
+      "index": 64,
+      "class_name": "patches",
+      "separability": 0.4036754356337252,
+      "iou": 0.8543943166732788
+    },
+    {
+      "index": 65,
+      "class_name": "patches",
+      "separability": 0.43128594067185516,
+      "iou": 0.8546649217605591
+    },
+    {
+      "index": 66,
+      "class_name": "patches",
+      "separability": 0.46035884817369355,
+      "iou": 0.6048997640609741
+    },
+    {
+      "index": 67,
+      "class_name": "patches",
+      "separability": 0.8188059899160693,
+      "iou": 0.7038916945457458
+    },
+    {
+      "index": 68,
+      "class_name": "patches",
+      "separability": 0.6960916135344032,
+      "iou": 0.7955449223518372
+    },
+    {
+      "index": 69,
+      "class_name": "patches",
+      "separability": 0.7722184776342117,
+      "iou": 0.1794966757297516
+    },
+    {
+      "index": 70,
+      "class_name": "patches",
+      "separability": 0.5931644645646773,
+      "iou": 0.7643914222717285
+    },
+    {
+      "index": 71,
+      "class_name": "patches",
+      "separability": 0.5859901228657548,
+      "iou": 0.7325842976570129
+    },
+    {
+      "index": 72,
+      "class_name": "patches",
+      "separability": 0.5181582382750046,
+      "iou": 0.8679692149162292
+    },
+    {
+      "index": 73,
+      "class_name": "patches",
+      "separability": 0.4116714894875823,
+      "iou": 0.8350821733474731
+    },
+    {
+      "index": 74,
+      "class_name": "patches",
+      "separability": 0.25819379930890657,
+      "iou": 0.7633721828460693
+    },
+    {
+      "index": 75,
+      "class_name": "patches",
+      "separability": 0.28878508703872774,
+      "iou": 0.8043004274368286
+    },
+    {
+      "index": 76,
+      "class_name": "patches",
+      "separability": 0.4798324098236096,
+      "iou": 0.8722953796386719
+    },
+    {
+      "index": 77,
+      "class_name": "patches",
+      "separability": 0.5145632486646007,
+      "iou": 0.6072494387626648
+    },
+    {
+      "index": 78,
+      "class_name": "patches",
+      "separability": 0.3933290726405112,
+      "iou": 0.692630410194397
+    },
+    {
+      "index": 79,
+      "class_name": "patches",
+      "separability": 0.19388467625387454,
+      "iou": 0.7209242582321167
+    },
+    {
+      "index": 80,
+      "class_name": "patches",
+      "separability": 0.2861942904833075,
+      "iou": 0.7651203870773315
+    },
+    {
+      "index": 81,
+      "class_name": "patches",
+      "separability": 0.6040266557497388,
+      "iou": 0.7088607549667358
+    },
+    {
+      "index": 82,
+      "class_name": "patches",
+      "separability": 0.44574558261055824,
+      "iou": 0.8013828992843628
+    },
+    {
+      "index": 83,
+      "class_name": "patches",
+      "separability": 0.4219669948540831,
+      "iou": 0.7731508612632751
+    },
+    {
+      "index": 84,
+      "class_name": "patches",
+      "separability": 0.4971261937149999,
+      "iou": 0.7519736886024475
+    },
+    {
+      "index": 85,
+      "class_name": "patches",
+      "separability": 0.5231554166010631,
+      "iou": 0.6769437193870544
+    },
+    {
+      "index": 86,
+      "class_name": "patches",
+      "separability": 0.4799352483781372,
+      "iou": 0.7365047335624695
+    },
+    {
+      "index": 87,
+      "class_name": "patches",
+      "separability": 0.49686147676310716,
+      "iou": 0.5820463299751282
+    },
+    {
+      "index": 88,
+      "class_name": "patches",
+      "separability": 1.0147143277433401,
+      "iou": 0.6910755038261414
+    },
+    {
+      "index": 89,
+      "class_name": "patches",
+      "separability": 0.7737588872873246,
+      "iou": 0.6539618968963623
+    },
+    {
+      "index": 90,
+      "class_name": "patches",
+      "separability": 0.6989813948727486,
+      "iou": 0.5456204414367676
+    },
+    {
+      "index": 91,
+      "class_name": "patches",
+      "separability": 0.549888275143879,
+      "iou": 0.7650822401046753
+    },
+    {
+      "index": 92,
+      "class_name": "patches",
+      "separability": 0.5806589302820737,
+      "iou": 0.6739811897277832
+    },
+    {
+      "index": 93,
+      "class_name": "patches",
+      "separability": 0.5821759105096324,
+      "iou": 0.737999439239502
+    },
+    {
+      "index": 94,
+      "class_name": "patches",
+      "separability": 0.5690225313855365,
+      "iou": 0.7053260207176208
+    },
+    {
+      "index": 95,
+      "class_name": "patches",
+      "separability": 0.6980952354322884,
+      "iou": 0.5346136689186096
+    },
+    {
+      "index": 96,
+      "class_name": "patches",
+      "separability": 0.7549335722544139,
+      "iou": 0.7724719047546387
+    },
+    {
+      "index": 97,
+      "class_name": "patches",
+      "separability": 0.19905152573683196,
+      "iou": 0.8261833786964417
+    },
+    {
+      "index": 98,
+      "class_name": "patches",
+      "separability": 0.25251058033839774,
+      "iou": 0.7940474152565002
+    },
+    {
+      "index": 99,
+      "class_name": "patches",
+      "separability": 0.28705130565899944,
+      "iou": 0.7349609136581421
+    },
+    {
+      "index": 100,
+      "class_name": "patches",
+      "separability": 0.2911624176286742,
+      "iou": 0.7840240597724915
+    },
+    {
+      "index": 101,
+      "class_name": "patches",
+      "separability": 0.20633874989675205,
+      "iou": 0.5729990005493164
+    },
+    {
+      "index": 102,
+      "class_name": "patches",
+      "separability": 0.24189673119993196,
+      "iou": 0.8343784809112549
+    },
+    {
+      "index": 103,
+      "class_name": "patches",
+      "separability": 0.20438943679912072,
+      "iou": 0.8058720231056213
+    },
+    {
+      "index": 104,
+      "class_name": "patches",
+      "separability": 0.2666229534967944,
+      "iou": 0.7393373250961304
+    },
+    {
+      "index": 105,
+      "class_name": "patches",
+      "separability": 0.23836246241745132,
+      "iou": 0.8047410845756531
+    },
+    {
+      "index": 106,
+      "class_name": "patches",
+      "separability": 0.8309963013813547,
+      "iou": 0.5003579258918762
+    },
+    {
+      "index": 107,
+      "class_name": "patches",
+      "separability": 0.3033190559534764,
+      "iou": 0.5409438014030457
+    },
+    {
+      "index": 108,
+      "class_name": "patches",
+      "separability": 0.2889079667368231,
+      "iou": 0.6867167949676514
+    },
+    {
+      "index": 109,
+      "class_name": "patches",
+      "separability": 0.32131001332717163,
+      "iou": 0.5376977920532227
+    },
+    {
+      "index": 110,
+      "class_name": "patches",
+      "separability": 0.2990706816356448,
+      "iou": 0.7476701736450195
+    },
+    {
+      "index": 111,
+      "class_name": "patches",
+      "separability": 0.5499235778855452,
+      "iou": 0.729476809501648
+    },
+    {
+      "index": 112,
+      "class_name": "patches",
+      "separability": 0.298238573867516,
+      "iou": 0.7585933208465576
+    },
+    {
+      "index": 113,
+      "class_name": "patches",
+      "separability": 0.4278457463525698,
+      "iou": 0.7986251711845398
+    },
+    {
+      "index": 114,
+      "class_name": "patches",
+      "separability": 0.3257026611471939,
+      "iou": 0.825874388217926
+    },
+    {
+      "index": 115,
+      "class_name": "patches",
+      "separability": 0.3538469638914969,
+      "iou": 0.6938775777816772
+    },
+    {
+      "index": 116,
+      "class_name": "patches",
+      "separability": 0.3816182777076271,
+      "iou": 0.808057963848114
+    },
+    {
+      "index": 117,
+      "class_name": "patches",
+      "separability": 0.454313952919518,
+      "iou": 0.7379330992698669
+    },
+    {
+      "index": 118,
+      "class_name": "patches",
+      "separability": 0.357170343477221,
+      "iou": 0.8257055282592773
+    },
+    {
+      "index": 119,
+      "class_name": "patches",
+      "separability": 0.42753175229413304,
+      "iou": 0.8267300724983215
+    },
+    {
+      "index": 120,
+      "class_name": "patches",
+      "separability": 0.35753981918237804,
+      "iou": 0.7128564119338989
+    },
+    {
+      "index": 121,
+      "class_name": "patches",
+      "separability": 0.3422254288550782,
+      "iou": 0.7671623826026917
+    },
+    {
+      "index": 122,
+      "class_name": "patches",
+      "separability": 0.5821235528310957,
+      "iou": 0.7431121468544006
+    },
+    {
+      "index": 123,
+      "class_name": "patches",
+      "separability": 0.5351635064651887,
+      "iou": 0.7819826006889343
+    },
+    {
+      "index": 124,
+      "class_name": "patches",
+      "separability": 0.60343282192676,
+      "iou": 0.663551390171051
+    },
+    {
+      "index": 125,
+      "class_name": "patches",
+      "separability": 0.7740228398734859,
+      "iou": 0.6979969143867493
+    },
+    {
+      "index": 126,
+      "class_name": "patches",
+      "separability": 0.4426015740532822,
+      "iou": 0.5014716982841492
+    },
+    {
+      "index": 127,
+      "class_name": "patches",
+      "separability": 0.47992245920473275,
+      "iou": 0.6421886086463928
+    },
+    {
+      "index": 128,
+      "class_name": "patches",
+      "separability": 0.47403077571397745,
+      "iou": 0.65450119972229
+    },
+    {
+      "index": 129,
+      "class_name": "patches",
+      "separability": 0.535456994522268,
+      "iou": 0.7745664715766907
+    },
+    {
+      "index": 130,
+      "class_name": "patches",
+      "separability": 0.23420852274573456,
+      "iou": 0.8217329382896423
+    },
+    {
+      "index": 131,
+      "class_name": "patches",
+      "separability": 0.5573401437938734,
+      "iou": 0.672722578048706
+    },
+    {
+      "index": 132,
+      "class_name": "patches",
+      "separability": 0.1934270032057393,
+      "iou": 0.7623254656791687
+    },
+    {
+      "index": 133,
+      "class_name": "patches",
+      "separability": 0.3057937024453811,
+      "iou": 0.7830941081047058
+    },
+    {
+      "index": 134,
+      "class_name": "patches",
+      "separability": 0.3128073040374134,
+      "iou": 0.6767352223396301
+    },
+    {
+      "index": 135,
+      "class_name": "patches",
+      "separability": 1.3357872805734676,
+      "iou": 0.5017921328544617
+    },
+    {
+      "index": 136,
+      "class_name": "patches",
+      "separability": 1.086705945736191,
+      "iou": 0.47386759519577026
+    },
+    {
+      "index": 137,
+      "class_name": "patches",
+      "separability": 1.1030790700812034,
+      "iou": 0.4522727131843567
+    },
+    {
+      "index": 138,
+      "class_name": "patches",
+      "separability": 0.896937819146285,
+      "iou": 0.39306357502937317
+    },
+    {
+      "index": 139,
+      "class_name": "patches",
+      "separability": 0.7879990588478328,
+      "iou": 0.33633092045783997
+    },
+    {
+      "index": 140,
+      "class_name": "patches",
+      "separability": 1.0071167276241837,
+      "iou": 0.3919716775417328
+    },
+    {
+      "index": 141,
+      "class_name": "patches",
+      "separability": 1.5118873717827666,
+      "iou": 0.28012049198150635
+    },
+    {
+      "index": 142,
+      "class_name": "patches",
+      "separability": 0.9628501726528176,
+      "iou": 0.5450325012207031
+    },
+    {
+      "index": 143,
+      "class_name": "patches",
+      "separability": 0.966549942368515,
+      "iou": 0.5159574747085571
+    },
+    {
+      "index": 144,
+      "class_name": "patches",
+      "separability": 0.7119917978765268,
+      "iou": 0.8090729713439941
+    },
+    {
+      "index": 145,
+      "class_name": "patches",
+      "separability": 0.606598131534336,
+      "iou": 0.7958456873893738
+    },
+    {
+      "index": 146,
+      "class_name": "patches",
+      "separability": 0.5870686205275883,
+      "iou": 0.8006507158279419
+    },
+    {
+      "index": 147,
+      "class_name": "patches",
+      "separability": 0.669537356118168,
+      "iou": 0.8009015917778015
+    },
+    {
+      "index": 148,
+      "class_name": "patches",
+      "separability": 0.9761684246500594,
+      "iou": 0.687912106513977
+    },
+    {
+      "index": 149,
+      "class_name": "patches",
+      "separability": 0.3865435291786159,
+      "iou": 0.728615403175354
+    },
+    {
+      "index": 150,
+      "class_name": "patches",
+      "separability": 0.27410873134920183,
+      "iou": 0.8475213646888733
+    },
+    {
+      "index": 151,
+      "class_name": "patches",
+      "separability": 0.2623390418606008,
+      "iou": 0.8699556589126587
+    },
+    {
+      "index": 152,
+      "class_name": "patches",
+      "separability": 0.15487538978570797,
+      "iou": 0.8780996799468994
+    },
+    {
+      "index": 153,
+      "class_name": "patches",
+      "separability": 0.2513380548772097,
+      "iou": 0.7913418412208557
+    },
+    {
+      "index": 154,
+      "class_name": "patches",
+      "separability": 0.47332387821279037,
+      "iou": 0.6789994835853577
+    },
+    {
+      "index": 155,
+      "class_name": "patches",
+      "separability": 0.41204093546104054,
+      "iou": 0.5774438977241516
+    },
+    {
+      "index": 156,
+      "class_name": "patches",
+      "separability": 0.5144961085480696,
+      "iou": 0.7583135366439819
+    },
+    {
+      "index": 157,
+      "class_name": "patches",
+      "separability": 0.5697749783966317,
+      "iou": 0.7634212970733643
+    },
+    {
+      "index": 158,
+      "class_name": "patches",
+      "separability": 0.34758742835850415,
+      "iou": 0.584782600402832
+    },
+    {
+      "index": 159,
+      "class_name": "patches",
+      "separability": 0.36469307465967576,
+      "iou": 0.7107102274894714
+    },
+    {
+      "index": 160,
+      "class_name": "patches",
+      "separability": 0.2504933355196055,
+      "iou": 0.8801451921463013
+    },
+    {
+      "index": 161,
+      "class_name": "patches",
+      "separability": 0.3410017773525075,
+      "iou": 0.8256725668907166
+    },
+    {
+      "index": 162,
+      "class_name": "patches",
+      "separability": 0.311684514773888,
+      "iou": 0.8277711272239685
+    },
+    {
+      "index": 163,
+      "class_name": "patches",
+      "separability": 0.17464031303268754,
+      "iou": 0.8989570736885071
+    },
+    {
+      "index": 164,
+      "class_name": "patches",
+      "separability": 0.23026496450190664,
+      "iou": 0.8574132919311523
+    },
+    {
+      "index": 165,
+      "class_name": "patches",
+      "separability": 0.34481169147687263,
+      "iou": 0.6125965714454651
+    },
+    {
+      "index": 166,
+      "class_name": "patches",
+      "separability": 0.3680590232890358,
+      "iou": 0.5852972269058228
+    },
+    {
+      "index": 167,
+      "class_name": "patches",
+      "separability": 0.2372080449283092,
+      "iou": 0.8623577952384949
+    },
+    {
+      "index": 168,
+      "class_name": "patches",
+      "separability": 0.7542332755981869,
+      "iou": 0.7796480655670166
+    },
+    {
+      "index": 169,
+      "class_name": "patches",
+      "separability": 0.46979774346795344,
+      "iou": 0.7714478969573975
+    },
+    {
+      "index": 170,
+      "class_name": "patches",
+      "separability": 0.650057165043738,
+      "iou": 0.8502050042152405
+    },
+    {
+      "index": 171,
+      "class_name": "patches",
+      "separability": 0.7323693398323332,
+      "iou": 0.7358916401863098
+    },
+    {
+      "index": 172,
+      "class_name": "patches",
+      "separability": 0.6449319741663798,
+      "iou": 0.37222573161125183
+    },
+    {
+      "index": 173,
+      "class_name": "patches",
+      "separability": 0.819341782689062,
+      "iou": 0.6527196764945984
+    },
+    {
+      "index": 174,
+      "class_name": "patches",
+      "separability": 0.7336697466968022,
+      "iou": 0.741752564907074
+    },
+    {
+      "index": 175,
+      "class_name": "patches",
+      "separability": 0.5281153934493592,
+      "iou": 0.7952095866203308
+    },
+    {
+      "index": 176,
+      "class_name": "patches",
+      "separability": 0.7450501444505866,
+      "iou": 0.8767527937889099
+    },
+    {
+      "index": 177,
+      "class_name": "patches",
+      "separability": 0.6728607885417444,
+      "iou": 0.6884531378746033
+    },
+    {
+      "index": 178,
+      "class_name": "patches",
+      "separability": 0.874979491038747,
+      "iou": 0.24439288675785065
+    },
+    {
+      "index": 179,
+      "class_name": "patches",
+      "separability": 0.7001377791727937,
+      "iou": 0.8094895482063293
+    },
+    {
+      "index": 180,
+      "class_name": "patches",
+      "separability": 0.36689270191887213,
+      "iou": 0.5196837186813354
+    },
+    {
+      "index": 181,
+      "class_name": "patches",
+      "separability": 0.3630297042534055,
+      "iou": 0.6945436000823975
+    },
+    {
+      "index": 182,
+      "class_name": "patches",
+      "separability": 0.3500418450323637,
+      "iou": 0.4027522802352905
+    },
+    {
+      "index": 183,
+      "class_name": "patches",
+      "separability": 0.4767120987501574,
+      "iou": 0.8382639288902283
+    },
+    {
+      "index": 184,
+      "class_name": "patches",
+      "separability": 0.42029094935595696,
+      "iou": 0.8446133732795715
+    },
+    {
+      "index": 185,
+      "class_name": "patches",
+      "separability": 0.5429165703258839,
+      "iou": 0.7931654453277588
+    },
+    {
+      "index": 186,
+      "class_name": "patches",
+      "separability": 0.8812425475142069,
+      "iou": 0.7560137510299683
+    },
+    {
+      "index": 187,
+      "class_name": "patches",
+      "separability": 0.831172950321775,
+      "iou": 0.746314525604248
+    },
+    {
+      "index": 188,
+      "class_name": "patches",
+      "separability": 0.6968350502298655,
+      "iou": 0.6652949452400208
+    },
+    {
+      "index": 189,
+      "class_name": "patches",
+      "separability": 0.3465561626338493,
+      "iou": 0.8640015125274658
+    },
+    {
+      "index": 190,
+      "class_name": "patches",
+      "separability": 0.2793812466370995,
+      "iou": 0.3011149764060974
+    },
+    {
+      "index": 191,
+      "class_name": "patches",
+      "separability": 0.5372634361737583,
+      "iou": 0.8564198613166809
+    },
+    {
+      "index": 192,
+      "class_name": "patches",
+      "separability": 0.4951137541940667,
+      "iou": 0.8596571683883667
+    },
+    {
+      "index": 193,
+      "class_name": "patches",
+      "separability": 0.6329216456748474,
+      "iou": 0.499506413936615
+    },
+    {
+      "index": 194,
+      "class_name": "patches",
+      "separability": 0.7899641560789107,
+      "iou": 0.7339080572128296
+    },
+    {
+      "index": 195,
+      "class_name": "patches",
+      "separability": 0.5940066985718752,
+      "iou": 0.831416130065918
+    },
+    {
+      "index": 196,
+      "class_name": "patches",
+      "separability": 0.2568421724125238,
+      "iou": 0.8244709372520447
+    },
+    {
+      "index": 197,
+      "class_name": "patches",
+      "separability": 0.2194540971722692,
+      "iou": 0.8813890814781189
+    },
+    {
+      "index": 198,
+      "class_name": "patches",
+      "separability": 0.2523200798389758,
+      "iou": 0.8445805311203003
+    },
+    {
+      "index": 199,
+      "class_name": "patches",
+      "separability": 0.29450050195432304,
+      "iou": 0.8395728468894958
+    },
+    {
+      "index": 200,
+      "class_name": "inclusion",
+      "separability": 0.2571494812108895,
+      "iou": 0.6044167876243591
+    },
+    {
+      "index": 201,
+      "class_name": "inclusion",
+      "separability": 0.1970186805190087,
+      "iou": 0.6083551645278931
+    },
+    {
+      "index": 202,
+      "class_name": "inclusion",
+      "separability": 0.21490043072572027,
+      "iou": 0.7281488180160522
+    },
+    {
+      "index": 203,
+      "class_name": "inclusion",
+      "separability": 0.4203858170122575,
+      "iou": 0.80531245470047
+    },
+    {
+      "index": 204,
+      "class_name": "inclusion",
+      "separability": 0.18068992027688144,
+      "iou": 0.6699259877204895
+    },
+    {
+      "index": 205,
+      "class_name": "inclusion",
+      "separability": 0.20828651616158453,
+      "iou": 0.8409027457237244
+    },
+    {
+      "index": 206,
+      "class_name": "inclusion",
+      "separability": 0.38115237721283524,
+      "iou": 0.9005020260810852
+    },
+    {
+      "index": 207,
+      "class_name": "inclusion",
+      "separability": 0.3142994529091564,
+      "iou": 0.8014677166938782
+    },
+    {
+      "index": 208,
+      "class_name": "inclusion",
+      "separability": 0.30870721199924905,
+      "iou": 0.82863849401474
+    },
+    {
+      "index": 209,
+      "class_name": "inclusion",
+      "separability": 0.2515179985681865,
+      "iou": 0.7386229634284973
+    },
+    {
+      "index": 210,
+      "class_name": "inclusion",
+      "separability": 0.3371492959310693,
+      "iou": 0.8049800395965576
+    },
+    {
+      "index": 211,
+      "class_name": "inclusion",
+      "separability": 0.2697731467009403,
+      "iou": 0.6174160242080688
+    },
+    {
+      "index": 212,
+      "class_name": "inclusion",
+      "separability": 0.26792037377739975,
+      "iou": 0.42134514451026917
+    },
+    {
+      "index": 213,
+      "class_name": "inclusion",
+      "separability": 0.3349588214457078,
+      "iou": 0.40323275327682495
+    },
+    {
+      "index": 214,
+      "class_name": "inclusion",
+      "separability": 0.3398920898920899,
+      "iou": 0.8031855225563049
+    },
+    {
+      "index": 215,
+      "class_name": "inclusion",
+      "separability": 0.33016831809095315,
+      "iou": 0.8180912137031555
+    },
+    {
+      "index": 216,
+      "class_name": "inclusion",
+      "separability": 0.21420602071929004,
+      "iou": 0.7379821538925171
+    },
+    {
+      "index": 217,
+      "class_name": "inclusion",
+      "separability": 0.21143454689891986,
+      "iou": 0.34704697132110596
+    },
+    {
+      "index": 218,
+      "class_name": "inclusion",
+      "separability": 0.2179692983838984,
+      "iou": 0.7836639881134033
+    },
+    {
+      "index": 219,
+      "class_name": "inclusion",
+      "separability": 0.24170636720306818,
+      "iou": 0.7849153280258179
+    },
+    {
+      "index": 220,
+      "class_name": "inclusion",
+      "separability": 0.2363724795122014,
+      "iou": 0.7837591767311096
+    },
+    {
+      "index": 221,
+      "class_name": "inclusion",
+      "separability": 0.2822817032664666,
+      "iou": 0.8305187821388245
+    },
+    {
+      "index": 222,
+      "class_name": "inclusion",
+      "separability": 0.22551952163133893,
+      "iou": 0.8208191990852356
+    },
+    {
+      "index": 223,
+      "class_name": "inclusion",
+      "separability": 0.27645992032045147,
+      "iou": 0.7966193556785583
+    },
+    {
+      "index": 224,
+      "class_name": "inclusion",
+      "separability": 0.1890736199953125,
+      "iou": 0.767274796962738
+    },
+    {
+      "index": 225,
+      "class_name": "inclusion",
+      "separability": 0.2175941634638623,
+      "iou": 0.7783331274986267
+    },
+    {
+      "index": 226,
+      "class_name": "inclusion",
+      "separability": 0.2874475773375623,
+      "iou": 0.8064496517181396
+    },
+    {
+      "index": 227,
+      "class_name": "inclusion",
+      "separability": 0.2612912333579085,
+      "iou": 0.8922353982925415
+    },
+    {
+      "index": 228,
+      "class_name": "inclusion",
+      "separability": 0.31980073324783886,
+      "iou": 0.8202043771743774
+    },
+    {
+      "index": 229,
+      "class_name": "inclusion",
+      "separability": 0.17106542778880696,
+      "iou": 0.7430184483528137
+    },
+    {
+      "index": 230,
+      "class_name": "inclusion",
+      "separability": 0.4529821559769297,
+      "iou": 0.9204363226890564
+    },
+    {
+      "index": 231,
+      "class_name": "inclusion",
+      "separability": 0.35699187588258774,
+      "iou": 0.8972511291503906
+    },
+    {
+      "index": 232,
+      "class_name": "inclusion",
+      "separability": 0.24118432054244598,
+      "iou": 0.8925870060920715
+    },
+    {
+      "index": 233,
+      "class_name": "inclusion",
+      "separability": 0.4343070481806616,
+      "iou": 0.6450881361961365
+    },
+    {
+      "index": 234,
+      "class_name": "inclusion",
+      "separability": 0.45197343765710263,
+      "iou": 0.7590307593345642
+    },
+    {
+      "index": 235,
+      "class_name": "inclusion",
+      "separability": 0.2873150741399208,
+      "iou": 0.8417370319366455
+    },
+    {
+      "index": 236,
+      "class_name": "inclusion",
+      "separability": 0.43214209667197356,
+      "iou": 0.5766717195510864
+    },
+    {
+      "index": 237,
+      "class_name": "inclusion",
+      "separability": 0.24549194936617663,
+      "iou": 0.7621678113937378
+    },
+    {
+      "index": 238,
+      "class_name": "inclusion",
+      "separability": 0.6394027389551259,
+      "iou": 0.6850393414497375
+    },
+    {
+      "index": 239,
+      "class_name": "inclusion",
+      "separability": 0.28208457643872364,
+      "iou": 0.5454673767089844
+    },
+    {
+      "index": 240,
+      "class_name": "inclusion",
+      "separability": 0.4425455335472621,
+      "iou": 0.6894944310188293
+    },
+    {
+      "index": 241,
+      "class_name": "inclusion",
+      "separability": 0.47592171238224756,
+      "iou": 0.8566325306892395
+    },
+    {
+      "index": 242,
+      "class_name": "inclusion",
+      "separability": 0.45084462304192574,
+      "iou": 0.8229084610939026
+    },
+    {
+      "index": 243,
+      "class_name": "inclusion",
+      "separability": 0.2986397862941581,
+      "iou": 0.7033617496490479
+    },
+    {
+      "index": 244,
+      "class_name": "inclusion",
+      "separability": 0.33548409978975746,
+      "iou": 0.82718425989151
+    },
+    {
+      "index": 245,
+      "class_name": "inclusion",
+      "separability": 0.32212105980380495,
+      "iou": 0.7778375744819641
+    },
+    {
+      "index": 246,
+      "class_name": "inclusion",
+      "separability": 0.2522482332581711,
+      "iou": 0.8771780729293823
+    },
+    {
+      "index": 247,
+      "class_name": "inclusion",
+      "separability": 0.38060975505319794,
+      "iou": 0.7511728405952454
+    },
+    {
+      "index": 248,
+      "class_name": "inclusion",
+      "separability": 0.27026754750062787,
+      "iou": 0.8175337314605713
+    },
+    {
+      "index": 249,
+      "class_name": "inclusion",
+      "separability": 0.6112260103879373,
+      "iou": 0.7333824634552002
+    },
+    {
+      "index": 250,
+      "class_name": "inclusion",
+      "separability": 0.3359623528515483,
+      "iou": 0.6205219626426697
+    },
+    {
+      "index": 251,
+      "class_name": "inclusion",
+      "separability": 0.32377087331488574,
+      "iou": 0.8277695178985596
+    },
+    {
+      "index": 252,
+      "class_name": "inclusion",
+      "separability": 0.43200949840466274,
+      "iou": 0.799471378326416
+    },
+    {
+      "index": 253,
+      "class_name": "inclusion",
+      "separability": 0.3990766037179553,
+      "iou": 0.7982094883918762
+    },
+    {
+      "index": 254,
+      "class_name": "inclusion",
+      "separability": 0.44447316378309765,
+      "iou": 0.867425799369812
+    },
+    {
+      "index": 255,
+      "class_name": "inclusion",
+      "separability": 0.40545025560906106,
+      "iou": 0.6938624382019043
+    },
+    {
+      "index": 256,
+      "class_name": "inclusion",
+      "separability": 0.4098453074529735,
+      "iou": 0.7444186806678772
+    },
+    {
+      "index": 257,
+      "class_name": "inclusion",
+      "separability": 0.43611183815295823,
+      "iou": 0.6761153340339661
+    },
+    {
+      "index": 258,
+      "class_name": "inclusion",
+      "separability": 0.44275805023835413,
+      "iou": 0.7838329672813416
+    },
+    {
+      "index": 259,
+      "class_name": "inclusion",
+      "separability": 0.2919258163722485,
+      "iou": 0.7352432012557983
+    },
+    {
+      "index": 260,
+      "class_name": "inclusion",
+      "separability": 0.516524430168633,
+      "iou": 0.7802557349205017
+    },
+    {
+      "index": 261,
+      "class_name": "inclusion",
+      "separability": 0.6704874514941604,
+      "iou": 0.7982339859008789
+    },
+    {
+      "index": 262,
+      "class_name": "inclusion",
+      "separability": 0.5138765439302609,
+      "iou": 0.7711930871009827
+    },
+    {
+      "index": 263,
+      "class_name": "inclusion",
+      "separability": 0.44890817022459195,
+      "iou": 0.47208401560783386
+    },
+    {
+      "index": 264,
+      "class_name": "inclusion",
+      "separability": 0.3086108671097465,
+      "iou": 0.8018179535865784
+    },
+    {
+      "index": 265,
+      "class_name": "inclusion",
+      "separability": 0.44743913821387227,
+      "iou": 0.8505164384841919
+    },
+    {
+      "index": 266,
+      "class_name": "inclusion",
+      "separability": 0.3970306456443955,
+      "iou": 0.811898946762085
+    },
+    {
+      "index": 267,
+      "class_name": "inclusion",
+      "separability": 0.5192533917929815,
+      "iou": 0.7711318135261536
+    },
+    {
+      "index": 268,
+      "class_name": "inclusion",
+      "separability": 0.40875260065572855,
+      "iou": 0.6437718272209167
+    },
+    {
+      "index": 269,
+      "class_name": "inclusion",
+      "separability": 0.4575531410043832,
+      "iou": 0.9041922092437744
+    },
+    {
+      "index": 270,
+      "class_name": "inclusion",
+      "separability": 0.22082650364902945,
+      "iou": 0.744009792804718
+    },
+    {
+      "index": 271,
+      "class_name": "inclusion",
+      "separability": 0.5567967664331681,
+      "iou": 0.8374655842781067
+    },
+    {
+      "index": 272,
+      "class_name": "inclusion",
+      "separability": 0.3714464056098092,
+      "iou": 0.4637419879436493
+    },
+    {
+      "index": 273,
+      "class_name": "inclusion",
+      "separability": 0.31665269519961253,
+      "iou": 0.7139472365379333
+    },
+    {
+      "index": 274,
+      "class_name": "inclusion",
+      "separability": 0.37106087649993114,
+      "iou": 0.8618196249008179
+    },
+    {
+      "index": 275,
+      "class_name": "inclusion",
+      "separability": 0.35591457120442627,
+      "iou": 0.7470299601554871
+    },
+    {
+      "index": 276,
+      "class_name": "inclusion",
+      "separability": 0.3654784714869154,
+      "iou": 0.7102786898612976
+    },
+    {
+      "index": 277,
+      "class_name": "inclusion",
+      "separability": 0.3332113717660056,
+      "iou": 0.798289954662323
+    },
+    {
+      "index": 278,
+      "class_name": "inclusion",
+      "separability": 0.3307749946114242,
+      "iou": 0.805382251739502
+    },
+    {
+      "index": 279,
+      "class_name": "inclusion",
+      "separability": 0.5603893185541764,
+      "iou": 0.8592035174369812
+    },
+    {
+      "index": 280,
+      "class_name": "inclusion",
+      "separability": 0.3131130840871891,
+      "iou": 0.8232108354568481
+    },
+    {
+      "index": 281,
+      "class_name": "inclusion",
+      "separability": 0.4983395038364112,
+      "iou": 0.914140522480011
+    },
+    {
+      "index": 282,
+      "class_name": "inclusion",
+      "separability": 0.50819736697483,
+      "iou": 0.8603712916374207
+    },
+    {
+      "index": 283,
+      "class_name": "inclusion",
+      "separability": 0.28189385070539225,
+      "iou": 0.8602223992347717
+    },
+    {
+      "index": 284,
+      "class_name": "inclusion",
+      "separability": 0.2550460592893649,
+      "iou": 0.8840598464012146
+    },
+    {
+      "index": 285,
+      "class_name": "inclusion",
+      "separability": 0.42159925096131673,
+      "iou": 0.9152063727378845
+    },
+    {
+      "index": 286,
+      "class_name": "inclusion",
+      "separability": 0.29205466238792327,
+      "iou": 0.7642847299575806
+    },
+    {
+      "index": 287,
+      "class_name": "inclusion",
+      "separability": 0.2117037398377964,
+      "iou": 0.6568967700004578
+    },
+    {
+      "index": 288,
+      "class_name": "inclusion",
+      "separability": 0.22220987732447633,
+      "iou": 0.7626572847366333
+    },
+    {
+      "index": 289,
+      "class_name": "inclusion",
+      "separability": 0.26139229575245576,
+      "iou": 0.773069441318512
+    },
+    {
+      "index": 290,
+      "class_name": "inclusion",
+      "separability": 0.31112884222936643,
+      "iou": 0.7701306939125061
+    },
+    {
+      "index": 291,
+      "class_name": "inclusion",
+      "separability": 0.3149085632767795,
+      "iou": 0.8223899006843567
+    },
+    {
+      "index": 292,
+      "class_name": "inclusion",
+      "separability": 0.3050855106178212,
+      "iou": 0.8536942601203918
+    },
+    {
+      "index": 293,
+      "class_name": "inclusion",
+      "separability": 0.6580049892801699,
+      "iou": 0.8807139992713928
+    },
+    {
+      "index": 294,
+      "class_name": "inclusion",
+      "separability": 0.3064429786382277,
+      "iou": 0.723554790019989
+    },
+    {
+      "index": 295,
+      "class_name": "inclusion",
+      "separability": 0.4901988557577604,
+      "iou": 0.9015344977378845
+    },
+    {
+      "index": 296,
+      "class_name": "inclusion",
+      "separability": 0.45059774471079816,
+      "iou": 0.6765933632850647
+    },
+    {
+      "index": 297,
+      "class_name": "inclusion",
+      "separability": 0.26616967504534034,
+      "iou": 0.9008620977401733
+    },
+    {
+      "index": 298,
+      "class_name": "inclusion",
+      "separability": 0.2926135396977521,
+      "iou": 0.8778299689292908
+    },
+    {
+      "index": 299,
+      "class_name": "inclusion",
+      "separability": 0.3556018223000231,
+      "iou": 0.8395138382911682
+    },
+    {
+      "index": 300,
+      "class_name": "inclusion",
+      "separability": 0.2546239659146343,
+      "iou": 0.8981429934501648
+    },
+    {
+      "index": 301,
+      "class_name": "inclusion",
+      "separability": 0.4142507491480296,
+      "iou": 0.8146059513092041
+    },
+    {
+      "index": 302,
+      "class_name": "inclusion",
+      "separability": 0.43948444251471447,
+      "iou": 0.8284165263175964
+    },
+    {
+      "index": 303,
+      "class_name": "inclusion",
+      "separability": 0.28853645635524094,
+      "iou": 0.6015823483467102
+    },
+    {
+      "index": 304,
+      "class_name": "inclusion",
+      "separability": 0.2697310708921683,
+      "iou": 0.919019341468811
+    },
+    {
+      "index": 305,
+      "class_name": "inclusion",
+      "separability": 0.5800469351052215,
+      "iou": 0.7120401263237
+    },
+    {
+      "index": 306,
+      "class_name": "inclusion",
+      "separability": 0.3630975146180842,
+      "iou": 0.7529042363166809
+    },
+    {
+      "index": 307,
+      "class_name": "inclusion",
+      "separability": 0.26974854888728694,
+      "iou": 0.8360187411308289
+    },
+    {
+      "index": 308,
+      "class_name": "inclusion",
+      "separability": 0.3314944989162516,
+      "iou": 0.883806049823761
+    },
+    {
+      "index": 309,
+      "class_name": "inclusion",
+      "separability": 0.35878162185752294,
+      "iou": 0.8107488751411438
+    },
+    {
+      "index": 310,
+      "class_name": "inclusion",
+      "separability": 0.22362920146775442,
+      "iou": 0.9218913912773132
+    },
+    {
+      "index": 311,
+      "class_name": "inclusion",
+      "separability": 0.24300054248161965,
+      "iou": 0.8924951553344727
+    },
+    {
+      "index": 312,
+      "class_name": "inclusion",
+      "separability": 0.3845501683741695,
+      "iou": 0.8589380979537964
+    },
+    {
+      "index": 313,
+      "class_name": "inclusion",
+      "separability": 0.24555372028227473,
+      "iou": 0.8604108691215515
+    },
+    {
+      "index": 314,
+      "class_name": "inclusion",
+      "separability": 0.2994247500156676,
+      "iou": 0.8679397106170654
+    },
+    {
+      "index": 315,
+      "class_name": "inclusion",
+      "separability": 0.2806864316061831,
+      "iou": 0.8937497735023499
+    },
+    {
+      "index": 316,
+      "class_name": "inclusion",
+      "separability": 0.42631394465354266,
+      "iou": 0.8179304599761963
+    },
+    {
+      "index": 317,
+      "class_name": "inclusion",
+      "separability": 0.17205953556001713,
+      "iou": 0.8716452717781067
+    },
+    {
+      "index": 318,
+      "class_name": "inclusion",
+      "separability": 0.19589957270316194,
+      "iou": 0.8826438784599304
+    },
+    {
+      "index": 319,
+      "class_name": "inclusion",
+      "separability": 0.22342718888068755,
+      "iou": 0.8694837093353271
+    },
+    {
+      "index": 320,
+      "class_name": "inclusion",
+      "separability": 0.2500958929541934,
+      "iou": 0.8460935354232788
+    },
+    {
+      "index": 321,
+      "class_name": "inclusion",
+      "separability": 0.26096298643430044,
+      "iou": 0.6980535387992859
+    },
+    {
+      "index": 322,
+      "class_name": "inclusion",
+      "separability": 0.2634554418634598,
+      "iou": 0.8901029229164124
+    },
+    {
+      "index": 323,
+      "class_name": "inclusion",
+      "separability": 0.21249708976090834,
+      "iou": 0.8726791739463806
+    },
+    {
+      "index": 324,
+      "class_name": "inclusion",
+      "separability": 0.3302799151676873,
+      "iou": 0.8238775730133057
+    },
+    {
+      "index": 325,
+      "class_name": "inclusion",
+      "separability": 0.3944064231058301,
+      "iou": 0.8898012042045593
+    },
+    {
+      "index": 326,
+      "class_name": "inclusion",
+      "separability": 0.24000754725714024,
+      "iou": 0.9037775993347168
+    },
+    {
+      "index": 327,
+      "class_name": "inclusion",
+      "separability": 0.2816254310036861,
+      "iou": 0.834909200668335
+    },
+    {
+      "index": 328,
+      "class_name": "inclusion",
+      "separability": 0.5315634385425115,
+      "iou": 0.5867136716842651
+    },
+    {
+      "index": 329,
+      "class_name": "inclusion",
+      "separability": 0.22138008598374012,
+      "iou": 0.8690483570098877
+    },
+    {
+      "index": 330,
+      "class_name": "inclusion",
+      "separability": 0.3379184798755161,
+      "iou": 0.7944924235343933
+    },
+    {
+      "index": 331,
+      "class_name": "inclusion",
+      "separability": 0.21560635853959795,
+      "iou": 0.8247259855270386
+    },
+    {
+      "index": 332,
+      "class_name": "inclusion",
+      "separability": 0.3594096917091031,
+      "iou": 0.6188997030258179
+    },
+    {
+      "index": 333,
+      "class_name": "inclusion",
+      "separability": 0.31059439466928745,
+      "iou": 0.7984275221824646
+    },
+    {
+      "index": 334,
+      "class_name": "inclusion",
+      "separability": 0.5253825828391847,
+      "iou": 0.7386579513549805
+    },
+    {
+      "index": 335,
+      "class_name": "inclusion",
+      "separability": 0.23501093702024933,
+      "iou": 0.8780103325843811
+    },
+    {
+      "index": 336,
+      "class_name": "inclusion",
+      "separability": 0.23681362176026244,
+      "iou": 0.8418066501617432
+    },
+    {
+      "index": 337,
+      "class_name": "inclusion",
+      "separability": 0.24387962635274454,
+      "iou": 0.8728008270263672
+    },
+    {
+      "index": 338,
+      "class_name": "inclusion",
+      "separability": 0.2753449531958818,
+      "iou": 0.7745165824890137
+    },
+    {
+      "index": 339,
+      "class_name": "inclusion",
+      "separability": 0.20823297569520474,
+      "iou": 0.8438029289245605
+    },
+    {
+      "index": 340,
+      "class_name": "inclusion",
+      "separability": 0.36359786880992273,
+      "iou": 0.8535330295562744
+    },
+    {
+      "index": 341,
+      "class_name": "inclusion",
+      "separability": 0.17437281756229053,
+      "iou": 0.79131019115448
+    },
+    {
+      "index": 342,
+      "class_name": "inclusion",
+      "separability": 0.32144119870495147,
+      "iou": 0.8571960926055908
+    },
+    {
+      "index": 343,
+      "class_name": "inclusion",
+      "separability": 0.2534744449125566,
+      "iou": 0.7801801562309265
+    },
+    {
+      "index": 344,
+      "class_name": "inclusion",
+      "separability": 0.20265731740921467,
+      "iou": 0.805848240852356
+    },
+    {
+      "index": 345,
+      "class_name": "inclusion",
+      "separability": 0.25060266540102194,
+      "iou": 0.8404877781867981
+    },
+    {
+      "index": 346,
+      "class_name": "inclusion",
+      "separability": 0.2504971502474004,
+      "iou": 0.8412512540817261
+    },
+    {
+      "index": 347,
+      "class_name": "inclusion",
+      "separability": 0.21243699973265173,
+      "iou": 0.8263086676597595
+    },
+    {
+      "index": 348,
+      "class_name": "inclusion",
+      "separability": 0.2334089488257081,
+      "iou": 0.8847106099128723
+    },
+    {
+      "index": 349,
+      "class_name": "inclusion",
+      "separability": 0.1817452542102993,
+      "iou": 0.7803792953491211
+    },
+    {
+      "index": 350,
+      "class_name": "inclusion",
+      "separability": 0.16819158755954214,
+      "iou": 0.8122447729110718
+    },
+    {
+      "index": 351,
+      "class_name": "inclusion",
+      "separability": 0.30902903440675333,
+      "iou": 0.8335400819778442
+    },
+    {
+      "index": 352,
+      "class_name": "inclusion",
+      "separability": 0.3824725964257857,
+      "iou": 0.7869015336036682
+    },
+    {
+      "index": 353,
+      "class_name": "inclusion",
+      "separability": 0.3625982271627879,
+      "iou": 0.7918098568916321
+    },
+    {
+      "index": 354,
+      "class_name": "inclusion",
+      "separability": 0.1704834488033723,
+      "iou": 0.6950272917747498
+    },
+    {
+      "index": 355,
+      "class_name": "inclusion",
+      "separability": 0.3867397618490783,
+      "iou": 0.6601090431213379
+    },
+    {
+      "index": 356,
+      "class_name": "inclusion",
+      "separability": 0.18513354651450378,
+      "iou": 0.7629755139350891
+    },
+    {
+      "index": 357,
+      "class_name": "inclusion",
+      "separability": 0.22875834501746528,
+      "iou": 0.9139618873596191
+    },
+    {
+      "index": 358,
+      "class_name": "inclusion",
+      "separability": 0.3826707429735337,
+      "iou": 0.6035770177841187
+    },
+    {
+      "index": 359,
+      "class_name": "inclusion",
+      "separability": 0.35121018923654873,
+      "iou": 0.806927502155304
+    },
+    {
+      "index": 360,
+      "class_name": "inclusion",
+      "separability": 0.37630646866860756,
+      "iou": 0.8816748261451721
+    },
+    {
+      "index": 361,
+      "class_name": "inclusion",
+      "separability": 0.4951272415576405,
+      "iou": 0.8505857586860657
+    },
+    {
+      "index": 362,
+      "class_name": "inclusion",
+      "separability": 0.5884989415007509,
+      "iou": 0.8633264899253845
+    },
+    {
+      "index": 363,
+      "class_name": "inclusion",
+      "separability": 0.33117442700525174,
+      "iou": 0.8731952905654907
+    },
+    {
+      "index": 364,
+      "class_name": "inclusion",
+      "separability": 0.29969743616857525,
+      "iou": 0.8779032230377197
+    },
+    {
+      "index": 365,
+      "class_name": "inclusion",
+      "separability": 0.298733676596119,
+      "iou": 0.8349427580833435
+    },
+    {
+      "index": 366,
+      "class_name": "inclusion",
+      "separability": 0.2280516888776646,
+      "iou": 0.8936054706573486
+    },
+    {
+      "index": 367,
+      "class_name": "inclusion",
+      "separability": 0.24219697337148954,
+      "iou": 0.7039999961853027
+    },
+    {
+      "index": 368,
+      "class_name": "inclusion",
+      "separability": 0.23597275241501459,
+      "iou": 0.8457522988319397
+    },
+    {
+      "index": 369,
+      "class_name": "inclusion",
+      "separability": 0.25195309815872013,
+      "iou": 0.8958852291107178
+    },
+    {
+      "index": 370,
+      "class_name": "inclusion",
+      "separability": 0.19247257427828007,
+      "iou": 0.7640237808227539
+    },
+    {
+      "index": 371,
+      "class_name": "inclusion",
+      "separability": 0.2058977934318126,
+      "iou": 0.6311668753623962
+    },
+    {
+      "index": 372,
+      "class_name": "inclusion",
+      "separability": 0.4198021467160095,
+      "iou": 0.8632348775863647
+    },
+    {
+      "index": 373,
+      "class_name": "inclusion",
+      "separability": 0.12770938315270267,
+      "iou": 0.8160589933395386
+    },
+    {
+      "index": 374,
+      "class_name": "inclusion",
+      "separability": 0.16332410400975209,
+      "iou": 0.7727174758911133
+    },
+    {
+      "index": 375,
+      "class_name": "inclusion",
+      "separability": 0.13070566231036337,
+      "iou": 0.7693122625350952
+    },
+    {
+      "index": 376,
+      "class_name": "inclusion",
+      "separability": 0.2141606523826482,
+      "iou": 0.8789249658584595
+    },
+    {
+      "index": 377,
+      "class_name": "inclusion",
+      "separability": 0.25090005726395503,
+      "iou": 0.8047623038291931
+    },
+    {
+      "index": 378,
+      "class_name": "inclusion",
+      "separability": 0.20249087323698983,
+      "iou": 0.8060017228126526
+    },
+    {
+      "index": 379,
+      "class_name": "inclusion",
+      "separability": 0.17384017844176744,
+      "iou": 0.7433902621269226
+    },
+    {
+      "index": 380,
+      "class_name": "inclusion",
+      "separability": 0.2562150373158926,
+      "iou": 0.7144694328308105
+    },
+    {
+      "index": 381,
+      "class_name": "inclusion",
+      "separability": 0.300473534348026,
+      "iou": 0.86333167552948
+    },
+    {
+      "index": 382,
+      "class_name": "inclusion",
+      "separability": 0.2030171260539366,
+      "iou": 0.8212003707885742
+    },
+    {
+      "index": 383,
+      "class_name": "inclusion",
+      "separability": 0.1251998485030855,
+      "iou": 0.465524286031723
+    },
+    {
+      "index": 384,
+      "class_name": "inclusion",
+      "separability": 0.20747683058645683,
+      "iou": 0.8444368839263916
+    },
+    {
+      "index": 385,
+      "class_name": "inclusion",
+      "separability": 0.2080100111441183,
+      "iou": 0.677635908126831
+    },
+    {
+      "index": 386,
+      "class_name": "inclusion",
+      "separability": 0.1199213527641648,
+      "iou": 0.4957422614097595
+    },
+    {
+      "index": 387,
+      "class_name": "inclusion",
+      "separability": 0.11272080546313512,
+      "iou": 0.7251226902008057
+    },
+    {
+      "index": 388,
+      "class_name": "inclusion",
+      "separability": 0.22840836283738633,
+      "iou": 0.6424368023872375
+    },
+    {
+      "index": 389,
+      "class_name": "inclusion",
+      "separability": 0.09721145837407677,
+      "iou": 0.4498359262943268
+    },
+    {
+      "index": 390,
+      "class_name": "inclusion",
+      "separability": 0.22652465648040254,
+      "iou": 0.7661948800086975
+    },
+    {
+      "index": 391,
+      "class_name": "inclusion",
+      "separability": 0.19061063440140022,
+      "iou": 0.8498046398162842
+    },
+    {
+      "index": 392,
+      "class_name": "inclusion",
+      "separability": 0.23083125070098948,
+      "iou": 0.6690241098403931
+    },
+    {
+      "index": 393,
+      "class_name": "inclusion",
+      "separability": 0.25870903878185986,
+      "iou": 0.9163147211074829
+    },
+    {
+      "index": 394,
+      "class_name": "inclusion",
+      "separability": 0.13679177258378689,
+      "iou": 0.8135766983032227
+    },
+    {
+      "index": 395,
+      "class_name": "inclusion",
+      "separability": 0.29675549065221624,
+      "iou": 0.8670788407325745
+    },
+    {
+      "index": 396,
+      "class_name": "inclusion",
+      "separability": 0.33728029150204525,
+      "iou": 0.8830230832099915
+    },
+    {
+      "index": 397,
+      "class_name": "inclusion",
+      "separability": 0.17826180152739757,
+      "iou": 0.8037741184234619
+    },
+    {
+      "index": 398,
+      "class_name": "inclusion",
+      "separability": 0.1754026266263484,
+      "iou": 0.7883065342903137
+    },
+    {
+      "index": 399,
+      "class_name": "inclusion",
+      "separability": 0.18923181465676223,
+      "iou": 0.9011698365211487
+    },
+    {
+      "index": 400,
+      "class_name": "scratches",
+      "separability": 0.4770564041454171,
+      "iou": 0.6611400842666626
+    },
+    {
+      "index": 401,
+      "class_name": "scratches",
+      "separability": 0.6646586355687006,
+      "iou": 0.8886886239051819
+    },
+    {
+      "index": 402,
+      "class_name": "scratches",
+      "separability": 0.8556590487835175,
+      "iou": 0.7146202921867371
+    },
+    {
+      "index": 403,
+      "class_name": "scratches",
+      "separability": 0.42425058351429035,
+      "iou": 0.3717832863330841
+    },
+    {
+      "index": 404,
+      "class_name": "scratches",
+      "separability": 0.460550948007492,
+      "iou": 0.8912353515625
+    },
+    {
+      "index": 405,
+      "class_name": "scratches",
+      "separability": 0.5629205687612324,
+      "iou": 0.6681649684906006
+    },
+    {
+      "index": 406,
+      "class_name": "scratches",
+      "separability": 0.5706084370508218,
+      "iou": 0.8207184076309204
+    },
+    {
+      "index": 407,
+      "class_name": "scratches",
+      "separability": 0.4796084228779628,
+      "iou": 0.9567251205444336
+    },
+    {
+      "index": 408,
+      "class_name": "scratches",
+      "separability": 0.43465946885656026,
+      "iou": 0.9553715586662292
+    },
+    {
+      "index": 409,
+      "class_name": "scratches",
+      "separability": 0.49143958550919453,
+      "iou": 0.9176930785179138
+    },
+    {
+      "index": 410,
+      "class_name": "scratches",
+      "separability": 0.5106462414538077,
+      "iou": 0.9069903492927551
+    },
+    {
+      "index": 411,
+      "class_name": "scratches",
+      "separability": 0.5964383038645706,
+      "iou": 0.8703774213790894
+    },
+    {
+      "index": 412,
+      "class_name": "scratches",
+      "separability": 0.5580446687643451,
+      "iou": 0.8697521090507507
+    },
+    {
+      "index": 413,
+      "class_name": "scratches",
+      "separability": 0.503024614085155,
+      "iou": 0.8992050886154175
+    },
+    {
+      "index": 414,
+      "class_name": "scratches",
+      "separability": 0.5769318269705377,
+      "iou": 0.8965857028961182
+    },
+    {
+      "index": 415,
+      "class_name": "scratches",
+      "separability": 0.43014223647878896,
+      "iou": 0.8491626977920532
+    },
+    {
+      "index": 416,
+      "class_name": "scratches",
+      "separability": 0.5527319320359855,
+      "iou": 0.8848904371261597
+    },
+    {
+      "index": 417,
+      "class_name": "scratches",
+      "separability": 0.4659100672907605,
+      "iou": 0.8557335138320923
+    },
+    {
+      "index": 418,
+      "class_name": "scratches",
+      "separability": 0.535962987005649,
+      "iou": 0.8661286234855652
+    },
+    {
+      "index": 419,
+      "class_name": "scratches",
+      "separability": 0.378057187836611,
+      "iou": 0.8372445106506348
+    },
+    {
+      "index": 420,
+      "class_name": "scratches",
+      "separability": 0.5378960311565106,
+      "iou": 0.8374819159507751
+    },
+    {
+      "index": 421,
+      "class_name": "scratches",
+      "separability": 0.5378201602295827,
+      "iou": 0.844044029712677
+    },
+    {
+      "index": 422,
+      "class_name": "scratches",
+      "separability": 0.5337168118917678,
+      "iou": 0.7541572451591492
+    },
+    {
+      "index": 423,
+      "class_name": "scratches",
+      "separability": 0.49491145436742584,
+      "iou": 0.6173393130302429
+    },
+    {
+      "index": 424,
+      "class_name": "scratches",
+      "separability": 0.29361833869603626,
+      "iou": 0.32966139912605286
+    },
+    {
+      "index": 425,
+      "class_name": "scratches",
+      "separability": 0.7236272056325066,
+      "iou": 0.7498202919960022
+    },
+    {
+      "index": 426,
+      "class_name": "scratches",
+      "separability": 0.7154734972696541,
+      "iou": 0.8246541619300842
+    },
+    {
+      "index": 427,
+      "class_name": "scratches",
+      "separability": 0.8610973881282035,
+      "iou": 0.8747252821922302
+    },
+    {
+      "index": 428,
+      "class_name": "scratches",
+      "separability": 0.7676958342377735,
+      "iou": 0.8302861452102661
+    },
+    {
+      "index": 429,
+      "class_name": "scratches",
+      "separability": 0.7159334451162825,
+      "iou": 0.7719449400901794
+    },
+    {
+      "index": 430,
+      "class_name": "scratches",
+      "separability": 0.6256239017576883,
+      "iou": 0.7584951519966125
+    },
+    {
+      "index": 431,
+      "class_name": "scratches",
+      "separability": 0.5285262514703769,
+      "iou": 0.855650782585144
+    },
+    {
+      "index": 432,
+      "class_name": "scratches",
+      "separability": 0.4653460697680977,
+      "iou": 0.6762030124664307
+    },
+    {
+      "index": 433,
+      "class_name": "scratches",
+      "separability": 0.6383929296258005,
+      "iou": 0.8905839323997498
+    },
+    {
+      "index": 434,
+      "class_name": "scratches",
+      "separability": 0.5315202101803966,
+      "iou": 0.8679696321487427
+    },
+    {
+      "index": 435,
+      "class_name": "scratches",
+      "separability": 0.5480115751644912,
+      "iou": 0.9428074359893799
+    },
+    {
+      "index": 436,
+      "class_name": "scratches",
+      "separability": 0.5239053784708905,
+      "iou": 0.9309687614440918
+    },
+    {
+      "index": 437,
+      "class_name": "scratches",
+      "separability": 0.5299426946186145,
+      "iou": 0.9536662697792053
+    },
+    {
+      "index": 438,
+      "class_name": "scratches",
+      "separability": 0.5502184809099644,
+      "iou": 0.948767364025116
+    },
+    {
+      "index": 439,
+      "class_name": "scratches",
+      "separability": 0.5519382698066397,
+      "iou": 0.9448203444480896
+    },
+    {
+      "index": 440,
+      "class_name": "scratches",
+      "separability": 0.34869586862755003,
+      "iou": 0.7824295163154602
+    },
+    {
+      "index": 441,
+      "class_name": "scratches",
+      "separability": 0.5684816905840188,
+      "iou": 0.9242001175880432
+    },
+    {
+      "index": 442,
+      "class_name": "scratches",
+      "separability": 0.5275495851925748,
+      "iou": 0.9233275651931763
+    },
+    {
+      "index": 443,
+      "class_name": "scratches",
+      "separability": 0.46653509694512213,
+      "iou": 0.8887567520141602
+    },
+    {
+      "index": 444,
+      "class_name": "scratches",
+      "separability": 0.6027950584450446,
+      "iou": 0.9233545660972595
+    },
+    {
+      "index": 445,
+      "class_name": "scratches",
+      "separability": 0.4993792639138583,
+      "iou": 0.8896158337593079
+    },
+    {
+      "index": 446,
+      "class_name": "scratches",
+      "separability": 0.423059883888769,
+      "iou": 0.8914653062820435
+    },
+    {
+      "index": 447,
+      "class_name": "scratches",
+      "separability": 0.40151934213186286,
+      "iou": 0.9241652488708496
+    },
+    {
+      "index": 448,
+      "class_name": "scratches",
+      "separability": 0.5496916046655076,
+      "iou": 0.8376865386962891
+    },
+    {
+      "index": 449,
+      "class_name": "scratches",
+      "separability": 0.7431067548011315,
+      "iou": 0.7554603815078735
+    },
+    {
+      "index": 450,
+      "class_name": "scratches",
+      "separability": 0.4702943078700752,
+      "iou": 0.8991170525550842
+    },
+    {
+      "index": 451,
+      "class_name": "scratches",
+      "separability": 0.4443693378119082,
+      "iou": 0.9012201428413391
+    },
+    {
+      "index": 452,
+      "class_name": "scratches",
+      "separability": 0.5545234368995772,
+      "iou": 0.7855734825134277
+    },
+    {
+      "index": 453,
+      "class_name": "scratches",
+      "separability": 0.5161006826782637,
+      "iou": 0.737353503704071
+    },
+    {
+      "index": 454,
+      "class_name": "scratches",
+      "separability": 0.33584300529459316,
+      "iou": 0.7838550209999084
+    },
+    {
+      "index": 455,
+      "class_name": "scratches",
+      "separability": 0.37395906128349515,
+      "iou": 0.8271709084510803
+    },
+    {
+      "index": 456,
+      "class_name": "scratches",
+      "separability": 0.3466034498884398,
+      "iou": 0.8708932399749756
+    },
+    {
+      "index": 457,
+      "class_name": "scratches",
+      "separability": 0.3243821649085902,
+      "iou": 0.5281030535697937
+    },
+    {
+      "index": 458,
+      "class_name": "scratches",
+      "separability": 0.3098948438416438,
+      "iou": 0.6601415276527405
+    },
+    {
+      "index": 459,
+      "class_name": "scratches",
+      "separability": 0.29357883859544115,
+      "iou": 0.6091870665550232
+    },
+    {
+      "index": 460,
+      "class_name": "scratches",
+      "separability": 0.3514066430815691,
+      "iou": 0.755032479763031
+    },
+    {
+      "index": 461,
+      "class_name": "scratches",
+      "separability": 0.2635340802920826,
+      "iou": 0.6432487368583679
+    },
+    {
+      "index": 462,
+      "class_name": "scratches",
+      "separability": 0.31368225238277747,
+      "iou": 0.8343421220779419
+    },
+    {
+      "index": 463,
+      "class_name": "scratches",
+      "separability": 0.37873528050969973,
+      "iou": 0.8387759327888489
+    },
+    {
+      "index": 464,
+      "class_name": "scratches",
+      "separability": 0.33670206500957317,
+      "iou": 0.8034125566482544
+    },
+    {
+      "index": 465,
+      "class_name": "scratches",
+      "separability": 0.2936988904480559,
+      "iou": 0.8415683507919312
+    },
+    {
+      "index": 466,
+      "class_name": "scratches",
+      "separability": 0.6066688789999372,
+      "iou": 0.8544572591781616
+    },
+    {
+      "index": 467,
+      "class_name": "scratches",
+      "separability": 0.5261764768710786,
+      "iou": 0.6910112500190735
+    },
+    {
+      "index": 468,
+      "class_name": "scratches",
+      "separability": 0.5610822395572934,
+      "iou": 0.8976073265075684
+    },
+    {
+      "index": 469,
+      "class_name": "scratches",
+      "separability": 0.8069172298542793,
+      "iou": 0.8693224191665649
+    },
+    {
+      "index": 470,
+      "class_name": "scratches",
+      "separability": 0.8068346058881058,
+      "iou": 0.796875
+    },
+    {
+      "index": 471,
+      "class_name": "scratches",
+      "separability": 0.518444653850965,
+      "iou": 0.8048498630523682
+    },
+    {
+      "index": 472,
+      "class_name": "scratches",
+      "separability": 0.7920950018384496,
+      "iou": 0.8914561867713928
+    },
+    {
+      "index": 473,
+      "class_name": "scratches",
+      "separability": 0.5189551331866912,
+      "iou": 0.7577118277549744
+    },
+    {
+      "index": 474,
+      "class_name": "scratches",
+      "separability": 0.5118392035324961,
+      "iou": 0.7206525802612305
+    },
+    {
+      "index": 475,
+      "class_name": "scratches",
+      "separability": 0.49343966787844934,
+      "iou": 0.8357552886009216
+    },
+    {
+      "index": 476,
+      "class_name": "scratches",
+      "separability": 0.5284533144394995,
+      "iou": 0.8633939623832703
+    },
+    {
+      "index": 477,
+      "class_name": "scratches",
+      "separability": 0.5543281825761436,
+      "iou": 0.9523525834083557
+    },
+    {
+      "index": 478,
+      "class_name": "scratches",
+      "separability": 0.6472900895575011,
+      "iou": 0.9370284676551819
+    },
+    {
+      "index": 479,
+      "class_name": "scratches",
+      "separability": 0.609974447947118,
+      "iou": 0.9341074228286743
+    },
+    {
+      "index": 480,
+      "class_name": "scratches",
+      "separability": 0.7484903529677174,
+      "iou": 0.9314929842948914
+    },
+    {
+      "index": 481,
+      "class_name": "scratches",
+      "separability": 0.7879270045732011,
+      "iou": 0.9330865740776062
+    },
+    {
+      "index": 482,
+      "class_name": "scratches",
+      "separability": 0.6630599200997995,
+      "iou": 0.941968560218811
+    },
+    {
+      "index": 483,
+      "class_name": "scratches",
+      "separability": 0.8435354318934745,
+      "iou": 0.9566018581390381
+    },
+    {
+      "index": 484,
+      "class_name": "scratches",
+      "separability": 0.5019768783637186,
+      "iou": 0.9552759528160095
+    },
+    {
+      "index": 485,
+      "class_name": "scratches",
+      "separability": 0.46554532390868564,
+      "iou": 0.8732710480690002
+    },
+    {
+      "index": 486,
+      "class_name": "scratches",
+      "separability": 0.4294577060373885,
+      "iou": 0.7065826058387756
+    },
+    {
+      "index": 487,
+      "class_name": "scratches",
+      "separability": 0.36992173665279393,
+      "iou": 0.589211642742157
+    },
+    {
+      "index": 488,
+      "class_name": "scratches",
+      "separability": 0.37438723545801983,
+      "iou": 0.5763416290283203
+    },
+    {
+      "index": 489,
+      "class_name": "scratches",
+      "separability": 0.49398462650709457,
+      "iou": 0.7235532402992249
+    },
+    {
+      "index": 490,
+      "class_name": "scratches",
+      "separability": 0.563512691451259,
+      "iou": 0.6997912526130676
+    },
+    {
+      "index": 491,
+      "class_name": "scratches",
+      "separability": 0.7768790690290147,
+      "iou": 0.8242166638374329
+    },
+    {
+      "index": 492,
+      "class_name": "scratches",
+      "separability": 0.671196757698011,
+      "iou": 0.6486055850982666
+    },
+    {
+      "index": 493,
+      "class_name": "scratches",
+      "separability": 0.6609455940744642,
+      "iou": 0.7514792680740356
+    },
+    {
+      "index": 494,
+      "class_name": "scratches",
+      "separability": 0.8544964846421756,
+      "iou": 0.8647912740707397
+    },
+    {
+      "index": 495,
+      "class_name": "scratches",
+      "separability": 0.7028965763517956,
+      "iou": 0.79654860496521
+    },
+    {
+      "index": 496,
+      "class_name": "scratches",
+      "separability": 0.6994879276390249,
+      "iou": 0.7721518874168396
+    },
+    {
+      "index": 497,
+      "class_name": "scratches",
+      "separability": 0.613476111846289,
+      "iou": 0.7518591284751892
+    },
+    {
+      "index": 498,
+      "class_name": "scratches",
+      "separability": 0.5814983573118492,
+      "iou": 0.8073237538337708
+    },
+    {
+      "index": 499,
+      "class_name": "scratches",
+      "separability": 0.8091437577483581,
+      "iou": 0.7986145615577698
+    },
+    {
+      "index": 500,
+      "class_name": "scratches",
+      "separability": 0.7672679320239405,
+      "iou": 0.8386061191558838
+    },
+    {
+      "index": 501,
+      "class_name": "scratches",
+      "separability": 0.825799722468551,
+      "iou": 0.5657753944396973
+    },
+    {
+      "index": 502,
+      "class_name": "scratches",
+      "separability": 0.9335365776277941,
+      "iou": 0.7806712985038757
+    },
+    {
+      "index": 503,
+      "class_name": "scratches",
+      "separability": 0.7222149394890341,
+      "iou": 0.7400454878807068
+    },
+    {
+      "index": 504,
+      "class_name": "scratches",
+      "separability": 0.6833145876871383,
+      "iou": 0.6997929811477661
+    },
+    {
+      "index": 505,
+      "class_name": "scratches",
+      "separability": 0.3905667741658154,
+      "iou": 0.701015055179596
+    },
+    {
+      "index": 506,
+      "class_name": "scratches",
+      "separability": 0.525189938458097,
+      "iou": 0.7973343729972839
+    },
+    {
+      "index": 507,
+      "class_name": "scratches",
+      "separability": 0.5489053601001737,
+      "iou": 0.7168083786964417
+    },
+    {
+      "index": 508,
+      "class_name": "scratches",
+      "separability": 0.39664272426990976,
+      "iou": 0.6354632377624512
+    },
+    {
+      "index": 509,
+      "class_name": "scratches",
+      "separability": 0.41925525779839445,
+      "iou": 0.7051551938056946
+    },
+    {
+      "index": 510,
+      "class_name": "scratches",
+      "separability": 0.3979017760606804,
+      "iou": 0.7783849239349365
+    },
+    {
+      "index": 511,
+      "class_name": "scratches",
+      "separability": 0.48397824653743665,
+      "iou": 0.8104380965232849
+    },
+    {
+      "index": 512,
+      "class_name": "scratches",
+      "separability": 0.4667728234228049,
+      "iou": 0.8202556371688843
+    },
+    {
+      "index": 513,
+      "class_name": "scratches",
+      "separability": 0.5184957002791706,
+      "iou": 0.8286304473876953
+    },
+    {
+      "index": 514,
+      "class_name": "scratches",
+      "separability": 0.45557613718423484,
+      "iou": 0.7523517608642578
+    },
+    {
+      "index": 515,
+      "class_name": "scratches",
+      "separability": 0.40356816381205457,
+      "iou": 0.6918148398399353
+    },
+    {
+      "index": 516,
+      "class_name": "scratches",
+      "separability": 0.4069332527688123,
+      "iou": 0.7022160887718201
+    },
+    {
+      "index": 517,
+      "class_name": "scratches",
+      "separability": 0.616293967745385,
+      "iou": 0.7357051968574524
+    },
+    {
+      "index": 518,
+      "class_name": "scratches",
+      "separability": 0.6374189963448791,
+      "iou": 0.7591660618782043
+    },
+    {
+      "index": 519,
+      "class_name": "scratches",
+      "separability": 0.3910279829647875,
+      "iou": 0.7350044846534729
+    },
+    {
+      "index": 520,
+      "class_name": "scratches",
+      "separability": 0.41916259377166404,
+      "iou": 0.6722170114517212
+    },
+    {
+      "index": 521,
+      "class_name": "scratches",
+      "separability": 0.515221229849387,
+      "iou": 0.5741088390350342
+    },
+    {
+      "index": 522,
+      "class_name": "scratches",
+      "separability": 0.42297591590322253,
+      "iou": 0.6130992770195007
+    },
+    {
+      "index": 523,
+      "class_name": "scratches",
+      "separability": 0.47337146614458137,
+      "iou": 0.6553074717521667
+    },
+    {
+      "index": 524,
+      "class_name": "scratches",
+      "separability": 0.7420102081917062,
+      "iou": 0.5455357432365417
+    },
+    {
+      "index": 525,
+      "class_name": "scratches",
+      "separability": 0.4726139747685408,
+      "iou": 0.6219780445098877
+    },
+    {
+      "index": 526,
+      "class_name": "scratches",
+      "separability": 0.3421723209497396,
+      "iou": 0.5116279125213623
+    },
+    {
+      "index": 527,
+      "class_name": "scratches",
+      "separability": 0.8433265953568774,
+      "iou": 0.8504273295402527
+    },
+    {
+      "index": 528,
+      "class_name": "scratches",
+      "separability": 0.7405676492553478,
+      "iou": 0.7046204805374146
+    },
+    {
+      "index": 529,
+      "class_name": "scratches",
+      "separability": 0.41232396295479223,
+      "iou": 0.7275494933128357
+    },
+    {
+      "index": 530,
+      "class_name": "scratches",
+      "separability": 0.3728500917677857,
+      "iou": 0.6471073031425476
+    },
+    {
+      "index": 531,
+      "class_name": "scratches",
+      "separability": 0.6383983142279426,
+      "iou": 0.6066591143608093
+    },
+    {
+      "index": 532,
+      "class_name": "scratches",
+      "separability": 0.7481350574375177,
+      "iou": 0.8065727949142456
+    },
+    {
+      "index": 533,
+      "class_name": "scratches",
+      "separability": 0.5788774226848272,
+      "iou": 0.7259282469749451
+    },
+    {
+      "index": 534,
+      "class_name": "scratches",
+      "separability": 0.7987663623736934,
+      "iou": 0.6701931953430176
+    },
+    {
+      "index": 535,
+      "class_name": "scratches",
+      "separability": 0.5832003130101674,
+      "iou": 0.6782970428466797
+    },
+    {
+      "index": 536,
+      "class_name": "scratches",
+      "separability": 0.5927274432167067,
+      "iou": 0.7316858172416687
+    },
+    {
+      "index": 537,
+      "class_name": "scratches",
+      "separability": 0.43477267800635705,
+      "iou": 0.6760779023170471
+    },
+    {
+      "index": 538,
+      "class_name": "scratches",
+      "separability": 0.6915711450730877,
+      "iou": 0.6346259117126465
+    },
+    {
+      "index": 539,
+      "class_name": "scratches",
+      "separability": 0.46331248850271145,
+      "iou": 0.7282860279083252
+    },
+    {
+      "index": 540,
+      "class_name": "scratches",
+      "separability": 0.4314695596117942,
+      "iou": 0.7577962875366211
+    },
+    {
+      "index": 541,
+      "class_name": "scratches",
+      "separability": 0.948039103102466,
+      "iou": 0.7940199375152588
+    },
+    {
+      "index": 542,
+      "class_name": "scratches",
+      "separability": 0.4047477752167876,
+      "iou": 0.5994112491607666
+    },
+    {
+      "index": 543,
+      "class_name": "scratches",
+      "separability": 0.617505219123309,
+      "iou": 0.6882543563842773
+    },
+    {
+      "index": 544,
+      "class_name": "scratches",
+      "separability": 0.9366373454777319,
+      "iou": 0.6740331649780273
+    },
+    {
+      "index": 545,
+      "class_name": "scratches",
+      "separability": 0.8047385035796997,
+      "iou": 0.7293754816055298
+    },
+    {
+      "index": 546,
+      "class_name": "scratches",
+      "separability": 0.7059613748565294,
+      "iou": 0.6426577568054199
+    },
+    {
+      "index": 547,
+      "class_name": "scratches",
+      "separability": 0.9718120598534833,
+      "iou": 0.7682306170463562
+    },
+    {
+      "index": 548,
+      "class_name": "scratches",
+      "separability": 0.8718202720964915,
+      "iou": 0.804780900478363
+    },
+    {
+      "index": 549,
+      "class_name": "scratches",
+      "separability": 0.8051156931019358,
+      "iou": 0.8167330622673035
+    },
+    {
+      "index": 550,
+      "class_name": "scratches",
+      "separability": 0.4759018651820742,
+      "iou": 0.7025547623634338
+    },
+    {
+      "index": 551,
+      "class_name": "scratches",
+      "separability": 0.44918014375561544,
+      "iou": 0.6656831502914429
+    },
+    {
+      "index": 552,
+      "class_name": "scratches",
+      "separability": 0.597834757196666,
+      "iou": 0.7188281416893005
+    },
+    {
+      "index": 553,
+      "class_name": "scratches",
+      "separability": 1.0133965781215015,
+      "iou": 0.8063145279884338
+    },
+    {
+      "index": 554,
+      "class_name": "scratches",
+      "separability": 0.5609171530010018,
+      "iou": 0.9059203863143921
+    },
+    {
+      "index": 555,
+      "class_name": "scratches",
+      "separability": 0.5804257908036,
+      "iou": 0.9489063024520874
+    },
+    {
+      "index": 556,
+      "class_name": "scratches",
+      "separability": 0.6025987989430395,
+      "iou": 0.9498371481895447
+    },
+    {
+      "index": 557,
+      "class_name": "scratches",
+      "separability": 0.6212772796805431,
+      "iou": 0.9101316332817078
+    },
+    {
+      "index": 558,
+      "class_name": "scratches",
+      "separability": 0.5764840915869544,
+      "iou": 0.9619244337081909
+    },
+    {
+      "index": 559,
+      "class_name": "scratches",
+      "separability": 0.5084123391755947,
+      "iou": 0.8987955451011658
+    },
+    {
+      "index": 560,
+      "class_name": "scratches",
+      "separability": 0.594444330257127,
+      "iou": 0.8483189940452576
+    },
+    {
+      "index": 561,
+      "class_name": "scratches",
+      "separability": 0.47920660686187627,
+      "iou": 0.7242870926856995
+    },
+    {
+      "index": 562,
+      "class_name": "scratches",
+      "separability": 0.5546525413767738,
+      "iou": 0.7943610548973083
+    },
+    {
+      "index": 563,
+      "class_name": "scratches",
+      "separability": 0.3933130662628247,
+      "iou": 0.559938371181488
+    },
+    {
+      "index": 564,
+      "class_name": "scratches",
+      "separability": 0.3539642461876954,
+      "iou": 0.7070457339286804
+    },
+    {
+      "index": 565,
+      "class_name": "scratches",
+      "separability": 0.7413639488508234,
+      "iou": 0.8335546851158142
+    },
+    {
+      "index": 566,
+      "class_name": "scratches",
+      "separability": 0.7743619750714825,
+      "iou": 0.6243441700935364
+    },
+    {
+      "index": 567,
+      "class_name": "scratches",
+      "separability": 0.7473531445744954,
+      "iou": 0.7139516472816467
+    },
+    {
+      "index": 568,
+      "class_name": "scratches",
+      "separability": 0.6327034390638533,
+      "iou": 0.6541305184364319
+    },
+    {
+      "index": 569,
+      "class_name": "scratches",
+      "separability": 0.5863691432740917,
+      "iou": 0.7501434087753296
+    },
+    {
+      "index": 570,
+      "class_name": "scratches",
+      "separability": 0.3821317415780007,
+      "iou": 0.7143958210945129
+    },
+    {
+      "index": 571,
+      "class_name": "scratches",
+      "separability": 0.4517339255263389,
+      "iou": 0.4912663698196411
+    },
+    {
+      "index": 572,
+      "class_name": "scratches",
+      "separability": 0.3060125586332304,
+      "iou": 0.6782326698303223
+    },
+    {
+      "index": 573,
+      "class_name": "scratches",
+      "separability": 0.3093894829260826,
+      "iou": 0.6808721423149109
+    },
+    {
+      "index": 574,
+      "class_name": "scratches",
+      "separability": 0.4362691877877749,
+      "iou": 0.7338113188743591
+    },
+    {
+      "index": 575,
+      "class_name": "scratches",
+      "separability": 0.4456642172955152,
+      "iou": 0.8750392198562622
+    },
+    {
+      "index": 576,
+      "class_name": "scratches",
+      "separability": 0.47897325318471584,
+      "iou": 0.8511499762535095
+    },
+    {
+      "index": 577,
+      "class_name": "scratches",
+      "separability": 0.41901924530685764,
+      "iou": 0.6775943636894226
+    },
+    {
+      "index": 578,
+      "class_name": "scratches",
+      "separability": 0.4002103634575716,
+      "iou": 0.737869143486023
+    },
+    {
+      "index": 579,
+      "class_name": "scratches",
+      "separability": 0.30824181838378,
+      "iou": 0.7799955606460571
+    },
+    {
+      "index": 580,
+      "class_name": "scratches",
+      "separability": 0.5682438793946134,
+      "iou": 0.5303502082824707
+    },
+    {
+      "index": 581,
+      "class_name": "scratches",
+      "separability": 0.5857382324437479,
+      "iou": 0.8161040544509888
+    },
+    {
+      "index": 582,
+      "class_name": "scratches",
+      "separability": 0.5934688617049705,
+      "iou": 0.8399448990821838
+    },
+    {
+      "index": 583,
+      "class_name": "scratches",
+      "separability": 0.7375514916759228,
+      "iou": 0.8678861856460571
+    },
+    {
+      "index": 584,
+      "class_name": "scratches",
+      "separability": 0.7556012401109932,
+      "iou": 0.8661665916442871
+    },
+    {
+      "index": 585,
+      "class_name": "scratches",
+      "separability": 0.6483384734746137,
+      "iou": 0.7338277697563171
+    },
+    {
+      "index": 586,
+      "class_name": "scratches",
+      "separability": 0.697298721792995,
+      "iou": 0.8260941505432129
+    },
+    {
+      "index": 587,
+      "class_name": "scratches",
+      "separability": 0.889184395819618,
+      "iou": 0.8605703711509705
+    },
+    {
+      "index": 588,
+      "class_name": "scratches",
+      "separability": 0.7748844683800622,
+      "iou": 0.6981545090675354
+    },
+    {
+      "index": 589,
+      "class_name": "scratches",
+      "separability": 0.5228592834824894,
+      "iou": 0.7886598110198975
+    },
+    {
+      "index": 590,
+      "class_name": "scratches",
+      "separability": 0.3731596306762001,
+      "iou": 0.7984544634819031
+    },
+    {
+      "index": 591,
+      "class_name": "scratches",
+      "separability": 0.4528742906261846,
+      "iou": 0.7016364336013794
+    },
+    {
+      "index": 592,
+      "class_name": "scratches",
+      "separability": 0.8173838351306143,
+      "iou": 0.6493967175483704
+    },
+    {
+      "index": 593,
+      "class_name": "scratches",
+      "separability": 0.6184161173300224,
+      "iou": 0.7329320907592773
+    },
+    {
+      "index": 594,
+      "class_name": "scratches",
+      "separability": 0.5270661456175126,
+      "iou": 0.7583479881286621
+    },
+    {
+      "index": 595,
+      "class_name": "scratches",
+      "separability": 0.570600853154713,
+      "iou": 0.4299212694168091
+    },
+    {
+      "index": 596,
+      "class_name": "scratches",
+      "separability": 0.871448750811118,
+      "iou": 0.7708850502967834
+    },
+    {
+      "index": 597,
+      "class_name": "scratches",
+      "separability": 0.5960643808062941,
+      "iou": 0.7555252313613892
+    },
+    {
+      "index": 598,
+      "class_name": "scratches",
+      "separability": 0.5396082612438406,
+      "iou": 0.784726083278656
+    },
+    {
+      "index": 599,
+      "class_name": "scratches",
+      "separability": 0.6663572307572305,
+      "iou": 0.7786774635314941
+    },
+    {
+      "index": 600,
+      "class_name": "inclusion",
+      "separability": 0.25612159724846917,
+      "iou": 0.8323506116867065
+    },
+    {
+      "index": 601,
+      "class_name": "inclusion",
+      "separability": 0.17086421502186575,
+      "iou": 0.7769911289215088
+    },
+    {
+      "index": 602,
+      "class_name": "inclusion",
+      "separability": 0.22459191558903552,
+      "iou": 0.41392216086387634
+    },
+    {
+      "index": 603,
+      "class_name": "inclusion",
+      "separability": 0.2801810008091989,
+      "iou": 0.7411143779754639
+    },
+    {
+      "index": 604,
+      "class_name": "inclusion",
+      "separability": 0.3289187262045808,
+      "iou": 0.8117076754570007
+    },
+    {
+      "index": 605,
+      "class_name": "inclusion",
+      "separability": 0.15715820239151249,
+      "iou": 0.3418853282928467
+    },
+    {
+      "index": 606,
+      "class_name": "inclusion",
+      "separability": 0.19618482271934667,
+      "iou": 0.3667115569114685
+    },
+    {
+      "index": 607,
+      "class_name": "inclusion",
+      "separability": 0.33106450400783527,
+      "iou": 0.8400546908378601
+    },
+    {
+      "index": 608,
+      "class_name": "inclusion",
+      "separability": 0.08732117909375912,
+      "iou": 0.8793694972991943
+    },
+    {
+      "index": 609,
+      "class_name": "patches",
+      "separability": 0.30517817455702273,
+      "iou": 0.7679914236068726
+    },
+    {
+      "index": 610,
+      "class_name": "inclusion",
+      "separability": 0.35750338710207935,
+      "iou": 0.9293257594108582
+    },
+    {
+      "index": 611,
+      "class_name": "inclusion",
+      "separability": 0.297924594914654,
+      "iou": 0.8215621709823608
+    },
+    {
+      "index": 612,
+      "class_name": "inclusion",
+      "separability": 0.4050209289940139,
+      "iou": 0.8345547318458557
+    },
+    {
+      "index": 613,
+      "class_name": "inclusion",
+      "separability": 0.28019602530801907,
+      "iou": 0.5744024515151978
+    },
+    {
+      "index": 614,
+      "class_name": "inclusion",
+      "separability": 0.4677430013573189,
+      "iou": 0.8603538870811462
+    },
+    {
+      "index": 615,
+      "class_name": "inclusion",
+      "separability": 0.4223952681491746,
+      "iou": 0.8469475507736206
+    },
+    {
+      "index": 616,
+      "class_name": "patches",
+      "separability": 0.27747174736959535,
+      "iou": 0.8569406867027283
+    },
+    {
+      "index": 617,
+      "class_name": "patches",
+      "separability": 0.17959926110867439,
+      "iou": 0.870360255241394
+    },
+    {
+      "index": 618,
+      "class_name": "patches",
+      "separability": 0.1845146219053869,
+      "iou": 0.8146035075187683
+    },
+    {
+      "index": 619,
+      "class_name": "patches",
+      "separability": 0.23526882847087519,
+      "iou": 0.8556510806083679
+    },
+    {
+      "index": 620,
+      "class_name": "inclusion",
+      "separability": 0.21466071913888216,
+      "iou": 0.8112244606018066
+    },
+    {
+      "index": 621,
+      "class_name": "inclusion",
+      "separability": 0.2496079202181888,
+      "iou": 0.8960546255111694
+    },
+    {
+      "index": 622,
+      "class_name": "patches",
+      "separability": 0.28978220108701563,
+      "iou": 0.8141878247261047
+    },
+    {
+      "index": 623,
+      "class_name": "patches",
+      "separability": 0.20337522491716253,
+      "iou": 0.8724489808082581
+    },
+    {
+      "index": 624,
+      "class_name": "inclusion",
+      "separability": 0.2178938284631195,
+      "iou": 0.8639624118804932
+    },
+    {
+      "index": 625,
+      "class_name": "patches",
+      "separability": 0.20292336868130278,
+      "iou": 0.8704909086227417
+    },
+    {
+      "index": 626,
+      "class_name": "inclusion",
+      "separability": 0.38818607806989164,
+      "iou": 0.8562734127044678
+    },
+    {
+      "index": 627,
+      "class_name": "patches",
+      "separability": 0.28471122261299825,
+      "iou": 0.7743341326713562
+    },
+    {
+      "index": 628,
+      "class_name": "inclusion",
+      "separability": 0.27431791056365107,
+      "iou": 0.8319048285484314
+    },
+    {
+      "index": 629,
+      "class_name": "inclusion",
+      "separability": 0.23664465183036032,
+      "iou": 0.9308723211288452
+    },
+    {
+      "index": 630,
+      "class_name": "inclusion",
+      "separability": 0.2607898733703568,
+      "iou": 0.8539586663246155
+    },
+    {
+      "index": 631,
+      "class_name": "inclusion",
+      "separability": 0.3024152869678908,
+      "iou": 0.8625974655151367
+    },
+    {
+      "index": 632,
+      "class_name": "inclusion",
+      "separability": 0.37518797935312026,
+      "iou": 0.9115027785301208
+    },
+    {
+      "index": 633,
+      "class_name": "patches",
+      "separability": 0.3935285719665026,
+      "iou": 0.7585428953170776
+    },
+    {
+      "index": 634,
+      "class_name": "inclusion",
+      "separability": 0.226996555049177,
+      "iou": 0.5352583527565002
+    },
+    {
+      "index": 635,
+      "class_name": "inclusion",
+      "separability": 0.2499162008398474,
+      "iou": 0.8671491146087646
+    },
+    {
+      "index": 636,
+      "class_name": "inclusion",
+      "separability": 0.16586839578454807,
+      "iou": 0.8436601161956787
+    },
+    {
+      "index": 637,
+      "class_name": "inclusion",
+      "separability": 0.1733242415587285,
+      "iou": 0.8415814638137817
+    },
+    {
+      "index": 638,
+      "class_name": "inclusion",
+      "separability": 0.19004752442413814,
+      "iou": 0.8122562766075134
+    },
+    {
+      "index": 639,
+      "class_name": "inclusion",
+      "separability": 0.24842760979298534,
+      "iou": 0.8750717043876648
+    },
+    {
+      "index": 640,
+      "class_name": "inclusion",
+      "separability": 0.23638055110996795,
+      "iou": 0.879487156867981
+    },
+    {
+      "index": 641,
+      "class_name": "inclusion",
+      "separability": 0.24143820507339434,
+      "iou": 0.9334275722503662
+    },
+    {
+      "index": 642,
+      "class_name": "inclusion",
+      "separability": 0.21138714117721613,
+      "iou": 0.8459745049476624
+    },
+    {
+      "index": 643,
+      "class_name": "inclusion",
+      "separability": 0.2641755162775929,
+      "iou": 0.8514285683631897
+    },
+    {
+      "index": 644,
+      "class_name": "inclusion",
+      "separability": 0.38871660618786624,
+      "iou": 0.8594551682472229
+    },
+    {
+      "index": 645,
+      "class_name": "inclusion",
+      "separability": 0.23881809668417467,
+      "iou": 0.8705523610115051
+    },
+    {
+      "index": 646,
+      "class_name": "inclusion",
+      "separability": 0.3640032276974581,
+      "iou": 0.9116912484169006
+    },
+    {
+      "index": 647,
+      "class_name": "inclusion",
+      "separability": 0.2694545852375811,
+      "iou": 0.8991002440452576
+    },
+    {
+      "index": 648,
+      "class_name": "inclusion",
+      "separability": 0.28232701867940957,
+      "iou": 0.9091542959213257
+    },
+    {
+      "index": 649,
+      "class_name": "inclusion",
+      "separability": 0.29164015438705954,
+      "iou": 0.8208808302879333
+    },
+    {
+      "index": 650,
+      "class_name": "inclusion",
+      "separability": 0.11062164193789363,
+      "iou": 0.7889227867126465
+    },
+    {
+      "index": 651,
+      "class_name": "patches",
+      "separability": 0.16842322014780275,
+      "iou": 0.8407684564590454
+    },
+    {
+      "index": 652,
+      "class_name": "patches",
+      "separability": 0.26305975467737885,
+      "iou": 0.8840000033378601
+    },
+    {
+      "index": 653,
+      "class_name": "inclusion",
+      "separability": 0.3267668758276539,
+      "iou": 0.7784923315048218
+    },
+    {
+      "index": 654,
+      "class_name": "inclusion",
+      "separability": 0.2616130655955319,
+      "iou": 0.8462565541267395
+    },
+    {
+      "index": 655,
+      "class_name": "inclusion",
+      "separability": 0.30848348557409727,
+      "iou": 0.8319169282913208
+    },
+    {
+      "index": 656,
+      "class_name": "inclusion",
+      "separability": 0.44281935999164806,
+      "iou": 0.7150558233261108
+    },
+    {
+      "index": 657,
+      "class_name": "inclusion",
+      "separability": 0.43491056681746726,
+      "iou": 0.8876855969429016
+    },
+    {
+      "index": 658,
+      "class_name": "inclusion",
+      "separability": 0.237448559579873,
+      "iou": 0.8367310166358948
+    },
+    {
+      "index": 659,
+      "class_name": "inclusion",
+      "separability": 0.22006769733014264,
+      "iou": 0.8426153659820557
+    },
+    {
+      "index": 660,
+      "class_name": "inclusion",
+      "separability": 0.27179578034714097,
+      "iou": 0.8392795920372009
+    },
+    {
+      "index": 661,
+      "class_name": "inclusion",
+      "separability": 0.27392797297888644,
+      "iou": 0.9238019585609436
+    },
+    {
+      "index": 662,
+      "class_name": "inclusion",
+      "separability": 0.4053398191873671,
+      "iou": 0.8624191880226135
+    },
+    {
+      "index": 663,
+      "class_name": "inclusion",
+      "separability": 0.23799392878101538,
+      "iou": 0.8936049938201904
+    },
+    {
+      "index": 664,
+      "class_name": "inclusion",
+      "separability": 0.31080961171207455,
+      "iou": 0.8435294032096863
+    },
+    {
+      "index": 665,
+      "class_name": "inclusion",
+      "separability": 0.3285207613787402,
+      "iou": 0.8906352519989014
+    },
+    {
+      "index": 666,
+      "class_name": "inclusion",
+      "separability": 0.2722719214713997,
+      "iou": 0.7942437529563904
+    },
+    {
+      "index": 667,
+      "class_name": "inclusion",
+      "separability": 0.18419460204658258,
+      "iou": 0.8792077898979187
+    },
+    {
+      "index": 668,
+      "class_name": "patches",
+      "separability": 0.21186340376260462,
+      "iou": 0.8381186723709106
+    },
+    {
+      "index": 669,
+      "class_name": "inclusion",
+      "separability": 0.3209285186016856,
+      "iou": 0.8270190358161926
+    },
+    {
+      "index": 670,
+      "class_name": "patches",
+      "separability": 0.4043797346342002,
+      "iou": 0.7444620132446289
+    },
+    {
+      "index": 671,
+      "class_name": "inclusion",
+      "separability": 0.31184769759411324,
+      "iou": 0.8447847962379456
+    },
+    {
+      "index": 672,
+      "class_name": "inclusion",
+      "separability": 0.2862596513190516,
+      "iou": 0.8757772445678711
+    },
+    {
+      "index": 673,
+      "class_name": "inclusion",
+      "separability": 0.17032288725747155,
+      "iou": 0.7962598204612732
+    },
+    {
+      "index": 674,
+      "class_name": "patches",
+      "separability": 0.2680445376331858,
+      "iou": 0.6766926050186157
+    },
+    {
+      "index": 675,
+      "class_name": "inclusion",
+      "separability": 0.23955945426781544,
+      "iou": 0.9102685451507568
+    },
+    {
+      "index": 676,
+      "class_name": "inclusion",
+      "separability": 0.29977244362473293,
+      "iou": 0.8930632472038269
+    },
+    {
+      "index": 677,
+      "class_name": "inclusion",
+      "separability": 0.2420547187864258,
+      "iou": 0.8559696078300476
+    },
+    {
+      "index": 678,
+      "class_name": "inclusion",
+      "separability": 0.3104719233129266,
+      "iou": 0.7943649888038635
+    },
+    {
+      "index": 679,
+      "class_name": "inclusion",
+      "separability": 0.2240270491930696,
+      "iou": 0.8745901584625244
+    },
+    {
+      "index": 680,
+      "class_name": "scratches",
+      "separability": 0.19902147260154066,
+      "iou": 0.582147479057312
+    },
+    {
+      "index": 681,
+      "class_name": "scratches",
+      "separability": 0.19208661482193098,
+      "iou": 0.6192307472229004
+    },
+    {
+      "index": 682,
+      "class_name": "scratches",
+      "separability": 0.19265577248464238,
+      "iou": 0.5353415608406067
+    },
+    {
+      "index": 683,
+      "class_name": "scratches",
+      "separability": 0.2789537209628881,
+      "iou": 0.544325590133667
+    },
+    {
+      "index": 684,
+      "class_name": "scratches",
+      "separability": 0.17401574942477618,
+      "iou": 0.7098338007926941
+    },
+    {
+      "index": 685,
+      "class_name": "scratches",
+      "separability": 0.1112712248432473,
+      "iou": 0.5421469807624817
+    },
+    {
+      "index": 686,
+      "class_name": "patches",
+      "separability": 0.1406217126025668,
+      "iou": 0.7727981209754944
+    },
+    {
+      "index": 687,
+      "class_name": "scratches",
+      "separability": 0.5779371359614579,
+      "iou": 0.8510798811912537
+    },
+    {
+      "index": 688,
+      "class_name": "patches",
+      "separability": 0.3987601780810867,
+      "iou": 0.6244869828224182
+    },
+    {
+      "index": 689,
+      "class_name": "scratches",
+      "separability": 0.2864992848684773,
+      "iou": 0.5772823095321655
+    },
+    {
+      "index": 690,
+      "class_name": "patches",
+      "separability": 0.4052205429526204,
+      "iou": 0.6693753004074097
+    },
+    {
+      "index": 691,
+      "class_name": "patches",
+      "separability": 0.29909810033702067,
+      "iou": 0.7085680365562439
+    },
+    {
+      "index": 692,
+      "class_name": "patches",
+      "separability": 0.30570105415271803,
+      "iou": 0.7335848212242126
+    },
+    {
+      "index": 693,
+      "class_name": "patches",
+      "separability": 0.45333317428140685,
+      "iou": 0.662391185760498
+    },
+    {
+      "index": 694,
+      "class_name": "patches",
+      "separability": 0.2223171385975063,
+      "iou": 0.8116171360015869
+    },
+    {
+      "index": 695,
+      "class_name": "patches",
+      "separability": 0.37666103015568453,
+      "iou": 0.6686016917228699
+    },
+    {
+      "index": 696,
+      "class_name": "patches",
+      "separability": 0.494300540534766,
+      "iou": 0.6253511309623718
+    },
+    {
+      "index": 697,
+      "class_name": "patches",
+      "separability": 0.4923340117088844,
+      "iou": 0.7085062265396118
+    },
+    {
+      "index": 698,
+      "class_name": "patches",
+      "separability": 0.3255295471887167,
+      "iou": 0.4990786910057068
+    },
+    {
+      "index": 699,
+      "class_name": "patches",
+      "separability": 0.14780475354616784,
+      "iou": 0.42581143975257874
+    },
+    {
+      "index": 700,
+      "class_name": "patches",
+      "separability": 0.13242492899919636,
+      "iou": 0.3723233640193939
+    },
+    {
+      "index": 701,
+      "class_name": "patches",
+      "separability": 0.07574633272749491,
+      "iou": 0.5753283500671387
+    },
+    {
+      "index": 702,
+      "class_name": "patches",
+      "separability": 0.10192952766049222,
+      "iou": 0.7873705625534058
+    },
+    {
+      "index": 703,
+      "class_name": "scratches",
+      "separability": 0.25540161463827454,
+      "iou": 0.7083760499954224
+    },
+    {
+      "index": 704,
+      "class_name": "patches",
+      "separability": 0.07145274124084991,
+      "iou": 0.7306224703788757
+    },
+    {
+      "index": 705,
+      "class_name": "scratches",
+      "separability": 0.40767522501997233,
+      "iou": 0.6751143932342529
+    },
+    {
+      "index": 706,
+      "class_name": "scratches",
+      "separability": 0.31664134713568304,
+      "iou": 0.6440678238868713
+    },
+    {
+      "index": 707,
+      "class_name": "patches",
+      "separability": 0.24378027886942683,
+      "iou": 0.5443213582038879
+    },
+    {
+      "index": 708,
+      "class_name": "patches",
+      "separability": 0.13019523326089974,
+      "iou": 0.5987774133682251
+    },
+    {
+      "index": 709,
+      "class_name": "patches",
+      "separability": 0.08240348923997659,
+      "iou": 0.48136958479881287
+    },
+    {
+      "index": 710,
+      "class_name": "patches",
+      "separability": 0.22030822926192167,
+      "iou": 0.5723303556442261
+    },
+    {
+      "index": 711,
+      "class_name": "patches",
+      "separability": 0.2498289482287497,
+      "iou": 0.5985148549079895
+    },
+    {
+      "index": 712,
+      "class_name": "patches",
+      "separability": 0.2062854661671482,
+      "iou": 0.5308924317359924
+    },
+    {
+      "index": 713,
+      "class_name": "scratches",
+      "separability": 0.23764776076289248,
+      "iou": 0.7712026834487915
+    },
+    {
+      "index": 714,
+      "class_name": "scratches",
+      "separability": 0.307623055245499,
+      "iou": 0.6538922190666199
+    },
+    {
+      "index": 715,
+      "class_name": "patches",
+      "separability": 0.06812363297418716,
+      "iou": 0.7272632122039795
+    },
+    {
+      "index": 716,
+      "class_name": "patches",
+      "separability": 0.16307498487877242,
+      "iou": 0.4142475426197052
+    },
+    {
+      "index": 717,
+      "class_name": "patches",
+      "separability": 0.059171295614893704,
+      "iou": 0.5924442410469055
+    },
+    {
+      "index": 718,
+      "class_name": "scratches",
+      "separability": 0.2242073454645328,
+      "iou": 0.8506678342819214
+    },
+    {
+      "index": 719,
+      "class_name": "scratches",
+      "separability": 0.320322092166653,
+      "iou": 0.9032628536224365
+    },
+    {
+      "index": 720,
+      "class_name": "patches",
+      "separability": 0.11681216647319767,
+      "iou": 0.46626943349838257
+    },
+    {
+      "index": 721,
+      "class_name": "scratches",
+      "separability": 0.5254259508441471,
+      "iou": 0.39436620473861694
+    },
+    {
+      "index": 722,
+      "class_name": "patches",
+      "separability": 0.24407882214494614,
+      "iou": 0.6812677383422852
+    },
+    {
+      "index": 723,
+      "class_name": "patches",
+      "separability": 0.41459684945313374,
+      "iou": 0.623711347579956
+    },
+    {
+      "index": 724,
+      "class_name": "scratches",
+      "separability": 0.3068387631437123,
+      "iou": 0.9288299083709717
+    },
+    {
+      "index": 725,
+      "class_name": "scratches",
+      "separability": 0.1914253694633609,
+      "iou": 0.8805940747261047
+    },
+    {
+      "index": 726,
+      "class_name": "patches",
+      "separability": 0.08750218959426848,
+      "iou": 0.7233587503433228
+    },
+    {
+      "index": 727,
+      "class_name": "scratches",
+      "separability": 0.1989896590941374,
+      "iou": 0.5955033302307129
+    },
+    {
+      "index": 728,
+      "class_name": "scratches",
+      "separability": 0.19780185627470545,
+      "iou": 0.61898273229599
+    },
+    {
+      "index": 729,
+      "class_name": "scratches",
+      "separability": 0.1864763491914477,
+      "iou": 0.89838707447052
+    },
+    {
+      "index": 730,
+      "class_name": "scratches",
+      "separability": 0.22140724033657325,
+      "iou": 0.6302006840705872
+    },
+    {
+      "index": 731,
+      "class_name": "scratches",
+      "separability": 0.23428035039765843,
+      "iou": 0.6294498443603516
+    },
+    {
+      "index": 732,
+      "class_name": "scratches",
+      "separability": 0.19979980220009066,
+      "iou": 0.6644664406776428
+    },
+    {
+      "index": 733,
+      "class_name": "patches",
+      "separability": 0.2910501058470931,
+      "iou": 0.7833868861198425
+    },
+    {
+      "index": 734,
+      "class_name": "scratches",
+      "separability": 0.27803488454409275,
+      "iou": 0.868755578994751
+    },
+    {
+      "index": 735,
+      "class_name": "patches",
+      "separability": 0.16018299691469834,
+      "iou": 0.3942275047302246
+    },
+    {
+      "index": 736,
+      "class_name": "scratches",
+      "separability": 0.5466244404781289,
+      "iou": 0.8588386178016663
+    },
+    {
+      "index": 737,
+      "class_name": "scratches",
+      "separability": 0.3594802010239914,
+      "iou": 0.7267988920211792
+    },
+    {
+      "index": 738,
+      "class_name": "scratches",
+      "separability": 0.4224040289157969,
+      "iou": 0.7905963063240051
+    },
+    {
+      "index": 739,
+      "class_name": "scratches",
+      "separability": 0.1841113166211419,
+      "iou": 0.7443025708198547
+    },
+    {
+      "index": 740,
+      "class_name": "scratches",
+      "separability": 0.4212145468415497,
+      "iou": 0.801304042339325
+    },
+    {
+      "index": 741,
+      "class_name": "scratches",
+      "separability": 0.343329704934699,
+      "iou": 0.643856942653656
+    },
+    {
+      "index": 742,
+      "class_name": "patches",
+      "separability": 0.24872705177509288,
+      "iou": 0.6633906364440918
+    },
+    {
+      "index": 743,
+      "class_name": "scratches",
+      "separability": 0.2617183509582655,
+      "iou": 0.0
+    },
+    {
+      "index": 744,
+      "class_name": "scratches",
+      "separability": 0.3785122741217632,
+      "iou": 0.5783633589744568
+    },
+    {
+      "index": 745,
+      "class_name": "scratches",
+      "separability": 0.21044164787241793,
+      "iou": 0.9071442484855652
+    },
+    {
+      "index": 746,
+      "class_name": "patches",
+      "separability": 1.4503164792617471,
+      "iou": 0.4794275462627411
+    },
+    {
+      "index": 747,
+      "class_name": "patches",
+      "separability": 0.29859909969104753,
+      "iou": 0.7275334596633911
+    },
+    {
+      "index": 748,
+      "class_name": "scratches",
+      "separability": 0.4156640305246759,
+      "iou": 0.5736228823661804
+    },
+    {
+      "index": 749,
+      "class_name": "scratches",
+      "separability": 0.4071555612674876,
+      "iou": 0.8857316970825195
+    },
+    {
+      "index": 750,
+      "class_name": "scratches",
+      "separability": 0.480133683819797,
+      "iou": 0.7501205801963806
+    },
+    {
+      "index": 751,
+      "class_name": "patches",
+      "separability": 0.8121728891113795,
+      "iou": 0.6777572631835938
+    },
+    {
+      "index": 752,
+      "class_name": "scratches",
+      "separability": 0.22808564895439626,
+      "iou": 0.8335075974464417
+    },
+    {
+      "index": 753,
+      "class_name": "scratches",
+      "separability": 0.3436228269526354,
+      "iou": 0.7634998559951782
+    },
+    {
+      "index": 754,
+      "class_name": "patches",
+      "separability": 1.2646790009051334,
+      "iou": 0.4506666660308838
+    },
+    {
+      "index": 755,
+      "class_name": "patches",
+      "separability": 0.6719727400634005,
+      "iou": 0.5696721076965332
+    },
+    {
+      "index": 756,
+      "class_name": "patches",
+      "separability": 0.612023469393964,
+      "iou": 0.6550058126449585
+    },
+    {
+      "index": 757,
+      "class_name": "scratches",
+      "separability": 0.3819896921287119,
+      "iou": 0.6592307686805725
+    },
+    {
+      "index": 758,
+      "class_name": "scratches",
+      "separability": 0.41947457775535457,
+      "iou": 0.6818946003913879
+    },
+    {
+      "index": 759,
+      "class_name": "scratches",
+      "separability": 0.4439998599054417,
+      "iou": 0.6888123750686646
+    },
+    {
+      "index": 760,
+      "class_name": "inclusion",
+      "separability": 0.12513005873721805,
+      "iou": 0.8397324085235596
+    },
+    {
+      "index": 761,
+      "class_name": "inclusion",
+      "separability": 0.213883330839277,
+      "iou": 0.8471925854682922
+    },
+    {
+      "index": 762,
+      "class_name": "inclusion",
+      "separability": 0.24027135018446713,
+      "iou": 0.8732125759124756
+    },
+    {
+      "index": 763,
+      "class_name": "scratches",
+      "separability": 0.21524206582262356,
+      "iou": 0.7401894330978394
+    },
+    {
+      "index": 764,
+      "class_name": "inclusion",
+      "separability": 0.12839326615261662,
+      "iou": 0.8182272911071777
+    },
+    {
+      "index": 765,
+      "class_name": "inclusion",
+      "separability": 0.19946556680336913,
+      "iou": 0.8252589106559753
+    },
+    {
+      "index": 766,
+      "class_name": "inclusion",
+      "separability": 0.22767969304575716,
+      "iou": 0.8792928457260132
+    },
+    {
+      "index": 767,
+      "class_name": "inclusion",
+      "separability": 0.2177701557097458,
+      "iou": 0.8445210456848145
+    },
+    {
+      "index": 768,
+      "class_name": "inclusion",
+      "separability": 0.12573978573563727,
+      "iou": 0.8923916816711426
+    },
+    {
+      "index": 769,
+      "class_name": "inclusion",
+      "separability": 0.4775189907860131,
+      "iou": 0.678231954574585
+    },
+    {
+      "index": 770,
+      "class_name": "inclusion",
+      "separability": 0.1944925164699897,
+      "iou": 0.8062227368354797
+    },
+    {
+      "index": 771,
+      "class_name": "inclusion",
+      "separability": 0.2976945092768564,
+      "iou": 0.8198529481887817
+    },
+    {
+      "index": 772,
+      "class_name": "inclusion",
+      "separability": 0.16099957706029044,
+      "iou": 0.7528161406517029
+    },
+    {
+      "index": 773,
+      "class_name": "inclusion",
+      "separability": 0.29866196048368976,
+      "iou": 0.7402091026306152
+    },
+    {
+      "index": 774,
+      "class_name": "inclusion",
+      "separability": 0.2058278093329205,
+      "iou": 0.7976407408714294
+    },
+    {
+      "index": 775,
+      "class_name": "inclusion",
+      "separability": 0.22084596256654712,
+      "iou": 0.7742047905921936
+    },
+    {
+      "index": 776,
+      "class_name": "inclusion",
+      "separability": 0.10301762909659017,
+      "iou": 0.7946438193321228
+    },
+    {
+      "index": 777,
+      "class_name": "inclusion",
+      "separability": 0.13523154431060258,
+      "iou": 0.7560321688652039
+    },
+    {
+      "index": 778,
+      "class_name": "inclusion",
+      "separability": 0.11967939754605691,
+      "iou": 0.891069769859314
+    },
+    {
+      "index": 779,
+      "class_name": "inclusion",
+      "separability": 0.17231220566782282,
+      "iou": 0.8983402252197266
+    },
+    {
+      "index": 780,
+      "class_name": "scratches",
+      "separability": 0.125648050548413,
+      "iou": 0.8118264079093933
+    },
+    {
+      "index": 781,
+      "class_name": "scratches",
+      "separability": 0.16021131644607242,
+      "iou": 0.8016063570976257
+    },
+    {
+      "index": 782,
+      "class_name": "inclusion",
+      "separability": 0.18053944307854833,
+      "iou": 0.8430569767951965
+    },
+    {
+      "index": 783,
+      "class_name": "scratches",
+      "separability": 0.17355048611055304,
+      "iou": 0.9050365686416626
+    },
+    {
+      "index": 784,
+      "class_name": "inclusion",
+      "separability": 0.13563064653941764,
+      "iou": 0.8595423698425293
+    },
+    {
+      "index": 785,
+      "class_name": "scratches",
+      "separability": 0.34089384770500664,
+      "iou": 0.7601508498191833
+    },
+    {
+      "index": 786,
+      "class_name": "inclusion",
+      "separability": 0.16476821638570632,
+      "iou": 0.8846922516822815
+    },
+    {
+      "index": 787,
+      "class_name": "inclusion",
+      "separability": 0.15952948248646948,
+      "iou": 0.8688812851905823
+    },
+    {
+      "index": 788,
+      "class_name": "scratches",
+      "separability": 0.15393402554112243,
+      "iou": 0.8024026155471802
+    },
+    {
+      "index": 789,
+      "class_name": "scratches",
+      "separability": 0.19997172302319094,
+      "iou": 0.7670220136642456
+    },
+    {
+      "index": 790,
+      "class_name": "scratches",
+      "separability": 0.12797467123412734,
+      "iou": 0.9079685807228088
+    },
+    {
+      "index": 791,
+      "class_name": "scratches",
+      "separability": 0.08070571353196335,
+      "iou": 0.9024651646614075
+    },
+    {
+      "index": 792,
+      "class_name": "scratches",
+      "separability": 0.12733536764312023,
+      "iou": 0.8627120852470398
+    },
+    {
+      "index": 793,
+      "class_name": "scratches",
+      "separability": 0.10336793209685775,
+      "iou": 0.8460578918457031
+    },
+    {
+      "index": 794,
+      "class_name": "scratches",
+      "separability": 0.09984948590192744,
+      "iou": 0.8901854753494263
+    },
+    {
+      "index": 795,
+      "class_name": "scratches",
+      "separability": 0.15510246965657357,
+      "iou": 0.8428168892860413
+    },
+    {
+      "index": 796,
+      "class_name": "inclusion",
+      "separability": 0.11922793687122056,
+      "iou": 0.8694309592247009
+    },
+    {
+      "index": 797,
+      "class_name": "scratches",
+      "separability": 0.1582910642991373,
+      "iou": 0.8360407948493958
+    },
+    {
+      "index": 798,
+      "class_name": "inclusion",
+      "separability": 0.0942338177220137,
+      "iou": 0.7959840297698975
+    },
+    {
+      "index": 799,
+      "class_name": "inclusion",
+      "separability": 0.13465844183188558,
+      "iou": 0.7991963624954224
+    },
+    {
+      "index": 800,
+      "class_name": "scratches",
+      "separability": 0.17993117884811083,
+      "iou": 0.7161195874214172
+    },
+    {
+      "index": 801,
+      "class_name": "scratches",
+      "separability": 0.1044750486559778,
+      "iou": 0.9325689673423767
+    },
+    {
+      "index": 802,
+      "class_name": "scratches",
+      "separability": 0.10766314013018605,
+      "iou": 0.8974921703338623
+    },
+    {
+      "index": 803,
+      "class_name": "scratches",
+      "separability": 0.21422068772434985,
+      "iou": 0.9133802652359009
+    },
+    {
+      "index": 804,
+      "class_name": "scratches",
+      "separability": 0.17305837463208706,
+      "iou": 0.9219620823860168
+    },
+    {
+      "index": 805,
+      "class_name": "inclusion",
+      "separability": 0.09091482148974535,
+      "iou": 0.8993504047393799
+    },
+    {
+      "index": 806,
+      "class_name": "scratches",
+      "separability": 0.1129538870854222,
+      "iou": 0.8833746910095215
+    },
+    {
+      "index": 807,
+      "class_name": "scratches",
+      "separability": 0.2344469396167238,
+      "iou": 0.9242846369743347
+    },
+    {
+      "index": 808,
+      "class_name": "inclusion",
+      "separability": 0.0872535038760037,
+      "iou": 0.9208933115005493
+    },
+    {
+      "index": 809,
+      "class_name": "inclusion",
+      "separability": 0.07411609826763674,
+      "iou": 0.8690759539604187
+    },
+    {
+      "index": 810,
+      "class_name": "scratches",
+      "separability": 0.1654103288708404,
+      "iou": 0.9015347361564636
+    },
+    {
+      "index": 811,
+      "class_name": "inclusion",
+      "separability": 0.15089826823981659,
+      "iou": 0.8517699241638184
+    },
+    {
+      "index": 812,
+      "class_name": "scratches",
+      "separability": 0.2592192181768681,
+      "iou": 0.805598258972168
+    },
+    {
+      "index": 813,
+      "class_name": "scratches",
+      "separability": 0.22169787234679192,
+      "iou": 0.799306333065033
+    },
+    {
+      "index": 814,
+      "class_name": "inclusion",
+      "separability": 0.15997695427215203,
+      "iou": 0.8666862845420837
+    },
+    {
+      "index": 815,
+      "class_name": "inclusion",
+      "separability": 0.21428402710158723,
+      "iou": 0.8800634741783142
+    },
+    {
+      "index": 816,
+      "class_name": "inclusion",
+      "separability": 0.1507278782807768,
+      "iou": 0.9019951224327087
+    },
+    {
+      "index": 817,
+      "class_name": "inclusion",
+      "separability": 0.13416639728437224,
+      "iou": 0.887108325958252
+    },
+    {
+      "index": 818,
+      "class_name": "inclusion",
+      "separability": 0.15944284359229086,
+      "iou": 0.8283091187477112
+    },
+    {
+      "index": 819,
+      "class_name": "inclusion",
+      "separability": 0.2128854790000795,
+      "iou": 0.9122495055198669
+    },
+    {
+      "index": 820,
+      "class_name": "scratches",
+      "separability": 0.16663661322529832,
+      "iou": 0.7751930356025696
+    },
+    {
+      "index": 821,
+      "class_name": "inclusion",
+      "separability": 0.2859215900979239,
+      "iou": 0.8525891304016113
+    },
+    {
+      "index": 822,
+      "class_name": "inclusion",
+      "separability": 0.11702044773282674,
+      "iou": 0.8843838572502136
+    },
+    {
+      "index": 823,
+      "class_name": "inclusion",
+      "separability": 0.15191273891781534,
+      "iou": 0.8784866333007812
+    },
+    {
+      "index": 824,
+      "class_name": "inclusion",
+      "separability": 0.2001775953147601,
+      "iou": 0.9132872819900513
+    },
+    {
+      "index": 825,
+      "class_name": "inclusion",
+      "separability": 0.38656034617949037,
+      "iou": 0.7835857272148132
+    },
+    {
+      "index": 826,
+      "class_name": "inclusion",
+      "separability": 0.15989343404681094,
+      "iou": 0.9038758873939514
+    },
+    {
+      "index": 827,
+      "class_name": "inclusion",
+      "separability": 0.3527620257151669,
+      "iou": 0.8871144652366638
+    },
+    {
+      "index": 828,
+      "class_name": "inclusion",
+      "separability": 0.36660729610940523,
+      "iou": 0.8708046078681946
+    },
+    {
+      "index": 829,
+      "class_name": "inclusion",
+      "separability": 0.12749826301391592,
+      "iou": 0.8798773884773254
+    },
+    {
+      "index": 830,
+      "class_name": "inclusion",
+      "separability": 0.18117302092136517,
+      "iou": 0.8559426665306091
+    },
+    {
+      "index": 831,
+      "class_name": "inclusion",
+      "separability": 0.333164542422726,
+      "iou": 0.8403687477111816
+    },
+    {
+      "index": 832,
+      "class_name": "inclusion",
+      "separability": 0.07451033957411275,
+      "iou": 0.8825936317443848
+    },
+    {
+      "index": 833,
+      "class_name": "inclusion",
+      "separability": 0.1463650218868494,
+      "iou": 0.8800144195556641
+    },
+    {
+      "index": 834,
+      "class_name": "inclusion",
+      "separability": 0.24333906554441542,
+      "iou": 0.832233726978302
+    },
+    {
+      "index": 835,
+      "class_name": "inclusion",
+      "separability": 0.09569618446421457,
+      "iou": 0.7110251188278198
+    },
+    {
+      "index": 836,
+      "class_name": "inclusion",
+      "separability": 0.14887406832503844,
+      "iou": 0.8760577440261841
+    },
+    {
+      "index": 837,
+      "class_name": "scratches",
+      "separability": 0.1822458902997828,
+      "iou": 0.8821868896484375
+    },
+    {
+      "index": 838,
+      "class_name": "inclusion",
+      "separability": 0.13222121557907407,
+      "iou": 0.8844417333602905
+    },
+    {
+      "index": 839,
+      "class_name": "inclusion",
+      "separability": 0.2701469452409356,
+      "iou": 0.7916316986083984
+    }
+  ],
+  "per_image_spearman": {
+    "rho": -0.16587701675152192,
+    "p_value": 1.3385725990111963e-06,
+    "n": 840
+  }
+}

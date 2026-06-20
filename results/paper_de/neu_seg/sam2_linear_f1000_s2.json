@@ -1,0 +1,13 @@
+{
+  "dataset": "neu_seg",
+  "method": "sam2_linear",
+  "label": "SAM2(frozen)+Linear (Ours)",
+  "paper": "SAM2: Ravi et al., arXiv:2408.00714, 2024",
+  "frac": 1.0,
+  "n_images": 1200,
+  "seed": 2,
+  "miou_global": 0.5658801200762973,
+  "per_class": {},
+  "best_epoch": 0,
+  "time_s": 142.5
+}

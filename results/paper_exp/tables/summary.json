@@ -1,0 +1,54 @@
+{
+  "asi_table": [
+    {
+      "Class": "Patches",
+      "Image-level ASI": 0.06367323863014733,
+      "Finetuned IoU (%)": 77.86284098993708,
+      "Adaptation Gap": 0.07457334699433016
+    },
+    {
+      "Class": "Inclusion",
+      "Image-level ASI": 0.7108770140708803,
+      "Finetuned IoU (%)": 90.78663304629035,
+      "Adaptation Gap": -0.013295145614818815
+    },
+    {
+      "Class": "Scratches",
+      "Image-level ASI": 0.6666666666666666,
+      "Finetuned IoU (%)": 87.75202213587728,
+      "Adaptation Gap": 0.055679401500440484
+    }
+  ],
+  "main_results": [
+    {
+      "Method": "Std-LoRA",
+      "Patches IoU (%)": 80.8830509979772,
+      "Inclusion IoU (%)": 90.06109560653512,
+      "Scratches IoU (%)": 86.83126986816903,
+      "mIoU (%)": 85.92513882422713,
+      "Params (M)": 0.724036,
+      "Best Epoch": 13,
+      "Best": "\u2713"
+    },
+    {
+      "Method": "Conv-LoRA",
+      "Patches IoU (%)": 77.86284098993708,
+      "Inclusion IoU (%)": 90.78663304629035,
+      "Scratches IoU (%)": 87.75202213587728,
+      "mIoU (%)": 85.46716539070147,
+      "Params (M)": 0.727912,
+      "Best Epoch": 12,
+      "Best": ""
+    },
+    {
+      "Method": "ASI-Guided (Ours)",
+      "Patches IoU (%)": 78.06322935575398,
+      "Inclusion IoU (%)": 90.09162702628142,
+      "Scratches IoU (%)": 85.64196608460173,
+      "mIoU (%)": 84.59894082221241,
+      "Params (M)": 0.904676,
+      "Best Epoch": 4,
+      "Best": ""
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "dataset": "severstal",
+  "method": "sme_dlv3p_approx",
+  "label": "SME-DLV3+* (DLV3+-R50)",
+  "paper": "Zhang et al., PLOS One 2025 (approx. reproduction under our protocol)",
+  "frac": 0.1,
+  "n_images": 120,
+  "seed": 1,
+  "miou_global": 0.1344648431934432,
+  "per_class": {
+    "background": 0.9921465148613653,
+    "class1": 0.008413891872538489,
+    "class2": 0.0,
+    "class3": 0.3048606119625619,
+    "class4": 0.2245848689386724
+  },
+  "best_epoch": 80,
+  "time_s": 63.5
+}

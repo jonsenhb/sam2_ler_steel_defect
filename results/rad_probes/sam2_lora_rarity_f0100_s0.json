@@ -1,0 +1,25 @@
+{
+  "dataset": "neu_seg",
+  "method": "sam2_lora_rarity_f0100_s0",
+  "label": "SAM2+LoRA + Rarity-weighted CE (Probe-1)",
+  "loss_mode": "rarity",
+  "frac": 0.1,
+  "n_images": 120,
+  "seed": 0,
+  "miou_global": 0.7239382398437856,
+  "per_class": {
+    "background": 0.9612297386636285,
+    "patches": 0.6386276395638815,
+    "inclusion": 0.7926899248978132,
+    "scratches": 0.7404971550696622
+  },
+  "best_epoch": 12,
+  "class_weights": [
+    0.23005279395736733,
+    1.438568857301339,
+    0.9372927413337884,
+    1.3940856074075048
+  ],
+  "time_s": 650.1,
+  "paper_de_protocol": true
+}

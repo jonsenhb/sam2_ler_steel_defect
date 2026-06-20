@@ -1,0 +1,9 @@
+title: SAM2-LER
+message: >-
+  If you use this code or experiment results, please cite our Sensors paper (under review).
+authors:
+  - family-names: TBD
+    given-names: TBD
+repository-code: 'https://github.com/TBD/sam2-ler'
+version: 0.1.0
+date-released: '2026-06-20'

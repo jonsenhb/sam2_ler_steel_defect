@@ -1,0 +1,1510 @@
+[
+  {
+    "path": "results/MANIFEST.json",
+    "sha256": "f1e28db829f33aaa06e49ccc0c002e0c6c0b3a3d4ee911f6726769870063c932"
+  },
+  {
+    "path": "results/paper_de/neu_seg/ddsnet_approx_f0010_s0.json",
+    "sha256": "625cdd01f24e3b227aa0f95ace81e82cb28d2a678834d69ccc6c84bacccb3b65"
+  },
+  {
+    "path": "results/paper_de/neu_seg/ddsnet_approx_f0010_s1.json",
+    "sha256": "251fe451336ee4ba37fd03fe02a70fa8a6fd16459ddf3f7c6e880e2b3f716db0"
+  },
+  {
+    "path": "results/paper_de/neu_seg/ddsnet_approx_f0010_s2.json",
+    "sha256": "ed1a16cb13ee9583178f495713d9cf9907a34f3f734582e01674f57025efc7f9"
+  },
+  {
+    "path": "results/paper_de/neu_seg/ddsnet_approx_f0050_s0.json",
+    "sha256": "a48e01be06b4ea1e3931328e9df005d11f6a7de858334fcb1582b04762e5e465"
+  },
+  {
+    "path": "results/paper_de/neu_seg/ddsnet_approx_f0050_s1.json",
+    "sha256": "1d271434c714b8a3b8c160ca064b62933c09424dbbf95473056968a2dd58af29"
+  },
+  {
+    "path": "results/paper_de/neu_seg/ddsnet_approx_f0050_s2.json",
+    "sha256": "1c6d8f169e87cb973ca227a90e63e92b360d4945a6870c1e3c0b4957b8436e25"
+  },
+  {
+    "path": "results/paper_de/neu_seg/ddsnet_approx_f0100_s0.json",
+    "sha256": "8d142a20226e938adf3478c6d6ac84520345a53d97adefeecb8be3a096afc413"
+  },
+  {
+    "path": "results/paper_de/neu_seg/ddsnet_approx_f0100_s1.json",
+    "sha256": "28338bdd664caba80234590d4782f62882824ce7d2cf72e0a790e23b7a3960ea"
+  },
+  {
+    "path": "results/paper_de/neu_seg/ddsnet_approx_f0100_s2.json",
+    "sha256": "eb5fb9e2bf546bcedde07d4414c7f60a6589cb58143054b526eb80d91ca0183a"
+  },
+  {
+    "path": "results/paper_de/neu_seg/ddsnet_approx_f0250_s0.json",
+    "sha256": "cedb0210c3528a250c5439c76852755fe90b59aebda75d4ec0f83282175f58a4"
+  },
+  {
+    "path": "results/paper_de/neu_seg/ddsnet_approx_f0250_s1.json",
+    "sha256": "6e8426816424b57dc17946823aefb458ec325b12602c9d67e17486c1dabfb5b3"
+  },
+  {
+    "path": "results/paper_de/neu_seg/ddsnet_approx_f0250_s2.json",
+    "sha256": "08654e492bdd47d28c4189b82b94c23b21f70a9db1387ad60afba70f16371702"
+  },
+  {
+    "path": "results/paper_de/neu_seg/ddsnet_approx_f1000_s0.json",
+    "sha256": "62b5ae0b06742f5558c66fe885adb23cc29e273317d93005a623b675edcb2d9b"
+  },
+  {
+    "path": "results/paper_de/neu_seg/ddsnet_approx_f1000_s1.json",
+    "sha256": "01a1889939c507b5ce64f4544cbcadbfb6b1e975fbc7bfb5c6880a96be366695"
+  },
+  {
+    "path": "results/paper_de/neu_seg/ddsnet_approx_f1000_s2.json",
+    "sha256": "70bd8d278c4ed37fff1f8b0d4c619435634e5b9d04eeae06f072fe956ad2a48d"
+  },
+  {
+    "path": "results/paper_de/neu_seg/deeplabv3plus_f0010_s0.json",
+    "sha256": "ccbff279fc398d6b7b0f4f0f2f33dee6d4418429f14caacfa4f01ba04cd4810c"
+  },
+  {
+    "path": "results/paper_de/neu_seg/deeplabv3plus_f0010_s1.json",
+    "sha256": "b6436c5e30216b2d1ab161b35b418b6f0a8c5dde03a93ae6790fcea574c1d0fa"
+  },
+  {
+    "path": "results/paper_de/neu_seg/deeplabv3plus_f0010_s2.json",
+    "sha256": "9d35e32f03b50b40e0aa2f8da7d6f7f4f8cfa8024166d92d8fa7729246d9b241"
+  },
+  {
+    "path": "results/paper_de/neu_seg/deeplabv3plus_f0050_s0.json",
+    "sha256": "2c93c876756b13e55a34489ab9b9054585bd49672648f1be8e56fcfdc81d200c"
+  },
+  {
+    "path": "results/paper_de/neu_seg/deeplabv3plus_f0050_s1.json",
+    "sha256": "d935a2cf53bc23fe9b977a094e52924ef7baf81793820ab12e8dfbfe8510adae"
+  },
+  {
+    "path": "results/paper_de/neu_seg/deeplabv3plus_f0050_s2.json",
+    "sha256": "fea6a437b070fe05311c0769b9b5ccf70b0c994ff9c644904fdee81cdffb6a44"
+  },
+  {
+    "path": "results/paper_de/neu_seg/deeplabv3plus_f0100_s0.json",
+    "sha256": "c77a7d580c149fc35f9e90443a9f8575cc7add49c2566cf873e2817fa143ea67"
+  },
+  {
+    "path": "results/paper_de/neu_seg/deeplabv3plus_f0100_s1.json",
+    "sha256": "60a6ad3305ed62d3fa36e8ba6b5eabe7cc1c6cdad6ceeca1aa5ed5a9fc693d21"
+  },
+  {
+    "path": "results/paper_de/neu_seg/deeplabv3plus_f0100_s2.json",
+    "sha256": "fbffcaffb8859897113b2692cd768c38889e16db585e4f31c6fff869404849cd"
+  },
+  {
+    "path": "results/paper_de/neu_seg/deeplabv3plus_f0250_s0.json",
+    "sha256": "65ec1101f4d4ae9427fd9aef28c86c801f84905dbd9d78ce43a1f117aea2ba2f"
+  },
+  {
+    "path": "results/paper_de/neu_seg/deeplabv3plus_f0250_s1.json",
+    "sha256": "0aa073b12e8d374bf38f51c277ae21787cd785e317655b4ad7b3ef75a298859a"
+  },
+  {
+    "path": "results/paper_de/neu_seg/deeplabv3plus_f0250_s2.json",
+    "sha256": "f5141759395cef19f38f34c7a3b140d9851eaf999ed8e69950244a2f3bd7038d"
+  },
+  {
+    "path": "results/paper_de/neu_seg/deeplabv3plus_f1000_s0.json",
+    "sha256": "ffc5205d6c935d10f1d242e7d79de77bbba996132666b566637f3d63bae40a40"
+  },
+  {
+    "path": "results/paper_de/neu_seg/deeplabv3plus_f1000_s1.json",
+    "sha256": "607b451056a9333b008716e964c91872906ba401d4962bb8846c254f118592d7"
+  },
+  {
+    "path": "results/paper_de/neu_seg/deeplabv3plus_f1000_s2.json",
+    "sha256": "4baadf0719d6844dd50f871c9eb45d9babab35c248ddd881b4aead7fd4fa0c24"
+  },
+  {
+    "path": "results/paper_de/neu_seg/hybrid_trans_approx_f0010_s0.json",
+    "sha256": "7c1abbc75f82a4641159cefbc52ce489fcab81aae12e283ec7c4278c8a75c8a4"
+  },
+  {
+    "path": "results/paper_de/neu_seg/hybrid_trans_approx_f0010_s1.json",
+    "sha256": "440f3a5632d576801291e6dbd49d53c9e7952018a9e6f958602075d1e60a24b8"
+  },
+  {
+    "path": "results/paper_de/neu_seg/hybrid_trans_approx_f0010_s2.json",
+    "sha256": "80aa7a64133def84169ab85f9f7b4a20cf913f6348b24b9bd4b479dcfc82e389"
+  },
+  {
+    "path": "results/paper_de/neu_seg/hybrid_trans_approx_f0050_s0.json",
+    "sha256": "355d2d46a7985a0d4c4f2c7fd946ef394e09b550eb3eb2126db5bbed38691c69"
+  },
+  {
+    "path": "results/paper_de/neu_seg/hybrid_trans_approx_f0050_s1.json",
+    "sha256": "6085d28e2fc9d1dca46e0eb57f1b22c49631705fcacca1747f641656b5148237"
+  },
+  {
+    "path": "results/paper_de/neu_seg/hybrid_trans_approx_f0050_s2.json",
+    "sha256": "c89c00e5c3f0fd310370cf9fa5b87fc756c1e9b667d26755f5e946794c1fae27"
+  },
+  {
+    "path": "results/paper_de/neu_seg/hybrid_trans_approx_f0100_s0.json",
+    "sha256": "b506ffb6a1f13f91b329df6df49cbd0072fbe951838467ea84b7e93563ad797a"
+  },
+  {
+    "path": "results/paper_de/neu_seg/hybrid_trans_approx_f0100_s1.json",
+    "sha256": "bfe13f5b574caf43ba32911d98df5aa39da4f20816a5ec23a9da7a9cce81aaf0"
+  },
+  {
+    "path": "results/paper_de/neu_seg/hybrid_trans_approx_f0100_s2.json",
+    "sha256": "0c137623b5768e8140ab2980f7adc047bed10934e0b47d6d6179722f4a1b7439"
+  },
+  {
+    "path": "results/paper_de/neu_seg/hybrid_trans_approx_f0250_s0.json",
+    "sha256": "6c2c44a57474dc9b80846ad8220af5d94ca1509dcc33cb5e86c2c7dd38a5ff1b"
+  },
+  {
+    "path": "results/paper_de/neu_seg/hybrid_trans_approx_f0250_s1.json",
+    "sha256": "e61c6b006e2b2f467700125c5805847f5fda550403ad842b08626894dab42ad8"
+  },
+  {
+    "path": "results/paper_de/neu_seg/hybrid_trans_approx_f0250_s2.json",
+    "sha256": "ab81e32a92360fd72147b4ec021a7b13c0e03a923eaaa1d63ec7b917e2a6cbc8"
+  },
+  {
+    "path": "results/paper_de/neu_seg/hybrid_trans_approx_f1000_s0.json",
+    "sha256": "d6f82d34adaf76e852e9d3c3d684d0e60c79a492293e2215595d0dd0bf736021"
+  },
+  {
+    "path": "results/paper_de/neu_seg/hybrid_trans_approx_f1000_s1.json",
+    "sha256": "c7aa63e72c7af76b10c0b0fbf7a237cf01bc97847ce9b849632eaed079eae2b4"
+  },
+  {
+    "path": "results/paper_de/neu_seg/hybrid_trans_approx_f1000_s2.json",
+    "sha256": "3c7068fc8b185307a123521232eed96b5d6b8f0bf062006e7120b1629d7e2c35"
+  },
+  {
+    "path": "results/paper_de/neu_seg/mff_metal_approx_f0010_s0.json",
+    "sha256": "69bb67246e33594581bf075c01b5f3f7c154178b9a6a207485d1f431c72f4e54"
+  },
+  {
+    "path": "results/paper_de/neu_seg/mff_metal_approx_f0010_s1.json",
+    "sha256": "767e522c80cf7fae0d620ab3d9747f99c127711b25e660b5869230bafce275c8"
+  },
+  {
+    "path": "results/paper_de/neu_seg/mff_metal_approx_f0010_s2.json",
+    "sha256": "eb3754d0c042bd55b17d71a770a04a9d1bae05cd2dc9e9b9bc23f1d48d32bae8"
+  },
+  {
+    "path": "results/paper_de/neu_seg/mff_metal_approx_f0050_s0.json",
+    "sha256": "5c6adaeced277302fa6fc4fc87a68cbd8b063a3ffcefadd1be9a095278ce25bf"
+  },
+  {
+    "path": "results/paper_de/neu_seg/mff_metal_approx_f0050_s1.json",
+    "sha256": "ada23fc1a65b9ac8cd27ccea0a7930d574855523d9935f181912b3d1a5720070"
+  },
+  {
+    "path": "results/paper_de/neu_seg/mff_metal_approx_f0050_s2.json",
+    "sha256": "e4241ae26697dc32e25a127916d32422fbbd6878ab3c91b84ac23f200f2ae2fc"
+  },
+  {
+    "path": "results/paper_de/neu_seg/mff_metal_approx_f0100_s0.json",
+    "sha256": "6dcb4636c9b95ed438fce2fa3b4ff6bbe217135c91330e3b2a2b5d770ea31730"
+  },
+  {
+    "path": "results/paper_de/neu_seg/mff_metal_approx_f0100_s1.json",
+    "sha256": "6d0c5d987ce08a037eedb5ddf36a05fbe344aebf90160f57275073a8530407df"
+  },
+  {
+    "path": "results/paper_de/neu_seg/mff_metal_approx_f0100_s2.json",
+    "sha256": "385751925147fd73415b1240583baac5221f5ee04555f8d97c2bc0b78db13d02"
+  },
+  {
+    "path": "results/paper_de/neu_seg/mff_metal_approx_f0250_s0.json",
+    "sha256": "9127b5830635b27acda6c9323eec51c641f7f158d5e386198e4ed59de4ca730a"
+  },
+  {
+    "path": "results/paper_de/neu_seg/mff_metal_approx_f0250_s1.json",
+    "sha256": "eaa3366e01d3ca02f6c88fd42cb66b58e9e7af339c2ad1811ab062bd445fa823"
+  },
+  {
+    "path": "results/paper_de/neu_seg/mff_metal_approx_f0250_s2.json",
+    "sha256": "9f092de25d2f405126bf689029c6534bd3b7f912893e051c0f2ab1ddddeb63d2"
+  },
+  {
+    "path": "results/paper_de/neu_seg/mff_metal_approx_f1000_s0.json",
+    "sha256": "7b3cc5449a11a50835a253ede84784f130e45c8f7eb781b996918654b0258033"
+  },
+  {
+    "path": "results/paper_de/neu_seg/mff_metal_approx_f1000_s1.json",
+    "sha256": "04043f2e0451945556e5fd1132d43940a44e6952d895516fc959fd4120c175a6"
+  },
+  {
+    "path": "results/paper_de/neu_seg/mff_metal_approx_f1000_s2.json",
+    "sha256": "616778e83e8820146cd1761685f2e673b9cd9f7518a3fba3ba7b5f12d7b7e6d7"
+  },
+  {
+    "path": "results/paper_de/neu_seg/pspnet_f0010_s0.json",
+    "sha256": "c76623f862420001d7997e23f25f1159b3094c2c53ae54d10a40427b64ccdc78"
+  },
+  {
+    "path": "results/paper_de/neu_seg/pspnet_f0010_s1.json",
+    "sha256": "ce7b8ab1537b2e94e53a5dc7632b831327129d36ed9b2a24d0feb6ff41f7f086"
+  },
+  {
+    "path": "results/paper_de/neu_seg/pspnet_f0010_s2.json",
+    "sha256": "a2ace64ce2e4c78ad247b25464b1facb11fadacc0fdb1a7e31669595005439e7"
+  },
+  {
+    "path": "results/paper_de/neu_seg/pspnet_f0050_s0.json",
+    "sha256": "0a760ab26fe99320cfcaef6d5f7b05ec12df319b89daf185ec03f46a23a93363"
+  },
+  {
+    "path": "results/paper_de/neu_seg/pspnet_f0050_s1.json",
+    "sha256": "7d9597a597fde283bd3d30a45356345fc4563e60d47554f9f35cfdcfcc5d1e48"
+  },
+  {
+    "path": "results/paper_de/neu_seg/pspnet_f0050_s2.json",
+    "sha256": "69b3e541be43a8728d598aca941342e0d5d95cafda9dda85d06c0ec55bace8c5"
+  },
+  {
+    "path": "results/paper_de/neu_seg/pspnet_f0100_s0.json",
+    "sha256": "3ffb12e1e87c5af8c0558d5e36f9668295ab3175292f9f3534a3c276c2724ef3"
+  },
+  {
+    "path": "results/paper_de/neu_seg/pspnet_f0100_s1.json",
+    "sha256": "0897e085dba82dd9a44103f9af568504f6759fce88035519a7cccb832dd88c5c"
+  },
+  {
+    "path": "results/paper_de/neu_seg/pspnet_f0100_s2.json",
+    "sha256": "abdd14d9e9069a0e6debc2fc85ddde498444058f5e5bd15a7f10650a7b747bf0"
+  },
+  {
+    "path": "results/paper_de/neu_seg/pspnet_f0250_s0.json",
+    "sha256": "6cbc8543a50fbf5453aaa56f2edacbb60162403539867c9a7290e5963a19c6aa"
+  },
+  {
+    "path": "results/paper_de/neu_seg/pspnet_f0250_s1.json",
+    "sha256": "790861f5692cd859fc17ad7349b777cff2cabec9ade0d0a1ccd2156e53cf6381"
+  },
+  {
+    "path": "results/paper_de/neu_seg/pspnet_f0250_s2.json",
+    "sha256": "8a1ac71cba1aa07585724312fd056217d6026372be40ed0e7ad9a6c21c0d45aa"
+  },
+  {
+    "path": "results/paper_de/neu_seg/pspnet_f1000_s0.json",
+    "sha256": "498b3a775dfbe72202f9ae311bfd907880b2c29e328a57d60b33b40ad4dec980"
+  },
+  {
+    "path": "results/paper_de/neu_seg/pspnet_f1000_s1.json",
+    "sha256": "3e774d079450a5f157b859b9a5aed08d1ad207968529748dd0395425e33e26bc"
+  },
+  {
+    "path": "results/paper_de/neu_seg/pspnet_f1000_s2.json",
+    "sha256": "6bd1090573179d89e3b76dbad5474d75de886aae1b4ad9ae4247a40c040a4e24"
+  },
+  {
+    "path": "results/paper_de/neu_seg/sam2_linear_f0010_s0.json",
+    "sha256": "a5c4e92676cf733654280ccb1972e4d2f528fd053415bc71c6ffae59af7e645c"
+  },
+  {
+    "path": "results/paper_de/neu_seg/sam2_linear_f0010_s1.json",
+    "sha256": "bd5032cf59f0998d5fe64a17d5bf20d9aa2083d33ff28a7c9ad8c082c6fbbfba"
+  },
+  {
+    "path": "results/paper_de/neu_seg/sam2_linear_f0010_s2.json",
+    "sha256": "0d46a3576a3a3089cc07b7f27cec27bc1a68995f6e51501919be8935f52a4093"
+  },
+  {
+    "path": "results/paper_de/neu_seg/sam2_linear_f0050_s0.json",
+    "sha256": "a1f2603556da1894793ed4a1bccc55cf77bbad42cc498ac82c2e565b77688a0d"
+  },
+  {
+    "path": "results/paper_de/neu_seg/sam2_linear_f0050_s1.json",
+    "sha256": "9da420948ed73e3197440761dfc878edcb0a28679e483147c6487e6708b367e1"
+  },
+  {
+    "path": "results/paper_de/neu_seg/sam2_linear_f0050_s2.json",
+    "sha256": "a2f985fa06257df9216af8003f9d2091b50204d1e3566950213fea5a3511e2fd"
+  },
+  {
+    "path": "results/paper_de/neu_seg/sam2_linear_f0100_s0.json",
+    "sha256": "20fc51ae54dfb91ce02772cfaa00c70cbd4060a820f2338e227e22bb6e324e41"
+  },
+  {
+    "path": "results/paper_de/neu_seg/sam2_linear_f0100_s1.json",
+    "sha256": "216d139c2bc7dead52d31ab3094c4cc2be67b03eb951557eed967eb8e5d711fd"
+  },
+  {
+    "path": "results/paper_de/neu_seg/sam2_linear_f0100_s2.json",
+    "sha256": "2fe588445b01f1cf25d4a3b682eff8922e34cd64b46544fa3b0d1669da61da27"
+  },
+  {
+    "path": "results/paper_de/neu_seg/sam2_linear_f0250_s0.json",
+    "sha256": "c869b5b0fbe3473c67e84d090ff26c5c7851193afa96b32591505c048e4649fc"
+  },
+  {
+    "path": "results/paper_de/neu_seg/sam2_linear_f0250_s1.json",
+    "sha256": "b7dd8e64aa404de3379fe6444d222fbd85e82d2f087c1087e0716ba22ba3e93c"
+  },
+  {
+    "path": "results/paper_de/neu_seg/sam2_linear_f0250_s2.json",
+    "sha256": "476621521533e97050fff9551e63baca96b289729540fc29e190f7d3ba7d474d"
+  },
+  {
+    "path": "results/paper_de/neu_seg/sam2_linear_f1000_s0.json",
+    "sha256": "6c80d7a7cbeb4ae0cfa182d436e96427586e9abc1e3bd63e9ba1672a9fd2aac0"
+  },
+  {
+    "path": "results/paper_de/neu_seg/sam2_linear_f1000_s1.json",
+    "sha256": "3e50b3ab50ad36e561550947f2f3f6152c8903bae4e78948e6fd3eb211c4d65b"
+  },
+  {
+    "path": "results/paper_de/neu_seg/sam2_linear_f1000_s2.json",
+    "sha256": "7437ddaced9901236436c0e3f6c5da75f823461f4b9c39549ae5f873c22a29a5"
+  },
+  {
+    "path": "results/paper_de/neu_seg/sam2_lora_f0010_s0.json",
+    "sha256": "5126f1ed716efab4a7b5f8cc8d0f608313b747c03b5efe5a50a1465bfcdeeadb"
+  },
+  {
+    "path": "results/paper_de/neu_seg/sam2_lora_f0010_s1.json",
+    "sha256": "adb3fe7c9a0c2101f04bfea4a7c7417a0a3907a2fbd2ed5d390b0255585436ea"
+  },
+  {
+    "path": "results/paper_de/neu_seg/sam2_lora_f0010_s2.json",
+    "sha256": "bbb4809cc65cd04894291b819b96ce1ab01ae0ac1a670974b71d37f43286491c"
+  },
+  {
+    "path": "results/paper_de/neu_seg/sam2_lora_f0050_s0.json",
+    "sha256": "c25f3ffd2013f7123f5d194fbdb4c383cb3b77f1c4638490f21035ef90e313ed"
+  },
+  {
+    "path": "results/paper_de/neu_seg/sam2_lora_f0050_s1.json",
+    "sha256": "1871592590929126172cf0089ced476579d108140af190b44597048f7f97b05a"
+  },
+  {
+    "path": "results/paper_de/neu_seg/sam2_lora_f0050_s2.json",
+    "sha256": "4b69a9c9a8f5265495167265b578854ecaa2d3b691d8c6886df1e7d7d43067de"
+  },
+  {
+    "path": "results/paper_de/neu_seg/sam2_lora_f0100_s0.json",
+    "sha256": "e14605409cd9c6d6683c00cee8cb3086630cf4d782210c4c881c7b94ec9c8052"
+  },
+  {
+    "path": "results/paper_de/neu_seg/sam2_lora_f0100_s1.json",
+    "sha256": "08b3266f6a2a9077d1e284f4ac711fe8432edbea211f5a85e814de81360d7dfa"
+  },
+  {
+    "path": "results/paper_de/neu_seg/sam2_lora_f0100_s2.json",
+    "sha256": "2176b9514fa4845661a0acf38c1fe57286d037094e0866c3cf8f2bc25d940dcc"
+  },
+  {
+    "path": "results/paper_de/neu_seg/sam2_lora_f0250_s0.json",
+    "sha256": "487c523acebec8ee22b68185e53df585904800261911711f753b32066047e8e2"
+  },
+  {
+    "path": "results/paper_de/neu_seg/sam2_lora_f0250_s1.json",
+    "sha256": "8974d2b9de50aff6accc4181b43b28ea90d33e2e8580f556d230646fada6df0f"
+  },
+  {
+    "path": "results/paper_de/neu_seg/sam2_lora_f0250_s2.json",
+    "sha256": "12be1f070769702317313fbe12826cbff4d8479155aa34de1a9a2ab962887164"
+  },
+  {
+    "path": "results/paper_de/neu_seg/sam2_lora_f1000_s0.json",
+    "sha256": "85881b52d2f7ae450e08f85b4b50365d2de3015dd7e4ae67f5ae0ac862bf5a67"
+  },
+  {
+    "path": "results/paper_de/neu_seg/sam2_lora_f1000_s1.json",
+    "sha256": "c6f7456699756a6aab8d0d3c0523f582a075fd5eec5d02839017e20f2408f797"
+  },
+  {
+    "path": "results/paper_de/neu_seg/sam2_lora_f1000_s2.json",
+    "sha256": "2fba837958fd9395c2744163f5dbcee9ad33d051016ac818285192ec0ef6dc23"
+  },
+  {
+    "path": "results/paper_de/neu_seg/segformer_f0010_s0.json",
+    "sha256": "743000208ac1f1a2a215ce8e20d32fcd4751542646c49db2bee6629cd2d6e722"
+  },
+  {
+    "path": "results/paper_de/neu_seg/segformer_f0010_s1.json",
+    "sha256": "8a15bd5249545cfc9c030e99c2f5d69e94bb389e6de5b051b6858f9763890cdc"
+  },
+  {
+    "path": "results/paper_de/neu_seg/segformer_f0010_s2.json",
+    "sha256": "11ae11436d0642bc540a9a396ddc6da0769fcb5470776feb2ccad763775c7a38"
+  },
+  {
+    "path": "results/paper_de/neu_seg/segformer_f0050_s0.json",
+    "sha256": "812f5a7d31f00a3459e5a783ff3f4845164163219fd13bdc0a2027b339b35b91"
+  },
+  {
+    "path": "results/paper_de/neu_seg/segformer_f0050_s1.json",
+    "sha256": "3447bc9e4e4d512d5966c6b49d71fe09793175bf31454a26a1543decedce6b39"
+  },
+  {
+    "path": "results/paper_de/neu_seg/segformer_f0050_s2.json",
+    "sha256": "412d03d62d93ce986ec6ea185d8732225f9495031de42884230c9272333efcfb"
+  },
+  {
+    "path": "results/paper_de/neu_seg/segformer_f0100_s0.json",
+    "sha256": "ba0bcc5f8858c96f341de48f94f324c5c31b5c4e11fd7c364171cbf10e6f76f9"
+  },
+  {
+    "path": "results/paper_de/neu_seg/segformer_f0100_s1.json",
+    "sha256": "3d8c7d19dc2672ea6910d20ebae0400e21468bd805e19ff67a5186506ad77a8e"
+  },
+  {
+    "path": "results/paper_de/neu_seg/segformer_f0100_s2.json",
+    "sha256": "59ac5521a0dd9ae8802c55367bd0621d94f999d7b6bbb5992d402466f79f2965"
+  },
+  {
+    "path": "results/paper_de/neu_seg/segformer_f0250_s0.json",
+    "sha256": "be7aec5371572569700ea2e893c373f786d924c85c3ade6747b66d581fb955c3"
+  },
+  {
+    "path": "results/paper_de/neu_seg/segformer_f0250_s1.json",
+    "sha256": "61f7e671cf80ba1f31506930baee62178abc4ed31e3f114e1e664727c026b12b"
+  },
+  {
+    "path": "results/paper_de/neu_seg/segformer_f0250_s2.json",
+    "sha256": "57783af979ae933ef6f164a7258cd787fc26e2e60339f8f9f39eb9eb7931a38c"
+  },
+  {
+    "path": "results/paper_de/neu_seg/segformer_f1000_s0.json",
+    "sha256": "3d05f033a97ec85d5d887c9349fa10a53be94b1a5bb9d78876cf038d567257a2"
+  },
+  {
+    "path": "results/paper_de/neu_seg/segformer_f1000_s1.json",
+    "sha256": "b3651bf071e7c80f5ad88a369e9bb901aaea5f902dea5e50e39cd406605920a6"
+  },
+  {
+    "path": "results/paper_de/neu_seg/segformer_f1000_s2.json",
+    "sha256": "cec3ee8dd86deb456e881f3a0ef700c0a474b74488974faa811a032de6232542"
+  },
+  {
+    "path": "results/paper_de/neu_seg/sme_dlv3p_approx_f0010_s0.json",
+    "sha256": "db304b4f6b057596f6954c37e6f72bb10f29f3b1800bc395ebd7e4571000cc87"
+  },
+  {
+    "path": "results/paper_de/neu_seg/sme_dlv3p_approx_f0010_s1.json",
+    "sha256": "0e528af98a9f4eeedd56a72c1aac5bdecb66b009a401c2c3519064ecae9306a9"
+  },
+  {
+    "path": "results/paper_de/neu_seg/sme_dlv3p_approx_f0010_s2.json",
+    "sha256": "9ad7c1a49b377a3a6b66158df7a576e701b2b1a9a8ae85aa18a4b0083860592c"
+  },
+  {
+    "path": "results/paper_de/neu_seg/sme_dlv3p_approx_f0050_s0.json",
+    "sha256": "e266a8fae2686f46a0c482f90f8a6023122345f8f26ff11109dbeee494b544c3"
+  },
+  {
+    "path": "results/paper_de/neu_seg/sme_dlv3p_approx_f0050_s1.json",
+    "sha256": "8a47495c3013a89c91a6a8715688c11298501d11e54e75c4f4a404e9d32635f6"
+  },
+  {
+    "path": "results/paper_de/neu_seg/sme_dlv3p_approx_f0050_s2.json",
+    "sha256": "be78d93fa6c3d8e0ed9fc8d2e026761ea814f6f86ac8d6929dc9ec989fecdb82"
+  },
+  {
+    "path": "results/paper_de/neu_seg/sme_dlv3p_approx_f0100_s0.json",
+    "sha256": "0ba5ef7340ef7aa4b47995bc35b99be148b2fcde3ad745572e37630db704699e"
+  },
+  {
+    "path": "results/paper_de/neu_seg/sme_dlv3p_approx_f0100_s1.json",
+    "sha256": "88e4130e4037aefa60f557687f1b1e389f0caec7b7d4d2b9383f539371c60473"
+  },
+  {
+    "path": "results/paper_de/neu_seg/sme_dlv3p_approx_f0100_s2.json",
+    "sha256": "720cf4c8fddbd8cc49165441b166bc38ccb6259ee673801036f1b8839a7c5bca"
+  },
+  {
+    "path": "results/paper_de/neu_seg/sme_dlv3p_approx_f0250_s0.json",
+    "sha256": "66aa861e7ce97f6c2e92fe0da1e98ab0bca9ed9309caa2c500f4d6a1fdecb1c4"
+  },
+  {
+    "path": "results/paper_de/neu_seg/sme_dlv3p_approx_f0250_s1.json",
+    "sha256": "6a2882b47a42100e4b2eb3fe5d1c1d4dd8751a28471d03bc1f6a555e471d371f"
+  },
+  {
+    "path": "results/paper_de/neu_seg/sme_dlv3p_approx_f0250_s2.json",
+    "sha256": "6bd7587cb2573f1d5466f829d9805b0a4e8103265ce0d3dea51810afabecff43"
+  },
+  {
+    "path": "results/paper_de/neu_seg/sme_dlv3p_approx_f1000_s0.json",
+    "sha256": "78890751666e63ba80a177e1085472dcb3d855c26604bcca3b87d86fee5d7258"
+  },
+  {
+    "path": "results/paper_de/neu_seg/sme_dlv3p_approx_f1000_s1.json",
+    "sha256": "9553196b2bc295dad8b211c5b6d121fbf6fc642d2fbb5bedad933f411db968fe"
+  },
+  {
+    "path": "results/paper_de/neu_seg/sme_dlv3p_approx_f1000_s2.json",
+    "sha256": "a9a1e67999c9aa2ff7f570bb1179d0ed1f52045684af943e5662ac05962984e8"
+  },
+  {
+    "path": "results/paper_de/neu_seg/unet_f0010_s0.json",
+    "sha256": "d8e67cec65283d59237911b848d3903c0b2fc5e54a3c00beb8b72d81696d1d84"
+  },
+  {
+    "path": "results/paper_de/neu_seg/unet_f0010_s1.json",
+    "sha256": "74ed19ab7bb47e51d9e5b4a4b998871f15a0e61d37a21bace6f8ff8954f2dfe7"
+  },
+  {
+    "path": "results/paper_de/neu_seg/unet_f0010_s2.json",
+    "sha256": "7a9422f03d132c59ec8b1998803638e9291ce6b194e04098fdc3565a4de2e008"
+  },
+  {
+    "path": "results/paper_de/neu_seg/unet_f0050_s0.json",
+    "sha256": "9b32689157dacc57f4ae9d3acf90e87528a604251d1e085fdb4d3e325027571d"
+  },
+  {
+    "path": "results/paper_de/neu_seg/unet_f0050_s1.json",
+    "sha256": "e6b48732d3ca629af53ae52eead384ffa0fad13123ef68c8b48d97fcecd15cc2"
+  },
+  {
+    "path": "results/paper_de/neu_seg/unet_f0050_s2.json",
+    "sha256": "7fa862ba7cce77e8cc3e5da20f1d1297fa62fe6b72baa799dabeb3c41485d5a1"
+  },
+  {
+    "path": "results/paper_de/neu_seg/unet_f0100_s0.json",
+    "sha256": "fe424277658a2c17e1fa7490575c14f37ba8d49c53b6c673d150a9dd48950dd8"
+  },
+  {
+    "path": "results/paper_de/neu_seg/unet_f0100_s1.json",
+    "sha256": "8e2f504fc6b452f574f70869530b56ae2856d0e74e36da588e365700e38a568c"
+  },
+  {
+    "path": "results/paper_de/neu_seg/unet_f0100_s2.json",
+    "sha256": "ec406f283bb65aa43cde3486c35afb74b4136cc6c64545b62bfbca6bfcd9a2d6"
+  },
+  {
+    "path": "results/paper_de/neu_seg/unet_f0250_s0.json",
+    "sha256": "503f9099255730681215db63e12bf332f9e149b1304be275972b0f3ecd3fcf3f"
+  },
+  {
+    "path": "results/paper_de/neu_seg/unet_f0250_s1.json",
+    "sha256": "3e8bd020d0f2aea421ef33728baa0962591be6e089e727decec12d80722d3f77"
+  },
+  {
+    "path": "results/paper_de/neu_seg/unet_f0250_s2.json",
+    "sha256": "76505094cdeb1a32caf8b1cfc5b4d6cf043d59b43351c431158505d8988c231a"
+  },
+  {
+    "path": "results/paper_de/neu_seg/unet_f1000_s0.json",
+    "sha256": "aa71e6e425f1b4e4242048f11358dfcf7e4f5fdc2a86745f09870e3b380fe0b2"
+  },
+  {
+    "path": "results/paper_de/neu_seg/unet_f1000_s1.json",
+    "sha256": "a997092134ed9a06f07c7afdea732044b713fcb4bbacad565130787df5dd652d"
+  },
+  {
+    "path": "results/paper_de/neu_seg/unet_f1000_s2.json",
+    "sha256": "0ebb272d707694d1602ca783897f9e4c8d193c85da1ad4ec2da7ab4d92f7624d"
+  },
+  {
+    "path": "results/paper_de/neu_seg/unet_imagenet_f0010_s0.json",
+    "sha256": "f51f9ebf269c8f116d59e85337399c5b478797eec35390784baa3e8044b55f0b"
+  },
+  {
+    "path": "results/paper_de/neu_seg/unet_imagenet_f0010_s1.json",
+    "sha256": "3ef054aad5ed1cc5f8bd7c609ddcfceb10abcc0d85254656400953c4167cb5ee"
+  },
+  {
+    "path": "results/paper_de/neu_seg/unet_imagenet_f0010_s2.json",
+    "sha256": "a891cdd5a39e9105f4f66c27f528e5fbbea44de21ba9874c12e23ca5163f82fc"
+  },
+  {
+    "path": "results/paper_de/neu_seg/unet_imagenet_f0050_s0.json",
+    "sha256": "86a435c5b3ba2a2c7ea43760946d1fba5f780654d7416ec24dfba79cc54a1323"
+  },
+  {
+    "path": "results/paper_de/neu_seg/unet_imagenet_f0050_s1.json",
+    "sha256": "a73b59166af73122c7d6b9a1fa5bc91d131bfe5903ede50299a6b6bf83288517"
+  },
+  {
+    "path": "results/paper_de/neu_seg/unet_imagenet_f0050_s2.json",
+    "sha256": "76d68aec2ed731985ed826e6db8e19aa136684da780bf08af8089ea58ca2a8ac"
+  },
+  {
+    "path": "results/paper_de/neu_seg/unet_imagenet_f0100_s0.json",
+    "sha256": "69fef528c8e9a77c6dfe97b7fdf3deeeea6c4cbd3988a29eec5f9eb21da65262"
+  },
+  {
+    "path": "results/paper_de/neu_seg/unet_imagenet_f0100_s1.json",
+    "sha256": "60c3774a1330fed897027c9a0b634084ed88fcf97e16dd7647e76c80ca1ab09d"
+  },
+  {
+    "path": "results/paper_de/neu_seg/unet_imagenet_f0100_s2.json",
+    "sha256": "be1918e782f1174cc9af47ed7409ba7b27e5c4adff14ce259594df994a782883"
+  },
+  {
+    "path": "results/paper_de/neu_seg/unet_imagenet_f0250_s0.json",
+    "sha256": "4aa3602cb39c17d84e70da33466bca0064d7541f435c618c76683d23fd08fcc1"
+  },
+  {
+    "path": "results/paper_de/neu_seg/unet_imagenet_f0250_s1.json",
+    "sha256": "fa314d7c2df20d611be5df3c898af3f76d325dadfd7760df12ee7fc47efc4178"
+  },
+  {
+    "path": "results/paper_de/neu_seg/unet_imagenet_f0250_s2.json",
+    "sha256": "7db87c18e3f52188ea17ddc708c073c4fef9f8b5551d68e43f23b8731f17258d"
+  },
+  {
+    "path": "results/paper_de/neu_seg/unet_imagenet_f1000_s0.json",
+    "sha256": "889be4d38636242a1a6de89a54b17a73f1f1a8ed332dd164e9697cb1b889145f"
+  },
+  {
+    "path": "results/paper_de/neu_seg/unet_imagenet_f1000_s1.json",
+    "sha256": "1cae63d11f495c0c4516e6a9914d9abb24c3a08393e5807e71721d5332cda712"
+  },
+  {
+    "path": "results/paper_de/neu_seg/unet_imagenet_f1000_s2.json",
+    "sha256": "fc7a5f07f0fcf854caa782063a74bcccabdfaf296706e1d2d7ea6e38f765a28b"
+  },
+  {
+    "path": "results/paper_de/severstal/ddsnet_approx_f0010_s0.json",
+    "sha256": "ee135d04f3889cdff204ffda804d87b27a5c1428170687ce8d823c040c7595a2"
+  },
+  {
+    "path": "results/paper_de/severstal/ddsnet_approx_f0010_s1.json",
+    "sha256": "b2c7cb389e42e1a0cbc981e5fb512a3f0c1b22bc1f21ca4d8c87457b7dba84f4"
+  },
+  {
+    "path": "results/paper_de/severstal/ddsnet_approx_f0010_s2.json",
+    "sha256": "c059ec94cf564b3e0e1354570e6247df41678db90d92b00a2f0acb88951b3b17"
+  },
+  {
+    "path": "results/paper_de/severstal/ddsnet_approx_f0050_s0.json",
+    "sha256": "25febc9b436bdf85d222f400d7aaf3128f687e588474c2613a8f1235a8f2ec16"
+  },
+  {
+    "path": "results/paper_de/severstal/ddsnet_approx_f0050_s1.json",
+    "sha256": "48ce507495efdc2305a8828aef97cf3d7c2232b49af6f567eb2dba4df3c3fe89"
+  },
+  {
+    "path": "results/paper_de/severstal/ddsnet_approx_f0050_s2.json",
+    "sha256": "314256ccff87b68018be754ce9a78ba898d6dec00b3eba296ab805fe4aac1eac"
+  },
+  {
+    "path": "results/paper_de/severstal/ddsnet_approx_f0100_s0.json",
+    "sha256": "13c76024c7667a5ef602be6ed6a3804d0f76e85917794427d995e9c964805bed"
+  },
+  {
+    "path": "results/paper_de/severstal/ddsnet_approx_f0100_s1.json",
+    "sha256": "5d6add4c76492414b45eedfdb2a049841efee30ece8ebd93ab2d39817dd6bb26"
+  },
+  {
+    "path": "results/paper_de/severstal/ddsnet_approx_f0100_s2.json",
+    "sha256": "7f0cd466b1cc6fe2aacd6a9859dd8f25daaa8f5e1d6c8e58e93c8afc85a9eab2"
+  },
+  {
+    "path": "results/paper_de/severstal/ddsnet_approx_f0250_s0.json",
+    "sha256": "326ea31e5b0725b8145e74487a3f766949819df9e774ffe10ebe2f4a5143ff93"
+  },
+  {
+    "path": "results/paper_de/severstal/ddsnet_approx_f0250_s1.json",
+    "sha256": "c20284943152fa8e4efa36af2296fae529611d70439032c493248b0eebfa51e9"
+  },
+  {
+    "path": "results/paper_de/severstal/ddsnet_approx_f0250_s2.json",
+    "sha256": "42742596ca7ae8ffdb1c7fe252c97bc3d7bdc2c3797ccb9bcd6adb8ffd1a2c06"
+  },
+  {
+    "path": "results/paper_de/severstal/ddsnet_approx_f1000_s0.json",
+    "sha256": "3b407a1331dc1374df5762335d474bc41df93981875a653c2ac95fe0f70fe541"
+  },
+  {
+    "path": "results/paper_de/severstal/ddsnet_approx_f1000_s1.json",
+    "sha256": "087ba5f1252c7b5c742aba87ab6e17ce23216c41cd2dc49ede43958abfd4f72c"
+  },
+  {
+    "path": "results/paper_de/severstal/ddsnet_approx_f1000_s2.json",
+    "sha256": "0b4bc6e9f50c65e85ac9c5328cbfbac5f5519a9fcc9e75220076f791d0f036f1"
+  },
+  {
+    "path": "results/paper_de/severstal/deeplabv3plus_f0010_s0.json",
+    "sha256": "c037af96fe8eaeca253232c83fad650849d930d81e898d06527b1cdd2bd215f4"
+  },
+  {
+    "path": "results/paper_de/severstal/deeplabv3plus_f0010_s1.json",
+    "sha256": "2f100489d6278ef3bddd504d7449dc95276f0d98a5ded425f08b619e006859a0"
+  },
+  {
+    "path": "results/paper_de/severstal/deeplabv3plus_f0010_s2.json",
+    "sha256": "f497145259662827228ca1fa881edd0c0cfbd5987fada5e07b9f0386691e8f9c"
+  },
+  {
+    "path": "results/paper_de/severstal/deeplabv3plus_f0050_s0.json",
+    "sha256": "347ccafda995b41073475d6050d2a4c6cac45179713d0c3a6def38a5f18e9005"
+  },
+  {
+    "path": "results/paper_de/severstal/deeplabv3plus_f0050_s1.json",
+    "sha256": "b1fbdfb2e78a14ea0112d1428aa3d5c3b0dd0c4a06b0d939774551bdc5aadd31"
+  },
+  {
+    "path": "results/paper_de/severstal/deeplabv3plus_f0050_s2.json",
+    "sha256": "f3c142cf574868a38b695e78c5a7ba878da6834e894084c6729ad11f2fd931b2"
+  },
+  {
+    "path": "results/paper_de/severstal/deeplabv3plus_f0100_s0.json",
+    "sha256": "df45a49f48c0282f480f64704438033edc92b8edc8ade1ee3f6efa407ed6a705"
+  },
+  {
+    "path": "results/paper_de/severstal/deeplabv3plus_f0100_s1.json",
+    "sha256": "6c1e88db1144abd1412ca6a7ee3b93161733616c54cd48feb89f46e69f14be14"
+  },
+  {
+    "path": "results/paper_de/severstal/deeplabv3plus_f0100_s2.json",
+    "sha256": "e9a4f5e89165b6b1ea5ea70688d5251a63e885e5056e89228ceb1b8f57db5227"
+  },
+  {
+    "path": "results/paper_de/severstal/deeplabv3plus_f0250_s0.json",
+    "sha256": "e0929f9b9f45198f67c2aab9662696fa499cda1703239a63348458bfd354372e"
+  },
+  {
+    "path": "results/paper_de/severstal/deeplabv3plus_f0250_s1.json",
+    "sha256": "8a12b884a99fbc1905cae451ec86c195284efb9735f7f52e3aa9f261dc144203"
+  },
+  {
+    "path": "results/paper_de/severstal/deeplabv3plus_f0250_s2.json",
+    "sha256": "010b127700a2a30ba34b49233cbc4ab06d169e29df860f252b30cb0baf89edc8"
+  },
+  {
+    "path": "results/paper_de/severstal/deeplabv3plus_f1000_s0.json",
+    "sha256": "494d4054776398c46240d3b06fc10856b8f060d744be0b135b130d1a8d7fa964"
+  },
+  {
+    "path": "results/paper_de/severstal/deeplabv3plus_f1000_s1.json",
+    "sha256": "e8f1abcc8086b2b155fd176ac792e5438ed0f9d32c67d11692a0614fdb781b06"
+  },
+  {
+    "path": "results/paper_de/severstal/deeplabv3plus_f1000_s2.json",
+    "sha256": "592bfbfe6586519c5ade8e544eb8c4d859cb07eeee0b90e529bc3222e896ae0b"
+  },
+  {
+    "path": "results/paper_de/severstal/hybrid_trans_approx_f0010_s0.json",
+    "sha256": "91f3105bfa6c0e1684f4e2cc5ef0d94574c76db1b760d80cda3b2c8b43de7d49"
+  },
+  {
+    "path": "results/paper_de/severstal/hybrid_trans_approx_f0010_s1.json",
+    "sha256": "271052ebb14c12edb6bdc52aff82a030e15cb5e6d56254ca8de61736d5c16ce7"
+  },
+  {
+    "path": "results/paper_de/severstal/hybrid_trans_approx_f0010_s2.json",
+    "sha256": "b8ac6dd174651fb92bf7d837011b15a653d67bacccdbe5bac9224aff7a5b40b3"
+  },
+  {
+    "path": "results/paper_de/severstal/hybrid_trans_approx_f0050_s0.json",
+    "sha256": "f3e89315ad3710d841182dd22a6c6be4c3234146fa76eb2e6432ec95ea98c442"
+  },
+  {
+    "path": "results/paper_de/severstal/hybrid_trans_approx_f0050_s1.json",
+    "sha256": "ea246fa011a06b19cfc99595a1e0bbbe92317386a952a47bbf9920fb56b062b4"
+  },
+  {
+    "path": "results/paper_de/severstal/hybrid_trans_approx_f0050_s2.json",
+    "sha256": "89d9e11994afde1ecbca9df54a6601388c902c466f3327ed18655cb5743ba5e6"
+  },
+  {
+    "path": "results/paper_de/severstal/hybrid_trans_approx_f0100_s0.json",
+    "sha256": "0b43f689365d11759a759e76e9925ba265b0e7c42704520cead56015d271860f"
+  },
+  {
+    "path": "results/paper_de/severstal/hybrid_trans_approx_f0100_s1.json",
+    "sha256": "5baa9082dac6d35e1eb9928d5312310da7fd5d6b32cf842cf4322fc8ddbbbc76"
+  },
+  {
+    "path": "results/paper_de/severstal/hybrid_trans_approx_f0100_s2.json",
+    "sha256": "8a9507e63daecc115ed9b227916811e174444528c003ba51b69c2f69623f4603"
+  },
+  {
+    "path": "results/paper_de/severstal/hybrid_trans_approx_f0250_s0.json",
+    "sha256": "528f72ce9b1ca717f27294ff0aa8fe4badc3086050a5412a00a5e9e41af1cffc"
+  },
+  {
+    "path": "results/paper_de/severstal/hybrid_trans_approx_f0250_s1.json",
+    "sha256": "ab19be8774adf023e6a78bad58ef28669f20e3f9d4e808ca53c304b661af8055"
+  },
+  {
+    "path": "results/paper_de/severstal/hybrid_trans_approx_f0250_s2.json",
+    "sha256": "bbdf79bdfa2a15ecec5c2317c13e12de73e7d99bdd2e58f0f3bfe6c7ba12ce2a"
+  },
+  {
+    "path": "results/paper_de/severstal/hybrid_trans_approx_f1000_s0.json",
+    "sha256": "c47f12138db25b3c4eec80d805c095390aa76cebf5a84a2b8ef5b521533e447a"
+  },
+  {
+    "path": "results/paper_de/severstal/hybrid_trans_approx_f1000_s1.json",
+    "sha256": "8d81a71df279fa870b3f306c93286a46b3867f201514592c2bf733b793e57ea5"
+  },
+  {
+    "path": "results/paper_de/severstal/hybrid_trans_approx_f1000_s2.json",
+    "sha256": "76b45a297cbef32c012772e22ade473b0bf7fceb3e110bfcf1fc134809e72d27"
+  },
+  {
+    "path": "results/paper_de/severstal/mff_metal_approx_f0010_s0.json",
+    "sha256": "1971ce3228ccf4d57f731b61569ac3375b651a52719a11bb8a8af1571b9c1474"
+  },
+  {
+    "path": "results/paper_de/severstal/mff_metal_approx_f0010_s1.json",
+    "sha256": "14540610b43f772f761ba413795e8e05781fe5e0983b8827a44da04f3926e747"
+  },
+  {
+    "path": "results/paper_de/severstal/mff_metal_approx_f0010_s2.json",
+    "sha256": "dc003fc040f784d635aeb7ed8015fc4f7183251fc68aa2d583617fabab47c656"
+  },
+  {
+    "path": "results/paper_de/severstal/mff_metal_approx_f0050_s0.json",
+    "sha256": "59fbef648281c294849a0b29e5cd75f8e966429a279ad4b0c7967e6f037ae5d8"
+  },
+  {
+    "path": "results/paper_de/severstal/mff_metal_approx_f0050_s1.json",
+    "sha256": "99851f9b31ca82cce14f181aef7491c2140965ba86ddf89abc2b7b9c3c86e6b0"
+  },
+  {
+    "path": "results/paper_de/severstal/mff_metal_approx_f0050_s2.json",
+    "sha256": "70f147dbbd1db437097749dfea55468881c0963e0a7aceb3769f71e3558d54c8"
+  },
+  {
+    "path": "results/paper_de/severstal/mff_metal_approx_f0100_s0.json",
+    "sha256": "faab73276e9a40619358f4555d2f4e7cf3ab73f1a3f7f814f3770672ce0dcdba"
+  },
+  {
+    "path": "results/paper_de/severstal/mff_metal_approx_f0100_s1.json",
+    "sha256": "bce68ebf65723a0c5d1f4ef9d49a16250418f78ccb679ac20d51de161572cae3"
+  },
+  {
+    "path": "results/paper_de/severstal/mff_metal_approx_f0100_s2.json",
+    "sha256": "c043c227ed9adc893a634dcbde9abcbe7118752b2b9d76f1711af4404344da93"
+  },
+  {
+    "path": "results/paper_de/severstal/mff_metal_approx_f0250_s0.json",
+    "sha256": "5eccffe98b8fa4ed6e86ab21b21769c4ac8bf6879dfe6962a9d2c11cb3befedd"
+  },
+  {
+    "path": "results/paper_de/severstal/mff_metal_approx_f0250_s1.json",
+    "sha256": "7779a09291191e36a28a17d72b848ba8431a098821f880e71e05905338398765"
+  },
+  {
+    "path": "results/paper_de/severstal/mff_metal_approx_f0250_s2.json",
+    "sha256": "e5f65e6688806cc7cd0a5a64871e4803ce0b5f940bbcda9ebd36499fa6af46c0"
+  },
+  {
+    "path": "results/paper_de/severstal/mff_metal_approx_f1000_s0.json",
+    "sha256": "9af780b687b8b601ef36bde9e43409d2652fa7c68b44340dd3afbaa81ef831d9"
+  },
+  {
+    "path": "results/paper_de/severstal/mff_metal_approx_f1000_s1.json",
+    "sha256": "27d681bc30d989ed4105d1cd944f67b13d42bf7e621a37cc84ad809c9a42a7ed"
+  },
+  {
+    "path": "results/paper_de/severstal/mff_metal_approx_f1000_s2.json",
+    "sha256": "5a4055bf96622a959b334af47d2794bd0fe56405695a5c1e99534bf83e70e233"
+  },
+  {
+    "path": "results/paper_de/severstal/pspnet_f0010_s0.json",
+    "sha256": "b1078bc2fdc7da0f471e1edde3eb44845609997c0702084e0f0d0c3e623f718a"
+  },
+  {
+    "path": "results/paper_de/severstal/pspnet_f0010_s1.json",
+    "sha256": "eaf2f4ca95fbc2f8c5efe9d9bfb12ca23a1eae5b6217457536548600458dd084"
+  },
+  {
+    "path": "results/paper_de/severstal/pspnet_f0010_s2.json",
+    "sha256": "ad3ff85d5c87997e6516c7e7139401246fc2f3ee2bd59213a116a0dd6c482165"
+  },
+  {
+    "path": "results/paper_de/severstal/pspnet_f0050_s0.json",
+    "sha256": "349e880f0537c51729ea1d6d10cf407aa149a6802052c0cbdb2159fb6f3f5993"
+  },
+  {
+    "path": "results/paper_de/severstal/pspnet_f0050_s1.json",
+    "sha256": "d725a5dd1ca5686e2a912aac7ec973349642126abb90eb5a8190b5f1b4ab674d"
+  },
+  {
+    "path": "results/paper_de/severstal/pspnet_f0050_s2.json",
+    "sha256": "5d914be1c5422c17b7ce1d7c6c72de057b350f96fe2a34d8b5cc2551ea688ba4"
+  },
+  {
+    "path": "results/paper_de/severstal/pspnet_f0100_s0.json",
+    "sha256": "00ae5298efd5286d7d8d9f7db85b3bafd8317747a23ba33a1c7cb2f9a943382b"
+  },
+  {
+    "path": "results/paper_de/severstal/pspnet_f0100_s1.json",
+    "sha256": "47309bd17742a55ee198ca4267cf8d41e6c2e274286c48c4dc004199af74dfe1"
+  },
+  {
+    "path": "results/paper_de/severstal/pspnet_f0100_s2.json",
+    "sha256": "4b737ace7feb4432a299eddc25e2825d7328b7b1a0d346574bd978ff210b6b44"
+  },
+  {
+    "path": "results/paper_de/severstal/pspnet_f0250_s0.json",
+    "sha256": "9c110f2f7ba92476a8951eddcd7f73cc23097f30dde0e9a6b4e831af3167021d"
+  },
+  {
+    "path": "results/paper_de/severstal/pspnet_f0250_s1.json",
+    "sha256": "ecc098371fd0e4719f42f1a00903daa4a9f8b2fe4ecb04b3237457e316001aa1"
+  },
+  {
+    "path": "results/paper_de/severstal/pspnet_f0250_s2.json",
+    "sha256": "d13f9a58fc7ee5bbadd9cc25db0b497855e6794f101b689ad57401a5869a44d4"
+  },
+  {
+    "path": "results/paper_de/severstal/pspnet_f1000_s0.json",
+    "sha256": "424116b926d50627076c2deaf6c652fd670178835a3b719c99f62eb94c362369"
+  },
+  {
+    "path": "results/paper_de/severstal/pspnet_f1000_s1.json",
+    "sha256": "f000f02ba6ca3bee194f339caf03aea786227e0ca537218a6b2e28ecdbb2cdc3"
+  },
+  {
+    "path": "results/paper_de/severstal/pspnet_f1000_s2.json",
+    "sha256": "c92c9cf9f28554b676f1f8412d07ea1a0fe957c6ee5c64f1ae83e44536756989"
+  },
+  {
+    "path": "results/paper_de/severstal/sam2_linear_f0010_s0.json",
+    "sha256": "d87e05725ee9bf2b9f4218258c6839e3edd721d9f7ca81cff1e99c0e851b5a41"
+  },
+  {
+    "path": "results/paper_de/severstal/sam2_linear_f0010_s1.json",
+    "sha256": "2fa32d7453e3db338c3fb8c7024ec8924fe95a4b1a717f00b0e2bb8d888fd0ce"
+  },
+  {
+    "path": "results/paper_de/severstal/sam2_linear_f0010_s2.json",
+    "sha256": "6ddccb35d269cdf7592d2a32b4d1aa7588604bba4529c2699d3930df41b22e78"
+  },
+  {
+    "path": "results/paper_de/severstal/sam2_linear_f0050_s0.json",
+    "sha256": "309a8bcef0494bcd0779d72a0bb8ddc43834cc71c52070ca60ced3be7246d939"
+  },
+  {
+    "path": "results/paper_de/severstal/sam2_linear_f0050_s1.json",
+    "sha256": "0396ccb40a3b1e8c596771f1bc27aabbf59a9c45a43d63f62aed74452625da0a"
+  },
+  {
+    "path": "results/paper_de/severstal/sam2_linear_f0050_s2.json",
+    "sha256": "9a110c390ed9c9fe230928697243dd65857530b08e6fedb393a2bcec8839e6bc"
+  },
+  {
+    "path": "results/paper_de/severstal/sam2_linear_f0100_s0.json",
+    "sha256": "b2a2bfed53ae989143c3a33309ca94573a798e6c15a2f73e2d1b4c10b63563eb"
+  },
+  {
+    "path": "results/paper_de/severstal/sam2_linear_f0100_s1.json",
+    "sha256": "72abd7fd60ece7407a51883bbd21cee9a9838af4d3cc892fc6e14e3af323056c"
+  },
+  {
+    "path": "results/paper_de/severstal/sam2_linear_f0100_s2.json",
+    "sha256": "54e87b95e208838709f7e46e0115d4336de2ee464ea30da2f5d5baeb2702fa48"
+  },
+  {
+    "path": "results/paper_de/severstal/sam2_linear_f0250_s0.json",
+    "sha256": "03959de07c29936b5c1135f84b7f195bb455a8007701eb253dde751b86bf930f"
+  },
+  {
+    "path": "results/paper_de/severstal/sam2_linear_f0250_s1.json",
+    "sha256": "c6bc6126d089e47ce597c6c66ed442274ebacd92aa8a23ca3cc6011cc7a1dc77"
+  },
+  {
+    "path": "results/paper_de/severstal/sam2_linear_f0250_s2.json",
+    "sha256": "c6ae1580094e6f02dfced5df3233c042c00f4d9226badd25502bb18e220d06a5"
+  },
+  {
+    "path": "results/paper_de/severstal/sam2_linear_f1000_s0.json",
+    "sha256": "fbcf0f11d3bd7fabf1e7c2e2b8e7ac538139fa7d597fd725c1f4cedb07809661"
+  },
+  {
+    "path": "results/paper_de/severstal/sam2_linear_f1000_s1.json",
+    "sha256": "007a6b6134773b422c41dbe0fb5a4f76023bad2be8983dc7ddc434b27e5afeb4"
+  },
+  {
+    "path": "results/paper_de/severstal/sam2_linear_f1000_s2.json",
+    "sha256": "f76c12dff6acf6215b6de2a81ce918195c662a69e0b792d13de91ab63aa79b93"
+  },
+  {
+    "path": "results/paper_de/severstal/sam2_lora_f0010_s0.json",
+    "sha256": "8d862da62154d51d21c0c46d71f780fb0dc8feb407b22f6b73f6d74dd3fd42fa"
+  },
+  {
+    "path": "results/paper_de/severstal/sam2_lora_f0010_s1.json",
+    "sha256": "a4c0ab05005d4501b1ee194e0dfa90355220cce2405c5ef087fecc74b30b84a2"
+  },
+  {
+    "path": "results/paper_de/severstal/sam2_lora_f0010_s2.json",
+    "sha256": "802a19c8940279ce8d9fd2023a887ceaa67b07c0636a5b7529ad647789c8486b"
+  },
+  {
+    "path": "results/paper_de/severstal/sam2_lora_f0050_s0.json",
+    "sha256": "78601ee9af3d6c670bccb74ebacfeaa03059358505799632b277fca6be60a821"
+  },
+  {
+    "path": "results/paper_de/severstal/sam2_lora_f0050_s1.json",
+    "sha256": "400fadc5f875638e74be80e914282f65303d5efae25b3c908cf766b85a30fc67"
+  },
+  {
+    "path": "results/paper_de/severstal/sam2_lora_f0050_s2.json",
+    "sha256": "386dfa474e1bfa9226ed49115ba971a7e3f7b779c9a6196f5d34131db668b8af"
+  },
+  {
+    "path": "results/paper_de/severstal/sam2_lora_f0100_s0.json",
+    "sha256": "193249245a7ab5148b64c593300520138bf7e65c8c3b5cf73fcc731c5f7d8ab8"
+  },
+  {
+    "path": "results/paper_de/severstal/sam2_lora_f0100_s1.json",
+    "sha256": "5de5c0b96ef7c29a12ac120c184a570089787b6f6d3e91aab422acf2d460d52a"
+  },
+  {
+    "path": "results/paper_de/severstal/sam2_lora_f0100_s2.json",
+    "sha256": "b52d8ff852965e971ab5d72ec8d1e82ce2ca2229c4fc9bd43f11aad9c3486d38"
+  },
+  {
+    "path": "results/paper_de/severstal/sam2_lora_f0250_s0.json",
+    "sha256": "08931f93c1929c5d6774ce08cdc06dc4c4be37fda916c2fdb3d23c3c745ef957"
+  },
+  {
+    "path": "results/paper_de/severstal/sam2_lora_f0250_s1.json",
+    "sha256": "7f5b516b2d3b1e5f8b64596408be4937c1254fda2b963511e617293c0e4ee6fa"
+  },
+  {
+    "path": "results/paper_de/severstal/sam2_lora_f0250_s2.json",
+    "sha256": "4b5821411b52e6f2da61ae4e94c8e23f46b31c42416dbdb51b708787ed8e2a95"
+  },
+  {
+    "path": "results/paper_de/severstal/sam2_lora_f1000_s0.json",
+    "sha256": "1f53061515111285458f518dd9fe7e4d3ae592dcc3e2c9b1c8552f9d671e964d"
+  },
+  {
+    "path": "results/paper_de/severstal/sam2_lora_f1000_s1.json",
+    "sha256": "0b077527ddec9c839c6e226d59a85f2d589e367bece8be0f7db352fbcf6c6871"
+  },
+  {
+    "path": "results/paper_de/severstal/sam2_lora_f1000_s2.json",
+    "sha256": "85fca68c0aa534a398e380ab47efd964e2907f69b474bced4e88f668506f91e8"
+  },
+  {
+    "path": "results/paper_de/severstal/segformer_f0010_s0.json",
+    "sha256": "5b4db1f084d2d7c1f611548011f2e5a9e928a3876f4debb5333816458907a3f8"
+  },
+  {
+    "path": "results/paper_de/severstal/segformer_f0010_s1.json",
+    "sha256": "5eace2eb0e39f61683ac232d60c61a704523276900d141ef7ab7e764f93a2c54"
+  },
+  {
+    "path": "results/paper_de/severstal/segformer_f0010_s2.json",
+    "sha256": "6305f752b342920bf4e6fafe4da22b04cd8221bd78f33c1c1fd5d6b6753a51d6"
+  },
+  {
+    "path": "results/paper_de/severstal/segformer_f0050_s0.json",
+    "sha256": "66712094709f42f9c4a7454ded60fd8a300a2cb06702afca21b337643cd1bc23"
+  },
+  {
+    "path": "results/paper_de/severstal/segformer_f0050_s1.json",
+    "sha256": "6cd7e18aafc14a83c62df4e0906b534f4fcdff84927ebdb8d74209a9b8e632c7"
+  },
+  {
+    "path": "results/paper_de/severstal/segformer_f0050_s2.json",
+    "sha256": "44f36dd008b1f714f3c8752c6b3eab960b57a7f02340630aff470cc6507cd746"
+  },
+  {
+    "path": "results/paper_de/severstal/segformer_f0100_s0.json",
+    "sha256": "793f18fb9d8f877c903fed6e0507707fd76a757ac0e73f4bc68378ac7b1963c9"
+  },
+  {
+    "path": "results/paper_de/severstal/segformer_f0100_s1.json",
+    "sha256": "58a16386d6138ddc453e6e50589e7c7ce8bfb69dce74bade279facd38d6fb423"
+  },
+  {
+    "path": "results/paper_de/severstal/segformer_f0100_s2.json",
+    "sha256": "4afff3524ac30d4ca047ddb5313c76a1176f5e238caaeea6942123677cb76545"
+  },
+  {
+    "path": "results/paper_de/severstal/segformer_f0250_s0.json",
+    "sha256": "9ead67aac5393bdf90ca2b1d501e1eb6b646176f350dece7caebadc77d3e5ea8"
+  },
+  {
+    "path": "results/paper_de/severstal/segformer_f0250_s1.json",
+    "sha256": "ea781233276e60b22d017d7f7f0c06ec8139d8074800e150cc37aa759442f08c"
+  },
+  {
+    "path": "results/paper_de/severstal/segformer_f0250_s2.json",
+    "sha256": "ae6f5f89e43efb407267b6cd23daf926afc0418b9f8617df0e831395593df237"
+  },
+  {
+    "path": "results/paper_de/severstal/segformer_f1000_s0.json",
+    "sha256": "c945aa7aba179d9690a501fa229003a6c772b78c42a7062df2d920ba04802ca1"
+  },
+  {
+    "path": "results/paper_de/severstal/segformer_f1000_s1.json",
+    "sha256": "a13c38f2feb332b310b8c716da0c1014fab965a6cfe46ea40eb83d621908b3ec"
+  },
+  {
+    "path": "results/paper_de/severstal/segformer_f1000_s2.json",
+    "sha256": "45164a59024dd20543093b8df62e91097085d8bd537934f79abb7b40134ff2ca"
+  },
+  {
+    "path": "results/paper_de/severstal/sme_dlv3p_approx_f0010_s0.json",
+    "sha256": "a8a23a71f48901adace8bdf0235826f2ce2b7dd6948f0829bfa9438db3349d6a"
+  },
+  {
+    "path": "results/paper_de/severstal/sme_dlv3p_approx_f0010_s1.json",
+    "sha256": "9bd0f08552616a8bb08131d6a71747514ffce24c67e2bfcaa9189f6924bbc69e"
+  },
+  {
+    "path": "results/paper_de/severstal/sme_dlv3p_approx_f0010_s2.json",
+    "sha256": "fd5fbb4e573ed13975ded6da7a19281c5e0e4d317e76f939f2606470fcb092a4"
+  },
+  {
+    "path": "results/paper_de/severstal/sme_dlv3p_approx_f0050_s0.json",
+    "sha256": "b2c79fd3ba0cca9f8d980953e791b5b901631553649498af919acfd9e607726c"
+  },
+  {
+    "path": "results/paper_de/severstal/sme_dlv3p_approx_f0050_s1.json",
+    "sha256": "07c271235adadac4841f0800768484caa4247195dda7c3832ad5cd4cf7bf6169"
+  },
+  {
+    "path": "results/paper_de/severstal/sme_dlv3p_approx_f0050_s2.json",
+    "sha256": "a2123fd660a56d7220fa3ebcba81cc5b0bc1cb1c345c17ddd18e7a0aa013596f"
+  },
+  {
+    "path": "results/paper_de/severstal/sme_dlv3p_approx_f0100_s0.json",
+    "sha256": "53122bc4d1411711acee5281c6c1ac5a5a8a23d2c683947bfd5e11948783a502"
+  },
+  {
+    "path": "results/paper_de/severstal/sme_dlv3p_approx_f0100_s1.json",
+    "sha256": "bd9b9c4e0288892cb42122e4fb5c81fdfcee064fb64991d397b2641b2fdabcfc"
+  },
+  {
+    "path": "results/paper_de/severstal/sme_dlv3p_approx_f0100_s2.json",
+    "sha256": "2b3ed1ac17098b6d7563cd91471e919e9ff31ab6a380f4ded9f751d0494e07bd"
+  },
+  {
+    "path": "results/paper_de/severstal/sme_dlv3p_approx_f0250_s0.json",
+    "sha256": "ea469d695acf911f8d4f8d41a16fcb45de3a434142913cc0c8a82eb23328b82f"
+  },
+  {
+    "path": "results/paper_de/severstal/sme_dlv3p_approx_f0250_s1.json",
+    "sha256": "7d827b0d235ab105336e3bc0b6d3484b507b11216042a77d5a5f6ff94941d9f3"
+  },
+  {
+    "path": "results/paper_de/severstal/sme_dlv3p_approx_f0250_s2.json",
+    "sha256": "ceaa33022dcbfa4f9d81677b8568bb0d81ca0bdd7ff97df1aa67e785b31657f9"
+  },
+  {
+    "path": "results/paper_de/severstal/sme_dlv3p_approx_f1000_s0.json",
+    "sha256": "5397ee9500e5e0439f82172688147cc9ed6510b3c5fa7c9488944f7e380c61b6"
+  },
+  {
+    "path": "results/paper_de/severstal/sme_dlv3p_approx_f1000_s1.json",
+    "sha256": "204e56ed852b25d74ce8e5f3b789a7f015b328d43638d2fe7b9cd20de168711f"
+  },
+  {
+    "path": "results/paper_de/severstal/sme_dlv3p_approx_f1000_s2.json",
+    "sha256": "5512de4f4ce2501aae0df084db04a2e82dd47f7cda244e06dcbbdfeec0f20c46"
+  },
+  {
+    "path": "results/paper_de/severstal/unet_f0010_s0.json",
+    "sha256": "c240389e35256843aad9c4b8776ea0266cf21d0ef4e21fa1de89b1252728c19c"
+  },
+  {
+    "path": "results/paper_de/severstal/unet_f0010_s1.json",
+    "sha256": "dfd48251933dcc4a11805e084adf5b84312b739675788bb94ba872eecd90bff2"
+  },
+  {
+    "path": "results/paper_de/severstal/unet_f0010_s2.json",
+    "sha256": "64b57901fb439d9d674dff05f23d2c395924a890b539255de8e80848aa023819"
+  },
+  {
+    "path": "results/paper_de/severstal/unet_f0050_s0.json",
+    "sha256": "fb8f8d144964484d8bcfa6728fa481ca2dcbac053e82e5ff6ee9dec14fc3e755"
+  },
+  {
+    "path": "results/paper_de/severstal/unet_f0050_s1.json",
+    "sha256": "85b2743e00ff5df30a23b62a35bf501e771e6cb1a4e9b5ca17b9792f0b795a98"
+  },
+  {
+    "path": "results/paper_de/severstal/unet_f0050_s2.json",
+    "sha256": "024e83ac8e398bdaebdeedd9c237d7b3bae5b8641ad7ca9c9e1bb95b2fefcd85"
+  },
+  {
+    "path": "results/paper_de/severstal/unet_f0100_s0.json",
+    "sha256": "bf339b8e7179ef07db3219d275da7e5b2a7dc97aaa3f60f09ea6a1ccb01b24be"
+  },
+  {
+    "path": "results/paper_de/severstal/unet_f0100_s1.json",
+    "sha256": "75bc42c85c8a2b7acb5b7c2988b70cd6a86604814049d8aaae20fed5cd504f4c"
+  },
+  {
+    "path": "results/paper_de/severstal/unet_f0100_s2.json",
+    "sha256": "2a01a177a04c22607bc7121fc2efc57816857bbd7a9c3931150c39db075131b8"
+  },
+  {
+    "path": "results/paper_de/severstal/unet_f0250_s0.json",
+    "sha256": "958de1296039ec78567e7a883e5ee27ebbc7529072a7e1c597ca4a45a386dbed"
+  },
+  {
+    "path": "results/paper_de/severstal/unet_f0250_s1.json",
+    "sha256": "2a65d1765a67e4cbfd7f91069398e963af006c2267e958dbd9f7ffd7bb6cc7f5"
+  },
+  {
+    "path": "results/paper_de/severstal/unet_f0250_s2.json",
+    "sha256": "d6efd571a5eb45119828c26b7ec38b01825a87f1b476c1250001d94cdaac348a"
+  },
+  {
+    "path": "results/paper_de/severstal/unet_f1000_s0.json",
+    "sha256": "7ff4d7cd60181c51488932bf763f0e04314b094949b5edd79f4c40de91baf313"
+  },
+  {
+    "path": "results/paper_de/severstal/unet_f1000_s1.json",
+    "sha256": "b674e7170cb277dfd3d80bfe3c4c5d193e8bbc23b75afeb2f9779a7cfb0424fc"
+  },
+  {
+    "path": "results/paper_de/severstal/unet_f1000_s2.json",
+    "sha256": "dc4135207f5f9a3111b0fb031b40461d7c55ddc0d28a9bffb652390e2e3d77e7"
+  },
+  {
+    "path": "results/paper_de/severstal/unet_imagenet_f0010_s0.json",
+    "sha256": "bfbebd306fb6fda34ec5840d2637f93976b9f3bdb25e14d61341108570f14a3c"
+  },
+  {
+    "path": "results/paper_de/severstal/unet_imagenet_f0010_s1.json",
+    "sha256": "2e5c9f1dbc4dd7e966352ba7a351530b1fc4b1991d7253f89ce7e21c4ced64e1"
+  },
+  {
+    "path": "results/paper_de/severstal/unet_imagenet_f0010_s2.json",
+    "sha256": "24a8d88d4b0b727e80e6c34590d84bfe303c0f5316e7a3d1e6890f3969e81a56"
+  },
+  {
+    "path": "results/paper_de/severstal/unet_imagenet_f0050_s0.json",
+    "sha256": "18a094a211b98938f5651e8bfe782c8cf93b4d32c6b4fdd0f34e64f7dccb88a0"
+  },
+  {
+    "path": "results/paper_de/severstal/unet_imagenet_f0050_s1.json",
+    "sha256": "f0da048fa5e331f8b7278fd7fc0df6beb0371e6871a059c00580201aafa1c713"
+  },
+  {
+    "path": "results/paper_de/severstal/unet_imagenet_f0050_s2.json",
+    "sha256": "58d47e3ca44d1cfb657ae9908cb8407a8a93fb7f2536ed396083f49d15cbe004"
+  },
+  {
+    "path": "results/paper_de/severstal/unet_imagenet_f0100_s0.json",
+    "sha256": "a8b3dc194dba71718ae948d6445f2b7a43ec2c744532203d42b0ceefb09321a9"
+  },
+  {
+    "path": "results/paper_de/severstal/unet_imagenet_f0100_s1.json",
+    "sha256": "42b427dd9c0c35d9698c1c57f551cf1a08635a74c2a4ed4f53ef1de15270d82d"
+  },
+  {
+    "path": "results/paper_de/severstal/unet_imagenet_f0100_s2.json",
+    "sha256": "c707fa0e330e098e58e6155bc55340b6caf39020b910f1cca689fec6e72b9d59"
+  },
+  {
+    "path": "results/paper_de/severstal/unet_imagenet_f0250_s0.json",
+    "sha256": "adc7fd03965c8785a2585324a86f854b8ea7c9e3fd0cb13b2975d6d956f43fea"
+  },
+  {
+    "path": "results/paper_de/severstal/unet_imagenet_f0250_s1.json",
+    "sha256": "5638c5d530ba74305d5e17897eaa9d2e7892621c676979eff6285146f5890f4f"
+  },
+  {
+    "path": "results/paper_de/severstal/unet_imagenet_f0250_s2.json",
+    "sha256": "2a710e62f53277975ea78e036aeb2c4b90f5ad4a4224b0054db6749dd8df67c5"
+  },
+  {
+    "path": "results/paper_de/severstal/unet_imagenet_f1000_s0.json",
+    "sha256": "20bd931dff21d763e181f146a44145a542b5419fd110325431c8be8fc7b94696"
+  },
+  {
+    "path": "results/paper_de/severstal/unet_imagenet_f1000_s1.json",
+    "sha256": "22df98bec4c3dde69840b85ca511935eb41ce21a0822aa1c0a536e17a2c7a189"
+  },
+  {
+    "path": "results/paper_de/severstal/unet_imagenet_f1000_s2.json",
+    "sha256": "8685af7642b0bc862713d6ed27aa59c9af65cee7d2695981ad0eb5529837f13d"
+  },
+  {
+    "path": "results/paper_defectsam2/neu_seg/defectsam2_f0010_s0.json",
+    "sha256": "29bea194551502ddf01a78df0d6fef9752a61a171adf09b6327fa9d7b3942b74"
+  },
+  {
+    "path": "results/paper_defectsam2/neu_seg/defectsam2_f0010_s1.json",
+    "sha256": "0b0ee2ea76436d9c679b437d3c0700bf741b21135c2270023616feb28e42c6dd"
+  },
+  {
+    "path": "results/paper_defectsam2/neu_seg/defectsam2_f0010_s2.json",
+    "sha256": "44d4ccf8c92cd86e280afca13bd19fe5d080e02fb76e487c020b2fd7f1747128"
+  },
+  {
+    "path": "results/paper_defectsam2/neu_seg/defectsam2_f0050_s0.json",
+    "sha256": "5b0c15d85b5841bd4e818ce3287c7255592254cd7114c524f4ac64fab4f518c4"
+  },
+  {
+    "path": "results/paper_defectsam2/neu_seg/defectsam2_f0050_s1.json",
+    "sha256": "648b21bb45e45925c876f0deffa3758a1469ea76415179eafe9f23af8f0a9a1f"
+  },
+  {
+    "path": "results/paper_defectsam2/neu_seg/defectsam2_f0050_s2.json",
+    "sha256": "e5eb54d59be8f154ef9417c68e699822bb733dc5633acc40e8ba336b6a2f8e00"
+  },
+  {
+    "path": "results/paper_defectsam2/neu_seg/defectsam2_f0100_s0.json",
+    "sha256": "0a560d1f4dce5ce012afe3ab307afde9a25d55a274659609bf673b977e55c961"
+  },
+  {
+    "path": "results/paper_defectsam2/neu_seg/defectsam2_f0100_s1.json",
+    "sha256": "981278b82b9ddcd5347debd5fa1957e2a008a64cf2a0606080d1aea233ac1e82"
+  },
+  {
+    "path": "results/paper_defectsam2/neu_seg/defectsam2_f0100_s2.json",
+    "sha256": "178114f9465cf2edc76fa0cd20bd9beee83a86845404556cae228765eaf12c7f"
+  },
+  {
+    "path": "results/paper_defectsam2/neu_seg/defectsam2_f0250_s0.json",
+    "sha256": "f1e995936f355880fffc2ce81e258904d45af66cd29f62dc6fdc1f15a1618b1d"
+  },
+  {
+    "path": "results/paper_defectsam2/neu_seg/defectsam2_f0250_s1.json",
+    "sha256": "f0f374e8a3ce563043fd5a625828738c6a287d18410785b55cbf0723b105a108"
+  },
+  {
+    "path": "results/paper_defectsam2/neu_seg/defectsam2_f0250_s2.json",
+    "sha256": "17537c4dee53ba40a886ad9a3acb72849501d32422f88a6c8027668184f811af"
+  },
+  {
+    "path": "results/paper_defectsam2/neu_seg/defectsam2_f1000_s0.json",
+    "sha256": "fa7dfacc632a4d5c290b754d65fcf96f6e21373eafbf3580f4284dc08e97025a"
+  },
+  {
+    "path": "results/paper_defectsam2/neu_seg/defectsam2_f1000_s1.json",
+    "sha256": "9c5bca0c1586f2a6fa83c5c8eac2eb62cf0ae9bed806063e9f2ad724ad198088"
+  },
+  {
+    "path": "results/paper_defectsam2/neu_seg/defectsam2_f1000_s2.json",
+    "sha256": "b64e158c0a8c618e88baf27abae5fe3e609dd7b6ef9dba5a972ae160ad4208ff"
+  },
+  {
+    "path": "results/paper_defectsam2/severstal/defectsam2_f0010_s0.json",
+    "sha256": "3a57c70ec673e952a188bc364e5519af03fc9a5f773b617faa70bcdd86a436b6"
+  },
+  {
+    "path": "results/paper_defectsam2/severstal/defectsam2_f0010_s1.json",
+    "sha256": "6e141bbae830cab3ee8bf763bdbe0d5e42c55055e28f02af59a00426ba50b297"
+  },
+  {
+    "path": "results/paper_defectsam2/severstal/defectsam2_f0010_s2.json",
+    "sha256": "5625848fe9582cf311cc2ed946cb5c6799a513004ec1aa7e153200f9088410ba"
+  },
+  {
+    "path": "results/paper_defectsam2/severstal/defectsam2_f0050_s0.json",
+    "sha256": "4e034df37ff95292ef5218de492d4dc13de58a706a0f207f75c0c9ea77905b05"
+  },
+  {
+    "path": "results/paper_defectsam2/severstal/defectsam2_f0050_s1.json",
+    "sha256": "d609f15b6fe78643eb10849cb156bcb35317576a59dd54a7759e805e8cfef105"
+  },
+  {
+    "path": "results/paper_defectsam2/severstal/defectsam2_f0050_s2.json",
+    "sha256": "9ced3489e36957d3e2fe504db2e734f738518a053eb9144bcd64b6fabd38506c"
+  },
+  {
+    "path": "results/paper_defectsam2/severstal/defectsam2_f0100_s0.json",
+    "sha256": "c605217acc9ee31780a717056f153a79aab52de675b6e9bd976fe43541bcbb21"
+  },
+  {
+    "path": "results/paper_defectsam2/severstal/defectsam2_f0100_s1.json",
+    "sha256": "70a9acf3fc4a061975b8853cdc9cc3bebc14e735c7d49b66c7c3e0ba6d8a7962"
+  },
+  {
+    "path": "results/paper_defectsam2/severstal/defectsam2_f0100_s2.json",
+    "sha256": "79866847fc17f10b58ee576a8f6d5f46f41555e2b695e039b26909cb73f02bfe"
+  },
+  {
+    "path": "results/paper_defectsam2/severstal/defectsam2_f0250_s0.json",
+    "sha256": "f2757cb41400ec7f44a5fe800b8ff4338ea6c9b29356cd1be0528650fe406e52"
+  },
+  {
+    "path": "results/paper_defectsam2/severstal/defectsam2_f0250_s1.json",
+    "sha256": "3016fcc948ee8e0cf7eb7c28f788283e0b436f9eb494605fe6e88b3946b736d3"
+  },
+  {
+    "path": "results/paper_defectsam2/severstal/defectsam2_f0250_s2.json",
+    "sha256": "e023837267d4ea7a189fe7feecc5d20f28b3b3430797b6e59cce74b8e1d6951d"
+  },
+  {
+    "path": "results/paper_defectsam2/severstal/defectsam2_f1000_s0.json",
+    "sha256": "3933a0960b5620a8ab83346a0219bb8f07fb0ffd7e29f3e53781f478b03d7478"
+  },
+  {
+    "path": "results/paper_defectsam2/severstal/defectsam2_f1000_s1.json",
+    "sha256": "234c37dbabb151f06ae39ec01f0e5db1977c249bae46e2004cb2c475a4d7f17d"
+  },
+  {
+    "path": "results/paper_defectsam2/severstal/defectsam2_f1000_s2.json",
+    "sha256": "71da90cb9acc94fe97e6b4ac725a84451d57c4bba280a1e0506b2182cd168054"
+  },
+  {
+    "path": "results/paper_exp/tables/summary.json",
+    "sha256": "09492c2920d8e9bcbee29c9e78f42bcd61f7d90ea64f3482cb17acf0fa1cf741"
+  },
+  {
+    "path": "results/probe_ab/cb_peft/probe_cb_summary.json",
+    "sha256": "20c4e5c64f34142c3f537d2dff84c4c348e2c0a0a8f0bfdc9bf5c9e3cf3c1f09"
+  },
+  {
+    "path": "results/probe_ab/cb_peft/sam2_lora_cb_f0010_s0.json",
+    "sha256": "f03581cd7f0e41711b837046de53f50a5fc7e92ddd24ef245cde001c058f89e5"
+  },
+  {
+    "path": "results/probe_ab/cb_peft/sam2_lora_cb_f0100_s0.json",
+    "sha256": "8827c7bb7fc5491bea0e2bd4d3f29e65638207f49d9bd49e11c6be51e6ae3816"
+  },
+  {
+    "path": "results/probe_ab/dsa_fpn/probe_dsa_summary.json",
+    "sha256": "0847c8286ea1ffd3db0b791a8830ce5b53016ed83f3ef2a7b1822d2173395bb8"
+  },
+  {
+    "path": "results/probe_ab/dsa_fpn/sam2_lora_dsa_f0010_s0.json",
+    "sha256": "9af9b2db088ae9df2229a7cf5fff650befce9c8ad1ee5553ec1219f73a153a63"
+  },
+  {
+    "path": "results/probe_ab/dsa_fpn/sam2_lora_dsa_f0100_s0.json",
+    "sha256": "dc7f8136c6f6a8cbdc7cdf55ea8d93921e1a3ecb4b8962a45b1005f81506038e"
+  },
+  {
+    "path": "results/rad_probes/probe_rad_summary.json",
+    "sha256": "1cea7ed989c192fbf21f53510bd7d4c4f7faf5564f7cd83e019a4ac67de972ec"
+  },
+  {
+    "path": "results/rad_probes/sam2_lora_boundary_f0010_s0.json",
+    "sha256": "139a85de6fcda0b09df889ed21e456bf32e56a81247eacb7c64a27a3e3be1088"
+  },
+  {
+    "path": "results/rad_probes/sam2_lora_boundary_f0100_s0.json",
+    "sha256": "c4c80688dca86d17ce29fc1e3a48f1e7c2260acbe2478aa8c3a99c4fa112a399"
+  },
+  {
+    "path": "results/rad_probes/sam2_lora_rarity_f0010_s0.json",
+    "sha256": "74c6d00fcd78f7b8aa5c20f8fd2e0de41c18db7ea6e07a31a25c051c4e990f1e"
+  },
+  {
+    "path": "results/rad_probes/sam2_lora_rarity_f0100_s0.json",
+    "sha256": "075b7dbe3bee071064b4caf10c77c220d9bdcfcf7cb8cedc3733ef9d84c9e964"
+  },
+  {
+    "path": "results/thesis_validation/multiclass_conv/training_log.json",
+    "sha256": "7ba5445654dd8d7d71323a4bbbb550be6efb9a3519ebdb45cb31bb4005957d65"
+  },
+  {
+    "path": "results/thesis_validation/multiclass_std/training_log.json",
+    "sha256": "2f825ed2220599286cfba5bac1ccd6a950f7ca8d7843aea41f7c42c6b10318b0"
+  },
+  {
+    "path": "results/thesis_validation/per_image_asi.json",
+    "sha256": "1dab9eae855895c3b1caa1275777693eda07a0572d3f53345209890f7e5115e6"
+  },
+  {
+    "path": "results/thesis_validation/thesis_validation_report.json",
+    "sha256": "cb6530dc406d2c0e740d41d652c45269f6370ef82875b6f9f2acf14b4f55a880"
+  }
+]

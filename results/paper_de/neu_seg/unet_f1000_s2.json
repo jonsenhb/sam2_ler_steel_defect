@@ -1,0 +1,18 @@
+{
+  "dataset": "neu_seg",
+  "method": "unet",
+  "label": "U-Net",
+  "paper": "Ronneberger et al., MICCAI 2015 (backbone: He et al., CVPR 2016)",
+  "frac": 1.0,
+  "n_images": 1200,
+  "seed": 2,
+  "miou_global": 0.7461501390042229,
+  "per_class": {
+    "background": 0.9644645408518951,
+    "patches": 0.647494452857662,
+    "inclusion": 0.824575430256537,
+    "scratches": 0.7663805338984698
+  },
+  "best_epoch": 35,
+  "time_s": 253.7
+}

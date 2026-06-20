@@ -1,0 +1,18 @@
+{
+  "dataset": "neu_seg",
+  "method": "ddsnet_approx",
+  "label": "DDSNet* (UNet-R50+BndLoss)",
+  "paper": "Yin et al., IEEE TIM 2024 (approx. reproduction under our protocol)",
+  "frac": 0.01,
+  "n_images": 12,
+  "seed": 0,
+  "miou_global": 0.17284476930941103,
+  "per_class": {
+    "background": 0.8955490918620996,
+    "patches": 0.0,
+    "inclusion": 0.4105703809155602,
+    "scratches": 0.10796392701267288
+  },
+  "best_epoch": 80,
+  "time_s": 20.6
+}

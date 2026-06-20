@@ -1,0 +1,11 @@
+Method,background,inclusion,patches,scratches,mIoU
+SAM2(frozen)+LoRA+FPN (Ours),96.64,82.33,68.28,77.53,81.19
+U-Net,96.34,81.56,64.42,76.63,79.74
+U-Net (ImageNet),96.62,83.13,66.57,77.07,80.85
+DeepLabV3+,96.44,82.69,63.96,75.55,79.66
+PSPNet,96.27,82.99,64.37,72.97,79.15
+SegFormer,96.46,83.24,63.66,75.95,79.83
+DDSNet* (UNet-R50+BndLoss),96.22,80.87,62.86,76.23,79.05
+MFF-Metal* (UNet++-R34+MultiLoss),96.40,82.75,64.38,76.62,80.04
+SME-DLV3+* (DLV3+-R50),96.50,82.68,63.99,75.49,79.67
+Hybrid-Trans* (UPerNet-MiT-B4),96.41,81.85,62.32,76.96,79.39

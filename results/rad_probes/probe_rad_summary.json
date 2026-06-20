@@ -1,0 +1,45 @@
+{
+  "rows": [
+    {
+      "probe": "rarity",
+      "frac": 0.01,
+      "miou": 51.85713989060723,
+      "patches": 34.576545231456464,
+      "delta_miou": -4.411032661082118,
+      "delta_patches": -0.9589357958677454,
+      "verdict": "NO-GO",
+      "json": "outputs/rad_probes/sam2_lora_rarity_f0010_s0.json"
+    },
+    {
+      "probe": "boundary",
+      "frac": 0.01,
+      "miou": 54.43868751928586,
+      "patches": 36.9409988017006,
+      "delta_miou": -1.8294850324034897,
+      "delta_patches": 1.405517774376392,
+      "verdict": "MAYBE",
+      "json": "outputs/rad_probes/sam2_lora_boundary_f0010_s0.json"
+    },
+    {
+      "probe": "rarity",
+      "frac": 0.1,
+      "miou": 72.39382398437856,
+      "patches": 63.86276395638815,
+      "delta_miou": 0.5759194849805311,
+      "delta_patches": 3.0793925758763194,
+      "verdict": "MAYBE",
+      "json": "outputs/rad_probes/sam2_lora_rarity_f0100_s0.json"
+    },
+    {
+      "probe": "boundary",
+      "frac": 0.1,
+      "miou": 71.77288763379872,
+      "patches": 63.55790614662954,
+      "delta_miou": -0.045016865599308176,
+      "delta_patches": 2.7745347661177107,
+      "verdict": "NO-GO",
+      "json": "outputs/rad_probes/sam2_lora_boundary_f0100_s0.json"
+    }
+  ],
+  "baseline_dir": "outputs/paper_de"
+}

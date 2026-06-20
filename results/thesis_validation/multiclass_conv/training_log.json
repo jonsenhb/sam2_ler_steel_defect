@@ -1,0 +1,130 @@
+{
+  "config": {
+    "dataset": "neu_seg",
+    "data_dir": "data/NEU-Seg",
+    "img_size": 1024,
+    "checkpoint": "checkpoints/sam2.1_hiera_base_plus.pt",
+    "model_cfg": "sam2.1_hiera_b+.yaml",
+    "lora_type": "conv",
+    "lora_rank": 4,
+    "lora_alpha": 4,
+    "epochs": 10,
+    "batch_size": 4,
+    "lr": 0.0001,
+    "weight_decay": 0.01,
+    "output_dir": "outputs/thesis_validation/multiclass_conv"
+  },
+  "best_miou": 0.855447967751937,
+  "results": [
+    {
+      "epoch": 1,
+      "train_miou": 0.6506566856740769,
+      "val_miou": 0.7859995557536615,
+      "per_class": {
+        "background": 0.9641913506246749,
+        "patches": 0.7335338335504797,
+        "inclusion": 0.8962879509258057,
+        "scratches": 0.7281768827847002
+      }
+    },
+    {
+      "epoch": 2,
+      "train_miou": 0.8573960811310359,
+      "val_miou": 0.8063261368870542,
+      "per_class": {
+        "background": 0.9631483068068822,
+        "patches": 0.7694154893143264,
+        "inclusion": 0.9007746750581979,
+        "scratches": 0.7487882462886358
+      }
+    },
+    {
+      "epoch": 3,
+      "train_miou": 0.871497812314324,
+      "val_miou": 0.826892840238906,
+      "per_class": {
+        "background": 0.9667223948098365,
+        "patches": 0.7802066877460805,
+        "inclusion": 0.8610888669261464,
+        "scratches": 0.8393829660444915
+      }
+    },
+    {
+      "epoch": 4,
+      "train_miou": 0.882892063111605,
+      "val_miou": 0.855447967751937,
+      "per_class": {
+        "background": 0.9677517765334674,
+        "patches": 0.8037878471858759,
+        "inclusion": 0.9147244236365769,
+        "scratches": 0.8478316324333617
+      }
+    },
+    {
+      "epoch": 5,
+      "train_miou": 0.8858300284780194,
+      "val_miou": 0.8428071260891249,
+      "per_class": {
+        "background": 0.9657999907930692,
+        "patches": 0.779640998798639,
+        "inclusion": 0.9068437965527144,
+        "scratches": 0.8419365829160238
+      }
+    },
+    {
+      "epoch": 6,
+      "train_miou": 0.8934867513100508,
+      "val_miou": 0.8405468366223064,
+      "per_class": {
+        "background": 0.9628859517829759,
+        "patches": 0.7662083195873388,
+        "inclusion": 0.8863585298322398,
+        "scratches": 0.8690736604473419
+      }
+    },
+    {
+      "epoch": 7,
+      "train_miou": 0.8956998119355579,
+      "val_miou": 0.8351173263866598,
+      "per_class": {
+        "background": 0.9646142052043052,
+        "patches": 0.7366724722568697,
+        "inclusion": 0.9020319010331808,
+        "scratches": 0.8666476058699332
+      }
+    },
+    {
+      "epoch": 8,
+      "train_miou": 0.9035563272422178,
+      "val_miou": 0.841841513417761,
+      "per_class": {
+        "background": 0.96486408497606,
+        "patches": 0.7576475395219826,
+        "inclusion": 0.903065379677848,
+        "scratches": 0.8648116210534521
+      }
+    },
+    {
+      "epoch": 9,
+      "train_miou": 0.9047301541786928,
+      "val_miou": 0.8408154592578546,
+      "per_class": {
+        "background": 0.9643297017330215,
+        "patches": 0.7538633781403561,
+        "inclusion": 0.9038862688770012,
+        "scratches": 0.8646967307562087
+      }
+    },
+    {
+      "epoch": 10,
+      "train_miou": 0.9058994827718546,
+      "val_miou": 0.8367995594765524,
+      "per_class": {
+        "background": 0.9634787658140773,
+        "patches": 0.7411918882220502,
+        "inclusion": 0.901088031569443,
+        "scratches": 0.8681187586381625
+      }
+    }
+  ]
+}

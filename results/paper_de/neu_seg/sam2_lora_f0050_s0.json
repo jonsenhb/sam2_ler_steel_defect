@@ -1,0 +1,18 @@
+{
+  "dataset": "neu_seg",
+  "method": "sam2_lora",
+  "label": "SAM2(frozen)+LoRA+FPN (Ours)",
+  "paper": "SAM2: Ravi et al. 2024; LoRA: Hu et al., ICLR 2022",
+  "frac": 0.05,
+  "n_images": 60,
+  "seed": 0,
+  "miou_global": 0.6976399780246463,
+  "per_class": {
+    "background": 0.9616017339816161,
+    "patches": 0.5558974178134725,
+    "inclusion": 0.7967161181744898,
+    "scratches": 0.7403063980859766
+  },
+  "best_epoch": 13,
+  "time_s": 604.5
+}

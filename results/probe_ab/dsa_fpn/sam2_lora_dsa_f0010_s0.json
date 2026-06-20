@@ -1,0 +1,21 @@
+{
+  "dataset": "neu_seg",
+  "method": "sam2_lora_dsa_f0010_s0",
+  "label": "SAM2+LoRA+DSA-FPN (Probe-B)",
+  "probe": "dsa_fpn",
+  "frac": 0.01,
+  "n_images": 12,
+  "seed": 0,
+  "miou_global": 0.557367243575873,
+  "per_class": {
+    "background": 0.9461392517334168,
+    "patches": 0.33149461604708697,
+    "inclusion": 0.6879077501296899,
+    "scratches": 0.6526993645508422
+  },
+  "best_epoch": 24,
+  "head_params": 464516,
+  "dsa_params": 4800,
+  "time_s": 810.3,
+  "paper_de_protocol": true
+}

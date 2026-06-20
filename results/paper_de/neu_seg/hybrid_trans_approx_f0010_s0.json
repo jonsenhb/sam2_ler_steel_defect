@@ -1,0 +1,18 @@
+{
+  "dataset": "neu_seg",
+  "method": "hybrid_trans_approx",
+  "label": "Hybrid-Trans* (UPerNet-MiT-B4)",
+  "paper": "Sime et al., MTA 2024 (approx. reproduction under our protocol)",
+  "frac": 0.01,
+  "n_images": 12,
+  "seed": 0,
+  "miou_global": 0.24383465625263642,
+  "per_class": {
+    "background": 0.8839399271972161,
+    "patches": 0.0,
+    "inclusion": 0.45885701251945066,
+    "scratches": 0.2726469562384585
+  },
+  "best_epoch": 80,
+  "time_s": 37.7
+}

@@ -1,0 +1,18 @@
+{
+  "dataset": "neu_seg",
+  "method": "mff_metal_approx",
+  "label": "MFF-Metal* (UNet++-R34+MultiLoss)",
+  "paper": "Li et al., J.Supercomputing 2025 (approx. reproduction under our protocol)",
+  "frac": 0.25,
+  "n_images": 300,
+  "seed": 1,
+  "miou_global": 0.7000495277298687,
+  "per_class": {
+    "background": 0.9600231733930024,
+    "patches": 0.549727780214574,
+    "inclusion": 0.8109215263771868,
+    "scratches": 0.7394992765978453
+  },
+  "best_epoch": 70,
+  "time_s": 173.7
+}

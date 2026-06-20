@@ -1,0 +1,22 @@
+{
+  "dataset": "severstal",
+  "method": "defectsam2",
+  "label": "SAM2(frozen)+LoRA+DefectSAM2 (Ours)",
+  "paper": "DefectSAM2: CGFA+MGFA hierarchical adaptation; SAM2: Ravi et al. 2024; LoRA: Hu et al. ICLR 2022; DefectSAM: Yan et al. TNNLS 2025",
+  "frac": 0.05,
+  "n_images": 60,
+  "seed": 0,
+  "miou_global": 0.19412453661752416,
+  "per_class": {
+    "background": 0.9941756476007744,
+    "class1": 0.0,
+    "class2": 0.0,
+    "class3": 0.4056717376470116,
+    "class4": 0.37082640882308504
+  },
+  "best_epoch": 30,
+  "head_params": 580490,
+  "time_s": 930.4,
+  "paper_de_protocol": true,
+  "architecture": "DefectSAM2Head(CGFA+MGFA+FPN)"
+}

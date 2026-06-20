@@ -1,0 +1,19 @@
+{
+  "dataset": "severstal",
+  "method": "ddsnet_approx",
+  "label": "DDSNet* (UNet-R50+BndLoss)",
+  "paper": "Yin et al., IEEE TIM 2024 (approx. reproduction under our protocol)",
+  "frac": 1.0,
+  "n_images": 1200,
+  "seed": 0,
+  "miou_global": 0.18153738954675241,
+  "per_class": {
+    "background": 0.9923221694953945,
+    "class1": 0.0,
+    "class2": 0.0,
+    "class3": 0.3922864204781832,
+    "class4": 0.3338631377088264
+  },
+  "best_epoch": 80,
+  "time_s": 464.8
+}

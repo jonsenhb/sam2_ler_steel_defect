@@ -1,0 +1,7 @@
+Method,mIoU(%),Source/Paper
+FCN,79.83,"Long et al., CVPR 2015 (as reported in Sci.Rep. s41598-025-07550-0)"
+PSPNet,82.52,"Zhao et al., CVPR 2017 (ibid.)"
+DeepLabV3+,82.96,"Chen et al., ECCV 2018 (ibid.)"
+SegFormer,81.15,"Xie et al., NeurIPS 2021 (ibid.)"
+DDSNet,85.12,"as reported in Sci.Rep. s41598-025-07550-0, 2025"
+SOTA (Sci.Rep.2025),87.00,"Sci.Rep. s41598-025-07550-0, 2025 (full data, ImageNet pretrain)"

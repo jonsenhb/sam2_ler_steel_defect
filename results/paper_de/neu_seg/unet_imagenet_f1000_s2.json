@@ -1,0 +1,18 @@
+{
+  "dataset": "neu_seg",
+  "method": "unet_imagenet",
+  "label": "U-Net (ImageNet)",
+  "paper": "Ronneberger et al., MICCAI 2015; ImageNet pretrain: Russakovsky et al., IJCV 2015",
+  "frac": 1.0,
+  "n_images": 1200,
+  "seed": 2,
+  "miou_global": 0.7555648602255539,
+  "per_class": {
+    "background": 0.9654221768385112,
+    "patches": 0.673421546748263,
+    "inclusion": 0.823817318260695,
+    "scratches": 0.7694557156677038
+  },
+  "best_epoch": 30,
+  "time_s": 252.7
+}

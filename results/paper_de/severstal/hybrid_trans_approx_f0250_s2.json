@@ -1,0 +1,19 @@
+{
+  "dataset": "severstal",
+  "method": "hybrid_trans_approx",
+  "label": "Hybrid-Trans* (UPerNet-MiT-B4)",
+  "paper": "Sime et al., MTA 2024 (approx. reproduction under our protocol)",
+  "frac": 0.25,
+  "n_images": 300,
+  "seed": 2,
+  "miou_global": 0.10323441209107524,
+  "per_class": {
+    "background": 0.9899852887461225,
+    "class1": 0.0,
+    "class2": 0.0,
+    "class3": 0.21764542604263265,
+    "class4": 0.19529222232166832
+  },
+  "best_epoch": 80,
+  "time_s": 298.4
+}

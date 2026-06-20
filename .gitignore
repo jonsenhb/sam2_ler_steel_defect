@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*.pt
+*.pth
+checkpoints/
+data/
+datasets/neu_seg/images/
+datasets/severstal/images/
+.env
+.venv/
+*.egg-info/
+.DS_Store

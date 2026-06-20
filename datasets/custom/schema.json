@@ -1,0 +1,22 @@
+{
+  "dataset_name": "custom_steel_line_v1",
+  "description": "Author-collected steel surface defect segmentation dataset",
+  "class_id_to_name": {
+    "0": "background",
+    "1": "defect_type_a",
+    "2": "defect_type_b"
+  },
+  "defect_class_ids": [1, 2],
+  "splits": {
+    "train": {"images": "images/train", "masks": "masks/train"},
+    "val": {"images": "images/val", "masks": "masks/val"}
+  },
+  "capture": {
+    "camera": "TBD",
+    "resolution": [2048, 2048],
+    "color": "gray",
+    "line_speed_mpm": null
+  },
+  "license": "CC-BY-4.0",
+  "version": "0.1.0"
+}

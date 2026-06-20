@@ -1,0 +1,19 @@
+{
+  "dataset": "severstal",
+  "method": "unet",
+  "label": "U-Net",
+  "paper": "Ronneberger et al., MICCAI 2015 (backbone: He et al., CVPR 2016)",
+  "frac": 0.05,
+  "n_images": 60,
+  "seed": 1,
+  "miou_global": 0.07342941551561838,
+  "per_class": {
+    "background": 0.9900853395197898,
+    "class1": 0.0,
+    "class2": 0.0,
+    "class3": 0.26021958408334117,
+    "class4": 0.033498077979132346
+  },
+  "best_epoch": 50,
+  "time_s": 35.0
+}

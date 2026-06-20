@@ -1,0 +1,15 @@
+\begin{table}[t]
+\centering
+\caption{Comparison of PEFT methods on NEU-Seg validation set (best epoch, \%).}
+\label{tab:main}
+\small
+\begin{tabular}{lrrrrrrr}
+\toprule
+Method & Patches IoU (%) & Inclusion IoU (%) & Scratches IoU (%) & mIoU (%) & Params (M) & Best Epoch & Best \\
+\midrule
+Std-LoRA & 80.88 & 90.06 & 86.83 & 85.93 & 0.72 & 13 & ✓ \\
+Conv-LoRA & 77.86 & 90.79 & 87.75 & 85.47 & 0.73 & 12 &  \\
+ASI-Guided (Ours) & 78.06 & 90.09 & 85.64 & 84.60 & 0.90 & 4 &  \\
+\bottomrule
+\end{tabular}
+\end{table}

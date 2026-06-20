@@ -1,0 +1,39 @@
+{
+  "dataset": "neu_seg",
+  "method": "sam2_lora_cb_f0010_s0",
+  "label": "SAM2+LoRA+FPN + CB-PEFT (Probe-A)",
+  "probe": "cb_peft",
+  "frac": 0.01,
+  "n_images": 12,
+  "seed": 0,
+  "miou_global": 0.5433522384767365,
+  "per_class": {
+    "background": 0.9395553231460004,
+    "patches": 0.3542018591510338,
+    "inclusion": 0.6932131586892067,
+    "scratches": 0.582641697589969
+  },
+  "best_epoch": 10,
+  "cb_weights": [
+    0.8571428571428571,
+    0.8571428571428571,
+    1.0714285714285712,
+    1.0714285714285712,
+    1.0714285714285712,
+    0.8571428571428571,
+    1.0714285714285712,
+    1.0714285714285712,
+    1.0714285714285712,
+    1.0714285714285712,
+    0.8571428571428571,
+    1.0714285714285712
+  ],
+  "img_class_counts": {
+    "patches": 4,
+    "inclusion": 5,
+    "scratches": 4
+  },
+  "head_params": 459716,
+  "time_s": 460.2,
+  "paper_de_protocol": true
+}

@@ -1,0 +1,20 @@
+{
+  "dataset": "neu_seg",
+  "method": "sam2_lora_boundary_f0100_s0",
+  "label": "SAM2+LoRA + Boundary-weighted CE (Probe-2)",
+  "loss_mode": "boundary",
+  "frac": 0.1,
+  "n_images": 120,
+  "seed": 0,
+  "miou_global": 0.7177288763379872,
+  "per_class": {
+    "background": 0.9604689309360747,
+    "patches": 0.6355790614662954,
+    "inclusion": 0.7846640240773576,
+    "scratches": 0.7329435434703085
+  },
+  "best_epoch": 8,
+  "class_weights": null,
+  "time_s": 513.4,
+  "paper_de_protocol": true
+}

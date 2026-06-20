@@ -1,0 +1,19 @@
+{
+  "dataset": "severstal",
+  "method": "pspnet",
+  "label": "PSPNet",
+  "paper": "Zhao et al., CVPR 2017 (backbone: He et al., CVPR 2016)",
+  "frac": 0.1,
+  "n_images": 120,
+  "seed": 0,
+  "miou_global": 0.0909674133105314,
+  "per_class": {
+    "background": 0.9909274117902719,
+    "class1": 0.0012487512487512488,
+    "class2": 0.0,
+    "class3": 0.25036585071913336,
+    "class4": 0.11225505127424104
+  },
+  "best_epoch": 60,
+  "time_s": 43.8
+}
